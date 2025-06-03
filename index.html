@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLOps Platform v3.0 - asarekings</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+        }
+        .container { max-width: 900px; text-align: center; padding: 20px; }
+        .title { font-size: 4em; margin-bottom: 20px; text-shadow: 3px 3px 6px rgba(0,0,0,0.4); animation: glow 2s ease-in-out infinite alternate; }
+        .subtitle { font-size: 1.4em; margin-bottom: 30px; opacity: 0.9; }
+        .status-card { 
+            background: rgba(0,255,0,0.15); 
+            border: 2px solid rgba(0,255,0,0.3);
+            padding: 25px; 
+            border-radius: 15px; 
+            margin: 30px 0;
+            backdrop-filter: blur(10px);
+        }
+        .status-title { font-size: 1.8em; color: #00ff00; margin-bottom: 15px; }
+        .info-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+            gap: 15px; 
+            margin: 20px 0; 
+        }
+        .info-item { 
+            background: rgba(255,255,255,0.1); 
+            padding: 15px; 
+            border-radius: 10px; 
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .links { margin: 40px 0; }
+        .btn { 
+            display: inline-block; 
+            padding: 15px 30px; 
+            margin: 10px; 
+            background: rgba(255,255,255,0.2); 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 25px; 
+            border: 1px solid rgba(255,255,255,0.3);
+            font-weight: 600;
+            transition: all 0.3s ease;
+            font-size: 1.1em;
+        }
+        .btn:hover { 
+            background: rgba(255,255,255,0.3); 
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        .footer { 
+            margin-top: 40px; 
+            padding-top: 30px; 
+            border-top: 1px solid rgba(255,255,255,0.2);
+            opacity: 0.9;
+        }
+        .tech-stack {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 25px 0;
+        }
+        .tech-item {
+            background: rgba(255,255,255,0.15);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        @keyframes glow {
+            from { text-shadow: 3px 3px 6px rgba(0,0,0,0.4), 0 0 10px rgba(255,255,255,0.2); }
+            to { text-shadow: 3px 3px 6px rgba(0,0,0,0.4), 0 0 20px rgba(255,255,255,0.4), 0 0 30px rgba(102,126,234,0.3); }
+        }
+        @media (max-width: 768px) {
+            .title { font-size: 2.5em; }
+            .container { padding: 15px; }
+            .info-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">🚀 MLOps Platform v3.0</h1>
+        <p class="subtitle">Enterprise-Grade Machine Learning Operations Platform</p>
+        <p class="subtitle">Developed by <strong>asarekings</strong> 🏆</p>
+        
+        <div class="status-card">
+            <div class="status-title">✅ SYSTEM STATUS: OPERATIONAL</div>
+            <div class="info-grid">
+                <div class="info-item">
+                    <div style="font-weight: bold; color: #ffd700;">📅 Deployed</div>
+                    <div>2025-06-03 23:54:19 UTC</div>
+                </div>
+                <div class="info-item">
+                    <div style="font-weight: bold; color: #ffd700;">👤 Developer</div>
+                    <div>asarekings</div>
+                </div>
+                <div class="info-item">
+                    <div style="font-weight: bold; color: #ffd700;">🌐 Platform</div>
+                    <div>GitHub Pages</div>
+                </div>
+                <div class="info-item">
+                    <div style="font-weight: bold; color: #ffd700;">⚙️ CI/CD</div>
+                    <div>GitHub Actions</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="tech-stack">
+            <span class="tech-item">🐍 Python 3.13</span>
+            <span class="tech-item">⚡ FastAPI</span>
+            <span class="tech-item">🤖 Scikit-Learn</span>
+            <span class="tech-item">🐳 Docker</span>
+            <span class="tech-item">⚙️ GitHub Actions</span>
+            <span class="tech-item">🌐 GitHub Pages</span>
+        </div>
+        
+        <div class="links">
+            <a href="https://github.com/asarekings/mlops-platform" class="btn">📱 Repository</a>
+            <a href="https://github.com/asarekings/mlops-platform#readme" class="btn">📚 Documentation</a>
+            <a href="https://github.com/asarekings/mlops-platform/actions" class="btn">⚙️ CI/CD Pipeline</a>
+            <a href="https://github.com/asarekings" class="btn">👤 Profile</a>
+        </div>
+        
+        <div class="footer">
+            <h3 style="color: #ffd700; margin-bottom: 15px;">🏆 Enterprise MLOps Platform</h3>
+            <p style="font-size: 1.1em; margin-bottom: 10px;">
+                Professional-grade machine learning operations platform showcasing advanced DevOps practices
+            </p>
+            <p style="opacity: 0.8;">
+                📧 <strong>Contact:</strong> kingstune7@gmail.com<br>
+                🌟 <strong>Specialization:</strong> MLOps, DevOps, Cloud Infrastructure<br>
+                📍 <strong>Status:</strong> Ready for Enterprise Deployment
+            </p>
+        </div>
+    </div>
+</body>
+</html>
