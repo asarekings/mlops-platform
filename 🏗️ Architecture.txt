@@ -1,0 +1,13 @@
+mlops-platform/
+├── 📁 src/
+│   ├── 📁 api/           # FastAPI application
+│   ├── 📁 ml/            # Machine learning models
+│   ├── 📁 monitoring/    # Performance monitoring
+│   ├── 📁 automation/    # Automated pipelines
+│   └── 📁 versioning/    # Model version control
+├── 📁 data/              # Dataset storage
+├── 📁 models/            # Trained model files
+├── 📁 model_versions/    # Version control storage
+├── 📁 logs/              # Application logs
+├── 📁 docs/              # Documentation
+└── 📁 deployment/        # Deployment scripts

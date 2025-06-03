@@ -1,0 +1,7002 @@
+[
+  {
+    "timestamp": "2025-04-22T12:39:37.302769",
+    "value": 108.55,
+    "trend": 0.0,
+    "seasonal": 10.0,
+    "noise": -1.45
+  },
+  {
+    "timestamp": "2025-04-22T13:39:37.302825",
+    "value": 106.36,
+    "trend": 0.1,
+    "seasonal": 10.21,
+    "noise": -3.95
+  },
+  {
+    "timestamp": "2025-04-22T14:39:37.302851",
+    "value": 108.39,
+    "trend": 0.2,
+    "seasonal": 10.42,
+    "noise": -2.22
+  },
+  {
+    "timestamp": "2025-04-22T15:39:37.302872",
+    "value": 113.34,
+    "trend": 0.3,
+    "seasonal": 10.62,
+    "noise": 2.42
+  },
+  {
+    "timestamp": "2025-04-22T16:39:37.302894",
+    "value": 110.38,
+    "trend": 0.4,
+    "seasonal": 10.83,
+    "noise": -0.86
+  },
+  {
+    "timestamp": "2025-04-22T17:39:37.302914",
+    "value": 116.05,
+    "trend": 0.5,
+    "seasonal": 11.04,
+    "noise": 4.51
+  },
+  {
+    "timestamp": "2025-04-22T18:39:37.302934",
+    "value": 107.62,
+    "trend": 0.6,
+    "seasonal": 11.25,
+    "noise": -4.23
+  },
+  {
+    "timestamp": "2025-04-22T19:39:37.302954",
+    "value": 111.24,
+    "trend": 0.7,
+    "seasonal": 11.46,
+    "noise": -0.92
+  },
+  {
+    "timestamp": "2025-04-22T20:39:37.302973",
+    "value": 111.49,
+    "trend": 0.8,
+    "seasonal": 11.67,
+    "noise": -0.98
+  },
+  {
+    "timestamp": "2025-04-22T21:39:37.302993",
+    "value": 112.37,
+    "trend": 0.9,
+    "seasonal": 11.88,
+    "noise": -0.41
+  },
+  {
+    "timestamp": "2025-04-22T22:39:37.303013",
+    "value": 111.85,
+    "trend": 1.0,
+    "seasonal": 12.08,
+    "noise": -1.24
+  },
+  {
+    "timestamp": "2025-04-22T23:39:37.303033",
+    "value": 108.49,
+    "trend": 1.1,
+    "seasonal": 12.29,
+    "noise": -4.9
+  },
+  {
+    "timestamp": "2025-04-23T00:39:37.303067",
+    "value": 109.62,
+    "trend": 1.2,
+    "seasonal": 12.5,
+    "noise": -4.08
+  },
+  {
+    "timestamp": "2025-04-23T01:39:37.303086",
+    "value": 112.34,
+    "trend": 1.3,
+    "seasonal": 12.71,
+    "noise": -1.67
+  },
+  {
+    "timestamp": "2025-04-23T02:39:37.303106",
+    "value": 116.48,
+    "trend": 1.4,
+    "seasonal": 12.92,
+    "noise": 2.16
+  },
+  {
+    "timestamp": "2025-04-23T03:39:37.303126",
+    "value": 111.97,
+    "trend": 1.5,
+    "seasonal": 13.12,
+    "noise": -2.65
+  },
+  {
+    "timestamp": "2025-04-23T04:39:37.303146",
+    "value": 119.88,
+    "trend": 1.6,
+    "seasonal": 13.33,
+    "noise": 4.95
+  },
+  {
+    "timestamp": "2025-04-23T05:39:37.303165",
+    "value": 117.93,
+    "trend": 1.7,
+    "seasonal": 13.54,
+    "noise": 2.69
+  },
+  {
+    "timestamp": "2025-04-23T06:39:37.303184",
+    "value": 110.56,
+    "trend": 1.8,
+    "seasonal": 13.75,
+    "noise": -4.99
+  },
+  {
+    "timestamp": "2025-04-23T07:39:37.303203",
+    "value": 112.71,
+    "trend": 1.9,
+    "seasonal": 13.96,
+    "noise": -3.15
+  },
+  {
+    "timestamp": "2025-04-23T08:39:37.303222",
+    "value": 117.71,
+    "trend": 2.0,
+    "seasonal": 14.17,
+    "noise": 1.54
+  },
+  {
+    "timestamp": "2025-04-23T09:39:37.303243",
+    "value": 114.9,
+    "trend": 2.1,
+    "seasonal": 14.38,
+    "noise": -1.58
+  },
+  {
+    "timestamp": "2025-04-23T10:39:37.303262",
+    "value": 115.57,
+    "trend": 2.2,
+    "seasonal": 14.58,
+    "noise": -1.22
+  },
+  {
+    "timestamp": "2025-04-23T11:39:37.303282",
+    "value": 115.13,
+    "trend": 2.3,
+    "seasonal": 14.79,
+    "noise": -1.96
+  },
+  {
+    "timestamp": "2025-04-23T12:39:37.303302",
+    "value": 111.1,
+    "trend": 2.4,
+    "seasonal": 10.0,
+    "noise": -1.3
+  },
+  {
+    "timestamp": "2025-04-23T13:39:37.303323",
+    "value": 116.15,
+    "trend": 2.5,
+    "seasonal": 10.21,
+    "noise": 3.44
+  },
+  {
+    "timestamp": "2025-04-23T14:39:37.303343",
+    "value": 116.48,
+    "trend": 2.6,
+    "seasonal": 10.42,
+    "noise": 3.46
+  },
+  {
+    "timestamp": "2025-04-23T15:39:37.303370",
+    "value": 116.7,
+    "trend": 2.7,
+    "seasonal": 10.62,
+    "noise": 3.38
+  },
+  {
+    "timestamp": "2025-04-23T16:39:37.303398",
+    "value": 112.58,
+    "trend": 2.8,
+    "seasonal": 10.83,
+    "noise": -1.05
+  },
+  {
+    "timestamp": "2025-04-23T17:39:37.303417",
+    "value": 116.4,
+    "trend": 2.9,
+    "seasonal": 11.04,
+    "noise": 2.46
+  },
+  {
+    "timestamp": "2025-04-23T18:39:37.303435",
+    "value": 118.07,
+    "trend": 3.0,
+    "seasonal": 11.25,
+    "noise": 3.82
+  },
+  {
+    "timestamp": "2025-04-23T19:39:37.303456",
+    "value": 116.81,
+    "trend": 3.1,
+    "seasonal": 11.46,
+    "noise": 2.25
+  },
+  {
+    "timestamp": "2025-04-23T20:39:37.303474",
+    "value": 115.75,
+    "trend": 3.2,
+    "seasonal": 11.67,
+    "noise": 0.88
+  },
+  {
+    "timestamp": "2025-04-23T21:39:37.303493",
+    "value": 114.94,
+    "trend": 3.3,
+    "seasonal": 11.88,
+    "noise": -0.23
+  },
+  {
+    "timestamp": "2025-04-23T22:39:37.303513",
+    "value": 120.22,
+    "trend": 3.4,
+    "seasonal": 12.08,
+    "noise": 4.74
+  },
+  {
+    "timestamp": "2025-04-23T23:39:37.303532",
+    "value": 111.63,
+    "trend": 3.5,
+    "seasonal": 12.29,
+    "noise": -4.16
+  },
+  {
+    "timestamp": "2025-04-24T00:39:37.303551",
+    "value": 111.69,
+    "trend": 3.6,
+    "seasonal": 12.5,
+    "noise": -4.41
+  },
+  {
+    "timestamp": "2025-04-24T01:39:37.303570",
+    "value": 111.44,
+    "trend": 3.7,
+    "seasonal": 12.71,
+    "noise": -4.97
+  },
+  {
+    "timestamp": "2025-04-24T02:39:37.303589",
+    "value": 116.91,
+    "trend": 3.8,
+    "seasonal": 12.92,
+    "noise": 0.2
+  },
+  {
+    "timestamp": "2025-04-24T03:39:37.303608",
+    "value": 118.17,
+    "trend": 3.9,
+    "seasonal": 13.12,
+    "noise": 1.14
+  },
+  {
+    "timestamp": "2025-04-24T04:39:37.303628",
+    "value": 120.26,
+    "trend": 4.0,
+    "seasonal": 13.33,
+    "noise": 2.92
+  },
+  {
+    "timestamp": "2025-04-24T05:39:37.303647",
+    "value": 120.66,
+    "trend": 4.1,
+    "seasonal": 13.54,
+    "noise": 3.02
+  },
+  {
+    "timestamp": "2025-04-24T06:39:37.303667",
+    "value": 114.47,
+    "trend": 4.2,
+    "seasonal": 13.75,
+    "noise": -3.48
+  },
+  {
+    "timestamp": "2025-04-24T07:39:37.303687",
+    "value": 115.69,
+    "trend": 4.3,
+    "seasonal": 13.96,
+    "noise": -2.56
+  },
+  {
+    "timestamp": "2025-04-24T08:39:37.303711",
+    "value": 119.69,
+    "trend": 4.4,
+    "seasonal": 14.17,
+    "noise": 1.12
+  },
+  {
+    "timestamp": "2025-04-24T09:39:37.303736",
+    "value": 116.84,
+    "trend": 4.5,
+    "seasonal": 14.38,
+    "noise": -2.03
+  },
+  {
+    "timestamp": "2025-04-24T10:39:37.303757",
+    "value": 122.91,
+    "trend": 4.6,
+    "seasonal": 14.58,
+    "noise": 3.72
+  },
+  {
+    "timestamp": "2025-04-24T11:39:37.303776",
+    "value": 122.1,
+    "trend": 4.7,
+    "seasonal": 14.79,
+    "noise": 2.61
+  },
+  {
+    "timestamp": "2025-04-24T12:39:37.303796",
+    "value": 111.66,
+    "trend": 4.8,
+    "seasonal": 10.0,
+    "noise": -3.14
+  },
+  {
+    "timestamp": "2025-04-24T13:39:37.303815",
+    "value": 113.21,
+    "trend": 4.9,
+    "seasonal": 10.21,
+    "noise": -1.89
+  },
+  {
+    "timestamp": "2025-04-24T14:39:37.303835",
+    "value": 115.27,
+    "trend": 5.0,
+    "seasonal": 10.42,
+    "noise": -0.15
+  },
+  {
+    "timestamp": "2025-04-24T15:39:37.303854",
+    "value": 110.96,
+    "trend": 5.1,
+    "seasonal": 10.62,
+    "noise": -4.77
+  },
+  {
+    "timestamp": "2025-04-24T16:39:37.303874",
+    "value": 115.21,
+    "trend": 5.2,
+    "seasonal": 10.83,
+    "noise": -0.82
+  },
+  {
+    "timestamp": "2025-04-24T17:39:37.303894",
+    "value": 112.32,
+    "trend": 5.3,
+    "seasonal": 11.04,
+    "noise": -4.02
+  },
+  {
+    "timestamp": "2025-04-24T18:39:37.303914",
+    "value": 115.4,
+    "trend": 5.4,
+    "seasonal": 11.25,
+    "noise": -1.25
+  },
+  {
+    "timestamp": "2025-04-24T19:39:37.303933",
+    "value": 120.29,
+    "trend": 5.5,
+    "seasonal": 11.46,
+    "noise": 3.33
+  },
+  {
+    "timestamp": "2025-04-24T20:39:37.303952",
+    "value": 114.47,
+    "trend": 5.6,
+    "seasonal": 11.67,
+    "noise": -2.8
+  },
+  {
+    "timestamp": "2025-04-24T21:39:37.303972",
+    "value": 120.95,
+    "trend": 5.7,
+    "seasonal": 11.88,
+    "noise": 3.37
+  },
+  {
+    "timestamp": "2025-04-24T22:39:37.303992",
+    "value": 117.51,
+    "trend": 5.8,
+    "seasonal": 12.08,
+    "noise": -0.37
+  },
+  {
+    "timestamp": "2025-04-24T23:39:37.304017",
+    "value": 121.56,
+    "trend": 5.9,
+    "seasonal": 12.29,
+    "noise": 3.36
+  },
+  {
+    "timestamp": "2025-04-25T00:39:37.304036",
+    "value": 121.41,
+    "trend": 6.0,
+    "seasonal": 12.5,
+    "noise": 2.91
+  },
+  {
+    "timestamp": "2025-04-25T01:39:37.304056",
+    "value": 117.03,
+    "trend": 6.1,
+    "seasonal": 12.71,
+    "noise": -1.78
+  },
+  {
+    "timestamp": "2025-04-25T02:39:37.304075",
+    "value": 121.88,
+    "trend": 6.2,
+    "seasonal": 12.92,
+    "noise": 2.76
+  },
+  {
+    "timestamp": "2025-04-25T03:39:37.304095",
+    "value": 123.16,
+    "trend": 6.3,
+    "seasonal": 13.12,
+    "noise": 3.74
+  },
+  {
+    "timestamp": "2025-04-25T04:39:37.304114",
+    "value": 116.38,
+    "trend": 6.4,
+    "seasonal": 13.33,
+    "noise": -3.35
+  },
+  {
+    "timestamp": "2025-04-25T05:39:37.304137",
+    "value": 121.01,
+    "trend": 6.5,
+    "seasonal": 13.54,
+    "noise": 0.96
+  },
+  {
+    "timestamp": "2025-04-25T06:39:37.304157",
+    "value": 124.86,
+    "trend": 6.6,
+    "seasonal": 13.75,
+    "noise": 4.51
+  },
+  {
+    "timestamp": "2025-04-25T07:39:37.304177",
+    "value": 122.75,
+    "trend": 6.7,
+    "seasonal": 13.96,
+    "noise": 2.09
+  },
+  {
+    "timestamp": "2025-04-25T08:39:37.304196",
+    "value": 116.67,
+    "trend": 6.8,
+    "seasonal": 14.17,
+    "noise": -4.3
+  },
+  {
+    "timestamp": "2025-04-25T09:39:37.304215",
+    "value": 125.18,
+    "trend": 6.9,
+    "seasonal": 14.38,
+    "noise": 3.91
+  },
+  {
+    "timestamp": "2025-04-25T10:39:37.304235",
+    "value": 120.76,
+    "trend": 7.0,
+    "seasonal": 14.58,
+    "noise": -0.82
+  },
+  {
+    "timestamp": "2025-04-25T11:39:37.304254",
+    "value": 122.68,
+    "trend": 7.1,
+    "seasonal": 14.79,
+    "noise": 0.79
+  },
+  {
+    "timestamp": "2025-04-25T12:39:37.304274",
+    "value": 112.82,
+    "trend": 7.2,
+    "seasonal": 10.0,
+    "noise": -4.38
+  },
+  {
+    "timestamp": "2025-04-25T13:39:37.304294",
+    "value": 118.26,
+    "trend": 7.3,
+    "seasonal": 10.21,
+    "noise": 0.76
+  },
+  {
+    "timestamp": "2025-04-25T14:39:37.304313",
+    "value": 119.31,
+    "trend": 7.4,
+    "seasonal": 10.42,
+    "noise": 1.49
+  },
+  {
+    "timestamp": "2025-04-25T15:39:37.304332",
+    "value": 114.24,
+    "trend": 7.5,
+    "seasonal": 10.62,
+    "noise": -3.89
+  },
+  {
+    "timestamp": "2025-04-25T16:39:37.304353",
+    "value": 122.11,
+    "trend": 7.6,
+    "seasonal": 10.83,
+    "noise": 3.68
+  },
+  {
+    "timestamp": "2025-04-25T17:39:37.304381",
+    "value": 118.53,
+    "trend": 7.7,
+    "seasonal": 11.04,
+    "noise": -0.21
+  },
+  {
+    "timestamp": "2025-04-25T18:39:37.304401",
+    "value": 122.64,
+    "trend": 7.8,
+    "seasonal": 11.25,
+    "noise": 3.59
+  },
+  {
+    "timestamp": "2025-04-25T19:39:37.304420",
+    "value": 114.86,
+    "trend": 7.9,
+    "seasonal": 11.46,
+    "noise": -4.5
+  },
+  {
+    "timestamp": "2025-04-25T20:39:37.304439",
+    "value": 118.65,
+    "trend": 8.0,
+    "seasonal": 11.67,
+    "noise": -1.02
+  },
+  {
+    "timestamp": "2025-04-25T21:39:37.304458",
+    "value": 118.95,
+    "trend": 8.1,
+    "seasonal": 11.88,
+    "noise": -1.03
+  },
+  {
+    "timestamp": "2025-04-25T22:39:37.304478",
+    "value": 115.83,
+    "trend": 8.2,
+    "seasonal": 12.08,
+    "noise": -4.45
+  },
+  {
+    "timestamp": "2025-04-25T23:39:37.304498",
+    "value": 119.93,
+    "trend": 8.3,
+    "seasonal": 12.29,
+    "noise": -0.67
+  },
+  {
+    "timestamp": "2025-04-26T00:39:37.304517",
+    "value": 124.6,
+    "trend": 8.4,
+    "seasonal": 12.5,
+    "noise": 3.7
+  },
+  {
+    "timestamp": "2025-04-26T01:39:37.304537",
+    "value": 116.79,
+    "trend": 8.5,
+    "seasonal": 12.71,
+    "noise": -4.42
+  },
+  {
+    "timestamp": "2025-04-26T02:39:37.304556",
+    "value": 122.28,
+    "trend": 8.6,
+    "seasonal": 12.92,
+    "noise": 0.76
+  },
+  {
+    "timestamp": "2025-04-26T03:39:37.304609",
+    "value": 119.52,
+    "trend": 8.7,
+    "seasonal": 13.12,
+    "noise": -2.31
+  },
+  {
+    "timestamp": "2025-04-26T04:39:37.304631",
+    "value": 118.33,
+    "trend": 8.8,
+    "seasonal": 13.33,
+    "noise": -3.8
+  },
+  {
+    "timestamp": "2025-04-26T05:39:37.304653",
+    "value": 124.01,
+    "trend": 8.9,
+    "seasonal": 13.54,
+    "noise": 1.57
+  },
+  {
+    "timestamp": "2025-04-26T06:39:37.304673",
+    "value": 123.49,
+    "trend": 9.0,
+    "seasonal": 13.75,
+    "noise": 0.74
+  },
+  {
+    "timestamp": "2025-04-26T07:39:37.304693",
+    "value": 126.61,
+    "trend": 9.1,
+    "seasonal": 13.96,
+    "noise": 3.55
+  },
+  {
+    "timestamp": "2025-04-26T08:39:37.304712",
+    "value": 123.06,
+    "trend": 9.2,
+    "seasonal": 14.17,
+    "noise": -0.31
+  },
+  {
+    "timestamp": "2025-04-26T09:39:37.304739",
+    "value": 124.76,
+    "trend": 9.3,
+    "seasonal": 14.38,
+    "noise": 1.09
+  },
+  {
+    "timestamp": "2025-04-26T10:39:37.304761",
+    "value": 125.73,
+    "trend": 9.4,
+    "seasonal": 14.58,
+    "noise": 1.75
+  },
+  {
+    "timestamp": "2025-04-26T11:39:37.304781",
+    "value": 120.33,
+    "trend": 9.5,
+    "seasonal": 14.79,
+    "noise": -3.96
+  },
+  {
+    "timestamp": "2025-04-26T12:39:37.304813",
+    "value": 120.35,
+    "trend": 9.6,
+    "seasonal": 10.0,
+    "noise": 0.75
+  },
+  {
+    "timestamp": "2025-04-26T13:39:37.304835",
+    "value": 117.76,
+    "trend": 9.7,
+    "seasonal": 10.21,
+    "noise": -2.15
+  },
+  {
+    "timestamp": "2025-04-26T14:39:37.304856",
+    "value": 119.65,
+    "trend": 9.8,
+    "seasonal": 10.42,
+    "noise": -0.57
+  },
+  {
+    "timestamp": "2025-04-26T15:39:37.304875",
+    "value": 121.2,
+    "trend": 9.9,
+    "seasonal": 10.62,
+    "noise": 0.68
+  },
+  {
+    "timestamp": "2025-04-26T16:39:37.304895",
+    "value": 122.05,
+    "trend": 10.0,
+    "seasonal": 10.83,
+    "noise": 1.22
+  },
+  {
+    "timestamp": "2025-04-26T17:39:37.304915",
+    "value": 122.87,
+    "trend": 10.1,
+    "seasonal": 11.04,
+    "noise": 1.73
+  },
+  {
+    "timestamp": "2025-04-26T18:39:37.304934",
+    "value": 121.95,
+    "trend": 10.2,
+    "seasonal": 11.25,
+    "noise": 0.5
+  },
+  {
+    "timestamp": "2025-04-26T19:39:37.304954",
+    "value": 119.47,
+    "trend": 10.3,
+    "seasonal": 11.46,
+    "noise": -2.29
+  },
+  {
+    "timestamp": "2025-04-26T20:39:37.304975",
+    "value": 121.27,
+    "trend": 10.4,
+    "seasonal": 11.67,
+    "noise": -0.8
+  },
+  {
+    "timestamp": "2025-04-26T21:39:37.304995",
+    "value": 118.07,
+    "trend": 10.5,
+    "seasonal": 11.88,
+    "noise": -4.31
+  },
+  {
+    "timestamp": "2025-04-26T22:39:37.305015",
+    "value": 119.17,
+    "trend": 10.6,
+    "seasonal": 12.08,
+    "noise": -3.51
+  },
+  {
+    "timestamp": "2025-04-26T23:39:37.305035",
+    "value": 124.04,
+    "trend": 10.7,
+    "seasonal": 12.29,
+    "noise": 1.05
+  },
+  {
+    "timestamp": "2025-04-27T00:39:37.305054",
+    "value": 127.6,
+    "trend": 10.8,
+    "seasonal": 12.5,
+    "noise": 4.3
+  },
+  {
+    "timestamp": "2025-04-27T01:39:37.305078",
+    "value": 120.8,
+    "trend": 10.9,
+    "seasonal": 12.71,
+    "noise": -2.81
+  },
+  {
+    "timestamp": "2025-04-27T02:39:37.305098",
+    "value": 124.05,
+    "trend": 11.0,
+    "seasonal": 12.92,
+    "noise": 0.13
+  },
+  {
+    "timestamp": "2025-04-27T03:39:37.305119",
+    "value": 126.73,
+    "trend": 11.1,
+    "seasonal": 13.12,
+    "noise": 2.51
+  },
+  {
+    "timestamp": "2025-04-27T04:39:37.305138",
+    "value": 124.94,
+    "trend": 11.2,
+    "seasonal": 13.33,
+    "noise": 0.41
+  },
+  {
+    "timestamp": "2025-04-27T05:39:37.305158",
+    "value": 122.95,
+    "trend": 11.3,
+    "seasonal": 13.54,
+    "noise": -1.89
+  },
+  {
+    "timestamp": "2025-04-27T06:39:37.305177",
+    "value": 124.84,
+    "trend": 11.4,
+    "seasonal": 13.75,
+    "noise": -0.31
+  },
+  {
+    "timestamp": "2025-04-27T07:39:37.305196",
+    "value": 128.95,
+    "trend": 11.5,
+    "seasonal": 13.96,
+    "noise": 3.5
+  },
+  {
+    "timestamp": "2025-04-27T08:39:37.305215",
+    "value": 126.16,
+    "trend": 11.6,
+    "seasonal": 14.17,
+    "noise": 0.39
+  },
+  {
+    "timestamp": "2025-04-27T09:39:37.305234",
+    "value": 130.14,
+    "trend": 11.7,
+    "seasonal": 14.38,
+    "noise": 4.06
+  },
+  {
+    "timestamp": "2025-04-27T10:39:37.305255",
+    "value": 122.91,
+    "trend": 11.8,
+    "seasonal": 14.58,
+    "noise": -3.47
+  },
+  {
+    "timestamp": "2025-04-27T11:39:37.305274",
+    "value": 129.47,
+    "trend": 11.9,
+    "seasonal": 14.79,
+    "noise": 2.78
+  },
+  {
+    "timestamp": "2025-04-27T12:39:37.305294",
+    "value": 121.55,
+    "trend": 12.0,
+    "seasonal": 10.0,
+    "noise": -0.45
+  },
+  {
+    "timestamp": "2025-04-27T13:39:37.305315",
+    "value": 123.53,
+    "trend": 12.1,
+    "seasonal": 10.21,
+    "noise": 1.22
+  },
+  {
+    "timestamp": "2025-04-27T14:39:37.305333",
+    "value": 127.48,
+    "trend": 12.2,
+    "seasonal": 10.42,
+    "noise": 4.86
+  },
+  {
+    "timestamp": "2025-04-27T15:39:37.305353",
+    "value": 125.33,
+    "trend": 12.3,
+    "seasonal": 10.62,
+    "noise": 2.41
+  },
+  {
+    "timestamp": "2025-04-27T16:39:37.305507",
+    "value": 123.61,
+    "trend": 12.4,
+    "seasonal": 10.83,
+    "noise": 0.38
+  },
+  {
+    "timestamp": "2025-04-27T17:39:37.305547",
+    "value": 122.85,
+    "trend": 12.5,
+    "seasonal": 11.04,
+    "noise": -0.69
+  },
+  {
+    "timestamp": "2025-04-27T18:39:37.305569",
+    "value": 120.62,
+    "trend": 12.6,
+    "seasonal": 11.25,
+    "noise": -3.23
+  },
+  {
+    "timestamp": "2025-04-27T19:39:37.305719",
+    "value": 129.02,
+    "trend": 12.7,
+    "seasonal": 11.46,
+    "noise": 4.87
+  },
+  {
+    "timestamp": "2025-04-27T20:39:37.305761",
+    "value": 128.67,
+    "trend": 12.8,
+    "seasonal": 11.67,
+    "noise": 4.21
+  },
+  {
+    "timestamp": "2025-04-27T21:39:37.305832",
+    "value": 121.65,
+    "trend": 12.9,
+    "seasonal": 11.88,
+    "noise": -3.13
+  },
+  {
+    "timestamp": "2025-04-27T22:39:37.305863",
+    "value": 127.04,
+    "trend": 13.0,
+    "seasonal": 12.08,
+    "noise": 1.96
+  },
+  {
+    "timestamp": "2025-04-27T23:39:37.305886",
+    "value": 120.51,
+    "trend": 13.1,
+    "seasonal": 12.29,
+    "noise": -4.88
+  },
+  {
+    "timestamp": "2025-04-28T00:39:37.305909",
+    "value": 128.49,
+    "trend": 13.2,
+    "seasonal": 12.5,
+    "noise": 2.79
+  },
+  {
+    "timestamp": "2025-04-28T01:39:37.305931",
+    "value": 121.37,
+    "trend": 13.3,
+    "seasonal": 12.71,
+    "noise": -4.64
+  },
+  {
+    "timestamp": "2025-04-28T02:39:37.305952",
+    "value": 128.45,
+    "trend": 13.4,
+    "seasonal": 12.92,
+    "noise": 2.13
+  },
+  {
+    "timestamp": "2025-04-28T03:39:37.305973",
+    "value": 122.27,
+    "trend": 13.5,
+    "seasonal": 13.12,
+    "noise": -4.35
+  },
+  {
+    "timestamp": "2025-04-28T04:39:37.305994",
+    "value": 125.18,
+    "trend": 13.6,
+    "seasonal": 13.33,
+    "noise": -1.76
+  },
+  {
+    "timestamp": "2025-04-28T05:39:37.306015",
+    "value": 127.12,
+    "trend": 13.7,
+    "seasonal": 13.54,
+    "noise": -0.12
+  },
+  {
+    "timestamp": "2025-04-28T06:39:37.306036",
+    "value": 125.88,
+    "trend": 13.8,
+    "seasonal": 13.75,
+    "noise": -1.67
+  },
+  {
+    "timestamp": "2025-04-28T07:39:37.306147",
+    "value": 132.74,
+    "trend": 13.9,
+    "seasonal": 13.96,
+    "noise": 4.88
+  },
+  {
+    "timestamp": "2025-04-28T08:39:37.306338",
+    "value": 123.33,
+    "trend": 14.0,
+    "seasonal": 14.17,
+    "noise": -4.84
+  },
+  {
+    "timestamp": "2025-04-28T09:39:37.306351",
+    "value": 131.6,
+    "trend": 14.1,
+    "seasonal": 14.38,
+    "noise": 3.12
+  },
+  {
+    "timestamp": "2025-04-28T10:39:37.306362",
+    "value": 125.73,
+    "trend": 14.2,
+    "seasonal": 14.58,
+    "noise": -3.06
+  },
+  {
+    "timestamp": "2025-04-28T11:39:37.306374",
+    "value": 131.7,
+    "trend": 14.3,
+    "seasonal": 14.79,
+    "noise": 2.61
+  },
+  {
+    "timestamp": "2025-04-28T12:39:37.306398",
+    "value": 128.81,
+    "trend": 14.4,
+    "seasonal": 10.0,
+    "noise": 4.41
+  },
+  {
+    "timestamp": "2025-04-28T13:39:37.306409",
+    "value": 123.55,
+    "trend": 14.5,
+    "seasonal": 10.21,
+    "noise": -1.15
+  },
+  {
+    "timestamp": "2025-04-28T14:39:37.306418",
+    "value": 128.6,
+    "trend": 14.6,
+    "seasonal": 10.42,
+    "noise": 3.58
+  },
+  {
+    "timestamp": "2025-04-28T15:39:37.306439",
+    "value": 127.59,
+    "trend": 14.7,
+    "seasonal": 10.62,
+    "noise": 2.27
+  },
+  {
+    "timestamp": "2025-04-28T16:39:37.306449",
+    "value": 121.51,
+    "trend": 14.8,
+    "seasonal": 10.83,
+    "noise": -4.12
+  },
+  {
+    "timestamp": "2025-04-28T17:39:37.306464",
+    "value": 129.29,
+    "trend": 14.9,
+    "seasonal": 11.04,
+    "noise": 3.35
+  },
+  {
+    "timestamp": "2025-04-28T18:39:37.306473",
+    "value": 125.07,
+    "trend": 15.0,
+    "seasonal": 11.25,
+    "noise": -1.18
+  },
+  {
+    "timestamp": "2025-04-28T19:39:37.306483",
+    "value": 129.21,
+    "trend": 15.1,
+    "seasonal": 11.46,
+    "noise": 2.65
+  },
+  {
+    "timestamp": "2025-04-28T20:39:37.306492",
+    "value": 127.09,
+    "trend": 15.2,
+    "seasonal": 11.67,
+    "noise": 0.22
+  },
+  {
+    "timestamp": "2025-04-28T21:39:37.306501",
+    "value": 122.84,
+    "trend": 15.3,
+    "seasonal": 11.88,
+    "noise": -4.34
+  },
+  {
+    "timestamp": "2025-04-28T22:39:37.306511",
+    "value": 122.66,
+    "trend": 15.4,
+    "seasonal": 12.08,
+    "noise": -4.82
+  },
+  {
+    "timestamp": "2025-04-28T23:39:37.306520",
+    "value": 124.39,
+    "trend": 15.5,
+    "seasonal": 12.29,
+    "noise": -3.41
+  },
+  {
+    "timestamp": "2025-04-29T00:39:37.306529",
+    "value": 128.45,
+    "trend": 15.6,
+    "seasonal": 12.5,
+    "noise": 0.35
+  },
+  {
+    "timestamp": "2025-04-29T01:39:37.306539",
+    "value": 132.88,
+    "trend": 15.7,
+    "seasonal": 12.71,
+    "noise": 4.47
+  },
+  {
+    "timestamp": "2025-04-29T02:39:37.306548",
+    "value": 131.24,
+    "trend": 15.8,
+    "seasonal": 12.92,
+    "noise": 2.52
+  },
+  {
+    "timestamp": "2025-04-29T03:39:37.306557",
+    "value": 128.08,
+    "trend": 15.9,
+    "seasonal": 13.12,
+    "noise": -0.94
+  },
+  {
+    "timestamp": "2025-04-29T04:39:37.306567",
+    "value": 133.72,
+    "trend": 16.0,
+    "seasonal": 13.33,
+    "noise": 4.38
+  },
+  {
+    "timestamp": "2025-04-29T05:39:37.306576",
+    "value": 131.07,
+    "trend": 16.1,
+    "seasonal": 13.54,
+    "noise": 1.43
+  },
+  {
+    "timestamp": "2025-04-29T06:39:37.306585",
+    "value": 133.28,
+    "trend": 16.2,
+    "seasonal": 13.75,
+    "noise": 3.33
+  },
+  {
+    "timestamp": "2025-04-29T07:39:37.306593",
+    "value": 133.37,
+    "trend": 16.3,
+    "seasonal": 13.96,
+    "noise": 3.11
+  },
+  {
+    "timestamp": "2025-04-29T08:39:37.306602",
+    "value": 126.76,
+    "trend": 16.4,
+    "seasonal": 14.17,
+    "noise": -3.81
+  },
+  {
+    "timestamp": "2025-04-29T09:39:37.306611",
+    "value": 128.27,
+    "trend": 16.5,
+    "seasonal": 14.38,
+    "noise": -2.6
+  },
+  {
+    "timestamp": "2025-04-29T10:39:37.306621",
+    "value": 126.98,
+    "trend": 16.6,
+    "seasonal": 14.58,
+    "noise": -4.2
+  },
+  {
+    "timestamp": "2025-04-29T11:39:37.306630",
+    "value": 134.41,
+    "trend": 16.7,
+    "seasonal": 14.79,
+    "noise": 2.92
+  },
+  {
+    "timestamp": "2025-04-29T12:39:37.306639",
+    "value": 122.36,
+    "trend": 16.8,
+    "seasonal": 10.0,
+    "noise": -4.44
+  },
+  {
+    "timestamp": "2025-04-29T13:39:37.306647",
+    "value": 124.89,
+    "trend": 16.9,
+    "seasonal": 10.21,
+    "noise": -2.21
+  },
+  {
+    "timestamp": "2025-04-29T14:39:37.306657",
+    "value": 128.82,
+    "trend": 17.0,
+    "seasonal": 10.42,
+    "noise": 1.4
+  },
+  {
+    "timestamp": "2025-04-29T15:39:37.306665",
+    "value": 129.36,
+    "trend": 17.1,
+    "seasonal": 10.62,
+    "noise": 1.64
+  },
+  {
+    "timestamp": "2025-04-29T16:39:37.306674",
+    "value": 130.86,
+    "trend": 17.2,
+    "seasonal": 10.83,
+    "noise": 2.83
+  },
+  {
+    "timestamp": "2025-04-29T17:39:37.306690",
+    "value": 129.95,
+    "trend": 17.3,
+    "seasonal": 11.04,
+    "noise": 1.61
+  },
+  {
+    "timestamp": "2025-04-29T18:39:37.306700",
+    "value": 127.39,
+    "trend": 17.4,
+    "seasonal": 11.25,
+    "noise": -1.26
+  },
+  {
+    "timestamp": "2025-04-29T19:39:37.306709",
+    "value": 129.66,
+    "trend": 17.5,
+    "seasonal": 11.46,
+    "noise": 0.7
+  },
+  {
+    "timestamp": "2025-04-29T20:39:37.306718",
+    "value": 130.65,
+    "trend": 17.6,
+    "seasonal": 11.67,
+    "noise": 1.39
+  },
+  {
+    "timestamp": "2025-04-29T21:39:37.306727",
+    "value": 129.27,
+    "trend": 17.7,
+    "seasonal": 11.88,
+    "noise": -0.31
+  },
+  {
+    "timestamp": "2025-04-29T22:39:37.306737",
+    "value": 130.27,
+    "trend": 17.8,
+    "seasonal": 12.08,
+    "noise": 0.39
+  },
+  {
+    "timestamp": "2025-04-29T23:39:37.306746",
+    "value": 133.15,
+    "trend": 17.9,
+    "seasonal": 12.29,
+    "noise": 2.96
+  },
+  {
+    "timestamp": "2025-04-30T00:39:37.306754",
+    "value": 126.68,
+    "trend": 18.0,
+    "seasonal": 12.5,
+    "noise": -3.82
+  },
+  {
+    "timestamp": "2025-04-30T01:39:37.306764",
+    "value": 132.34,
+    "trend": 18.1,
+    "seasonal": 12.71,
+    "noise": 1.54
+  },
+  {
+    "timestamp": "2025-04-30T02:39:37.306773",
+    "value": 132.23,
+    "trend": 18.2,
+    "seasonal": 12.92,
+    "noise": 1.11
+  },
+  {
+    "timestamp": "2025-04-30T03:39:37.306782",
+    "value": 130.07,
+    "trend": 18.3,
+    "seasonal": 13.12,
+    "noise": -1.35
+  },
+  {
+    "timestamp": "2025-04-30T04:39:37.306792",
+    "value": 131.86,
+    "trend": 18.4,
+    "seasonal": 13.33,
+    "noise": 0.13
+  },
+  {
+    "timestamp": "2025-04-30T05:39:37.306801",
+    "value": 127.79,
+    "trend": 18.5,
+    "seasonal": 13.54,
+    "noise": -4.25
+  },
+  {
+    "timestamp": "2025-04-30T06:39:37.306813",
+    "value": 129.76,
+    "trend": 18.6,
+    "seasonal": 13.75,
+    "noise": -2.59
+  },
+  {
+    "timestamp": "2025-04-30T07:39:37.306828",
+    "value": 135.73,
+    "trend": 18.7,
+    "seasonal": 13.96,
+    "noise": 3.07
+  },
+  {
+    "timestamp": "2025-04-30T08:39:37.306844",
+    "value": 136.0,
+    "trend": 18.8,
+    "seasonal": 14.17,
+    "noise": 3.03
+  },
+  {
+    "timestamp": "2025-04-30T09:39:37.306861",
+    "value": 128.54,
+    "trend": 18.9,
+    "seasonal": 14.38,
+    "noise": -4.74
+  },
+  {
+    "timestamp": "2025-04-30T10:39:37.306877",
+    "value": 137.61,
+    "trend": 19.0,
+    "seasonal": 14.58,
+    "noise": 4.03
+  },
+  {
+    "timestamp": "2025-04-30T11:39:37.306892",
+    "value": 134.83,
+    "trend": 19.1,
+    "seasonal": 14.79,
+    "noise": 0.94
+  },
+  {
+    "timestamp": "2025-04-30T12:39:37.306908",
+    "value": 127.24,
+    "trend": 19.2,
+    "seasonal": 10.0,
+    "noise": -1.96
+  },
+  {
+    "timestamp": "2025-04-30T13:39:37.306922",
+    "value": 131.84,
+    "trend": 19.3,
+    "seasonal": 10.21,
+    "noise": 2.34
+  },
+  {
+    "timestamp": "2025-04-30T14:39:37.306931",
+    "value": 127.63,
+    "trend": 19.4,
+    "seasonal": 10.42,
+    "noise": -2.19
+  },
+  {
+    "timestamp": "2025-04-30T15:39:37.306940",
+    "value": 127.74,
+    "trend": 19.5,
+    "seasonal": 10.62,
+    "noise": -2.38
+  },
+  {
+    "timestamp": "2025-04-30T16:39:37.306949",
+    "value": 133.13,
+    "trend": 19.6,
+    "seasonal": 10.83,
+    "noise": 2.7
+  },
+  {
+    "timestamp": "2025-04-30T17:39:37.306958",
+    "value": 132.57,
+    "trend": 19.7,
+    "seasonal": 11.04,
+    "noise": 1.82
+  },
+  {
+    "timestamp": "2025-04-30T18:39:37.306967",
+    "value": 131.51,
+    "trend": 19.8,
+    "seasonal": 11.25,
+    "noise": 0.46
+  },
+  {
+    "timestamp": "2025-04-30T19:39:37.307001",
+    "value": 129.64,
+    "trend": 19.9,
+    "seasonal": 11.46,
+    "noise": -1.71
+  },
+  {
+    "timestamp": "2025-04-30T20:39:37.307011",
+    "value": 132.72,
+    "trend": 20.0,
+    "seasonal": 11.67,
+    "noise": 1.05
+  },
+  {
+    "timestamp": "2025-04-30T21:39:37.307022",
+    "value": 129.2,
+    "trend": 20.1,
+    "seasonal": 11.88,
+    "noise": -2.77
+  },
+  {
+    "timestamp": "2025-04-30T22:39:37.307032",
+    "value": 129.83,
+    "trend": 20.2,
+    "seasonal": 12.08,
+    "noise": -2.45
+  },
+  {
+    "timestamp": "2025-04-30T23:39:37.307045",
+    "value": 129.15,
+    "trend": 20.3,
+    "seasonal": 12.29,
+    "noise": -3.44
+  },
+  {
+    "timestamp": "2025-05-01T00:39:37.307054",
+    "value": 133.5,
+    "trend": 20.4,
+    "seasonal": 12.5,
+    "noise": 0.6
+  },
+  {
+    "timestamp": "2025-05-01T01:39:37.307064",
+    "value": 137.07,
+    "trend": 20.5,
+    "seasonal": 12.71,
+    "noise": 3.87
+  },
+  {
+    "timestamp": "2025-05-01T02:39:37.307073",
+    "value": 138.51,
+    "trend": 20.6,
+    "seasonal": 12.92,
+    "noise": 5.0
+  },
+  {
+    "timestamp": "2025-05-01T03:39:37.307082",
+    "value": 135.86,
+    "trend": 20.7,
+    "seasonal": 13.12,
+    "noise": 2.03
+  },
+  {
+    "timestamp": "2025-05-01T04:39:37.307091",
+    "value": 138.9,
+    "trend": 20.8,
+    "seasonal": 13.33,
+    "noise": 4.77
+  },
+  {
+    "timestamp": "2025-05-01T05:39:37.307100",
+    "value": 135.66,
+    "trend": 20.9,
+    "seasonal": 13.54,
+    "noise": 1.22
+  },
+  {
+    "timestamp": "2025-05-01T06:39:37.307109",
+    "value": 136.61,
+    "trend": 21.0,
+    "seasonal": 13.75,
+    "noise": 1.86
+  },
+  {
+    "timestamp": "2025-05-01T07:39:37.307118",
+    "value": 134.4,
+    "trend": 21.1,
+    "seasonal": 13.96,
+    "noise": -0.66
+  },
+  {
+    "timestamp": "2025-05-01T08:39:37.307127",
+    "value": 138.79,
+    "trend": 21.2,
+    "seasonal": 14.17,
+    "noise": 3.42
+  },
+  {
+    "timestamp": "2025-05-01T09:39:37.307136",
+    "value": 136.64,
+    "trend": 21.3,
+    "seasonal": 14.38,
+    "noise": 0.97
+  },
+  {
+    "timestamp": "2025-05-01T10:39:37.307146",
+    "value": 131.19,
+    "trend": 21.4,
+    "seasonal": 14.58,
+    "noise": -4.79
+  },
+  {
+    "timestamp": "2025-05-01T11:39:37.307155",
+    "value": 136.3,
+    "trend": 21.5,
+    "seasonal": 14.79,
+    "noise": 0.01
+  },
+  {
+    "timestamp": "2025-05-01T12:39:37.307164",
+    "value": 136.53,
+    "trend": 21.6,
+    "seasonal": 10.0,
+    "noise": 4.93
+  },
+  {
+    "timestamp": "2025-05-01T13:39:37.307173",
+    "value": 136.48,
+    "trend": 21.7,
+    "seasonal": 10.21,
+    "noise": 4.57
+  },
+  {
+    "timestamp": "2025-05-01T14:39:37.307185",
+    "value": 127.72,
+    "trend": 21.8,
+    "seasonal": 10.42,
+    "noise": -4.5
+  },
+  {
+    "timestamp": "2025-05-01T15:39:37.307195",
+    "value": 131.75,
+    "trend": 21.9,
+    "seasonal": 10.62,
+    "noise": -0.77
+  },
+  {
+    "timestamp": "2025-05-01T16:39:37.307204",
+    "value": 137.06,
+    "trend": 22.0,
+    "seasonal": 10.83,
+    "noise": 4.22
+  },
+  {
+    "timestamp": "2025-05-01T17:39:37.307213",
+    "value": 128.87,
+    "trend": 22.1,
+    "seasonal": 11.04,
+    "noise": -4.27
+  },
+  {
+    "timestamp": "2025-05-01T18:39:37.307222",
+    "value": 138.06,
+    "trend": 22.2,
+    "seasonal": 11.25,
+    "noise": 4.61
+  },
+  {
+    "timestamp": "2025-05-01T19:39:37.307231",
+    "value": 131.67,
+    "trend": 22.3,
+    "seasonal": 11.46,
+    "noise": -2.08
+  },
+  {
+    "timestamp": "2025-05-01T20:39:37.307240",
+    "value": 137.67,
+    "trend": 22.4,
+    "seasonal": 11.67,
+    "noise": 3.6
+  },
+  {
+    "timestamp": "2025-05-01T21:39:37.307248",
+    "value": 133.66,
+    "trend": 22.5,
+    "seasonal": 11.88,
+    "noise": -0.71
+  },
+  {
+    "timestamp": "2025-05-01T22:39:37.307257",
+    "value": 136.07,
+    "trend": 22.6,
+    "seasonal": 12.08,
+    "noise": 1.39
+  },
+  {
+    "timestamp": "2025-05-01T23:39:37.307266",
+    "value": 138.7,
+    "trend": 22.7,
+    "seasonal": 12.29,
+    "noise": 3.71
+  },
+  {
+    "timestamp": "2025-05-02T00:39:37.307275",
+    "value": 134.19,
+    "trend": 22.8,
+    "seasonal": 12.5,
+    "noise": -1.11
+  },
+  {
+    "timestamp": "2025-05-02T01:39:37.307284",
+    "value": 131.64,
+    "trend": 22.9,
+    "seasonal": 12.71,
+    "noise": -3.97
+  },
+  {
+    "timestamp": "2025-05-02T02:39:37.307293",
+    "value": 138.51,
+    "trend": 23.0,
+    "seasonal": 12.92,
+    "noise": 2.59
+  },
+  {
+    "timestamp": "2025-05-02T03:39:37.307307",
+    "value": 138.07,
+    "trend": 23.1,
+    "seasonal": 13.12,
+    "noise": 1.85
+  },
+  {
+    "timestamp": "2025-05-02T04:39:37.307325",
+    "value": 139.89,
+    "trend": 23.2,
+    "seasonal": 13.33,
+    "noise": 3.35
+  },
+  {
+    "timestamp": "2025-05-02T05:39:37.307344",
+    "value": 134.62,
+    "trend": 23.3,
+    "seasonal": 13.54,
+    "noise": -2.22
+  },
+  {
+    "timestamp": "2025-05-02T06:39:37.307354",
+    "value": 141.85,
+    "trend": 23.4,
+    "seasonal": 13.75,
+    "noise": 4.7
+  },
+  {
+    "timestamp": "2025-05-02T07:39:37.307367",
+    "value": 136.55,
+    "trend": 23.5,
+    "seasonal": 13.96,
+    "noise": -0.91
+  },
+  {
+    "timestamp": "2025-05-02T08:39:37.307381",
+    "value": 141.42,
+    "trend": 23.6,
+    "seasonal": 14.17,
+    "noise": 3.65
+  },
+  {
+    "timestamp": "2025-05-02T09:39:37.307390",
+    "value": 133.58,
+    "trend": 23.7,
+    "seasonal": 14.38,
+    "noise": -4.5
+  },
+  {
+    "timestamp": "2025-05-02T10:39:37.307400",
+    "value": 143.07,
+    "trend": 23.8,
+    "seasonal": 14.58,
+    "noise": 4.69
+  },
+  {
+    "timestamp": "2025-05-02T11:39:37.307409",
+    "value": 137.11,
+    "trend": 23.9,
+    "seasonal": 14.79,
+    "noise": -1.58
+  },
+  {
+    "timestamp": "2025-05-02T12:39:37.307417",
+    "value": 134.19,
+    "trend": 24.0,
+    "seasonal": 10.0,
+    "noise": 0.19
+  },
+  {
+    "timestamp": "2025-05-02T13:39:37.307426",
+    "value": 139.09,
+    "trend": 24.1,
+    "seasonal": 10.21,
+    "noise": 4.79
+  },
+  {
+    "timestamp": "2025-05-02T14:39:37.307435",
+    "value": 135.16,
+    "trend": 24.2,
+    "seasonal": 10.42,
+    "noise": 0.54
+  },
+  {
+    "timestamp": "2025-05-02T15:39:37.307445",
+    "value": 132.73,
+    "trend": 24.3,
+    "seasonal": 10.62,
+    "noise": -2.2
+  },
+  {
+    "timestamp": "2025-05-02T16:39:37.307454",
+    "value": 137.02,
+    "trend": 24.4,
+    "seasonal": 10.83,
+    "noise": 1.78
+  },
+  {
+    "timestamp": "2025-05-02T17:39:37.307497",
+    "value": 133.09,
+    "trend": 24.5,
+    "seasonal": 11.04,
+    "noise": -2.45
+  },
+  {
+    "timestamp": "2025-05-02T18:39:37.307509",
+    "value": 137.33,
+    "trend": 24.6,
+    "seasonal": 11.25,
+    "noise": 1.48
+  },
+  {
+    "timestamp": "2025-05-02T19:39:37.307520",
+    "value": 136.0,
+    "trend": 24.7,
+    "seasonal": 11.46,
+    "noise": -0.15
+  },
+  {
+    "timestamp": "2025-05-02T20:39:37.307529",
+    "value": 138.31,
+    "trend": 24.8,
+    "seasonal": 11.67,
+    "noise": 1.84
+  },
+  {
+    "timestamp": "2025-05-02T21:39:37.307545",
+    "value": 141.52,
+    "trend": 24.9,
+    "seasonal": 11.88,
+    "noise": 4.75
+  },
+  {
+    "timestamp": "2025-05-02T22:39:37.307556",
+    "value": 135.31,
+    "trend": 25.0,
+    "seasonal": 12.08,
+    "noise": -1.78
+  },
+  {
+    "timestamp": "2025-05-02T23:39:37.307565",
+    "value": 137.23,
+    "trend": 25.1,
+    "seasonal": 12.29,
+    "noise": -0.16
+  },
+  {
+    "timestamp": "2025-05-03T00:39:37.307574",
+    "value": 135.55,
+    "trend": 25.2,
+    "seasonal": 12.5,
+    "noise": -2.15
+  },
+  {
+    "timestamp": "2025-05-03T01:39:37.307583",
+    "value": 133.08,
+    "trend": 25.3,
+    "seasonal": 12.71,
+    "noise": -4.93
+  },
+  {
+    "timestamp": "2025-05-03T02:39:37.307592",
+    "value": 135.62,
+    "trend": 25.4,
+    "seasonal": 12.92,
+    "noise": -2.7
+  },
+  {
+    "timestamp": "2025-05-03T03:39:37.307601",
+    "value": 135.6,
+    "trend": 25.5,
+    "seasonal": 13.12,
+    "noise": -3.03
+  },
+  {
+    "timestamp": "2025-05-03T04:39:37.307610",
+    "value": 137.59,
+    "trend": 25.6,
+    "seasonal": 13.33,
+    "noise": -1.34
+  },
+  {
+    "timestamp": "2025-05-03T05:39:37.307619",
+    "value": 141.71,
+    "trend": 25.7,
+    "seasonal": 13.54,
+    "noise": 2.46
+  },
+  {
+    "timestamp": "2025-05-03T06:39:37.307628",
+    "value": 139.75,
+    "trend": 25.8,
+    "seasonal": 13.75,
+    "noise": 0.2
+  },
+  {
+    "timestamp": "2025-05-03T07:39:37.307637",
+    "value": 138.99,
+    "trend": 25.9,
+    "seasonal": 13.96,
+    "noise": -0.86
+  },
+  {
+    "timestamp": "2025-05-03T08:39:37.307646",
+    "value": 139.64,
+    "trend": 26.0,
+    "seasonal": 14.17,
+    "noise": -0.53
+  },
+  {
+    "timestamp": "2025-05-03T09:39:37.307655",
+    "value": 141.37,
+    "trend": 26.1,
+    "seasonal": 14.38,
+    "noise": 0.89
+  },
+  {
+    "timestamp": "2025-05-03T10:39:37.307664",
+    "value": 141.87,
+    "trend": 26.2,
+    "seasonal": 14.58,
+    "noise": 1.09
+  },
+  {
+    "timestamp": "2025-05-03T11:39:37.307673",
+    "value": 137.87,
+    "trend": 26.3,
+    "seasonal": 14.79,
+    "noise": -3.22
+  },
+  {
+    "timestamp": "2025-05-03T12:39:37.307682",
+    "value": 132.92,
+    "trend": 26.4,
+    "seasonal": 10.0,
+    "noise": -3.48
+  },
+  {
+    "timestamp": "2025-05-03T13:39:37.307691",
+    "value": 134.81,
+    "trend": 26.5,
+    "seasonal": 10.21,
+    "noise": -1.9
+  },
+  {
+    "timestamp": "2025-05-03T14:39:37.307837",
+    "value": 135.05,
+    "trend": 26.6,
+    "seasonal": 10.42,
+    "noise": -1.96
+  },
+  {
+    "timestamp": "2025-05-03T15:39:37.307848",
+    "value": 141.62,
+    "trend": 26.7,
+    "seasonal": 10.62,
+    "noise": 4.3
+  },
+  {
+    "timestamp": "2025-05-03T16:39:37.307858",
+    "value": 136.83,
+    "trend": 26.8,
+    "seasonal": 10.83,
+    "noise": -0.81
+  },
+  {
+    "timestamp": "2025-05-03T17:39:37.307871",
+    "value": 139.39,
+    "trend": 26.9,
+    "seasonal": 11.04,
+    "noise": 1.45
+  },
+  {
+    "timestamp": "2025-05-03T18:39:37.307880",
+    "value": 134.26,
+    "trend": 27.0,
+    "seasonal": 11.25,
+    "noise": -3.99
+  },
+  {
+    "timestamp": "2025-05-03T19:39:37.307890",
+    "value": 136.26,
+    "trend": 27.1,
+    "seasonal": 11.46,
+    "noise": -2.3
+  },
+  {
+    "timestamp": "2025-05-03T20:39:37.307899",
+    "value": 143.52,
+    "trend": 27.2,
+    "seasonal": 11.67,
+    "noise": 4.65
+  },
+  {
+    "timestamp": "2025-05-03T21:39:37.307908",
+    "value": 137.64,
+    "trend": 27.3,
+    "seasonal": 11.88,
+    "noise": -1.54
+  },
+  {
+    "timestamp": "2025-05-03T22:39:37.307917",
+    "value": 139.54,
+    "trend": 27.4,
+    "seasonal": 12.08,
+    "noise": 0.06
+  },
+  {
+    "timestamp": "2025-05-03T23:39:37.307926",
+    "value": 136.91,
+    "trend": 27.5,
+    "seasonal": 12.29,
+    "noise": -2.88
+  },
+  {
+    "timestamp": "2025-05-04T00:39:37.307935",
+    "value": 145.05,
+    "trend": 27.6,
+    "seasonal": 12.5,
+    "noise": 4.95
+  },
+  {
+    "timestamp": "2025-05-04T01:39:37.307944",
+    "value": 136.16,
+    "trend": 27.7,
+    "seasonal": 12.71,
+    "noise": -4.25
+  },
+  {
+    "timestamp": "2025-05-04T02:39:37.307953",
+    "value": 141.44,
+    "trend": 27.8,
+    "seasonal": 12.92,
+    "noise": 0.73
+  },
+  {
+    "timestamp": "2025-05-04T03:39:37.307963",
+    "value": 136.85,
+    "trend": 27.9,
+    "seasonal": 13.12,
+    "noise": -4.17
+  },
+  {
+    "timestamp": "2025-05-04T04:39:37.307972",
+    "value": 137.7,
+    "trend": 28.0,
+    "seasonal": 13.33,
+    "noise": -3.64
+  },
+  {
+    "timestamp": "2025-05-04T05:39:37.307986",
+    "value": 145.25,
+    "trend": 28.1,
+    "seasonal": 13.54,
+    "noise": 3.61
+  },
+  {
+    "timestamp": "2025-05-04T06:39:37.307997",
+    "value": 140.99,
+    "trend": 28.2,
+    "seasonal": 13.75,
+    "noise": -0.96
+  },
+  {
+    "timestamp": "2025-05-04T07:39:37.308006",
+    "value": 139.38,
+    "trend": 28.3,
+    "seasonal": 13.96,
+    "noise": -2.88
+  },
+  {
+    "timestamp": "2025-05-04T08:39:37.308015",
+    "value": 146.89,
+    "trend": 28.4,
+    "seasonal": 14.17,
+    "noise": 4.32
+  },
+  {
+    "timestamp": "2025-05-04T09:39:37.308024",
+    "value": 146.23,
+    "trend": 28.5,
+    "seasonal": 14.38,
+    "noise": 3.35
+  },
+  {
+    "timestamp": "2025-05-04T10:39:37.308033",
+    "value": 148.02,
+    "trend": 28.6,
+    "seasonal": 14.58,
+    "noise": 4.83
+  },
+  {
+    "timestamp": "2025-05-04T11:39:37.308042",
+    "value": 142.92,
+    "trend": 28.7,
+    "seasonal": 14.79,
+    "noise": -0.57
+  },
+  {
+    "timestamp": "2025-05-04T12:39:37.308051",
+    "value": 141.32,
+    "trend": 28.8,
+    "seasonal": 10.0,
+    "noise": 2.52
+  },
+  {
+    "timestamp": "2025-05-04T13:39:37.308060",
+    "value": 141.08,
+    "trend": 28.9,
+    "seasonal": 10.21,
+    "noise": 1.97
+  },
+  {
+    "timestamp": "2025-05-04T14:39:37.308069",
+    "value": 139.15,
+    "trend": 29.0,
+    "seasonal": 10.42,
+    "noise": -0.27
+  },
+  {
+    "timestamp": "2025-05-04T15:39:37.308078",
+    "value": 140.04,
+    "trend": 29.1,
+    "seasonal": 10.62,
+    "noise": 0.32
+  },
+  {
+    "timestamp": "2025-05-04T16:39:37.308087",
+    "value": 140.81,
+    "trend": 29.2,
+    "seasonal": 10.83,
+    "noise": 0.77
+  },
+  {
+    "timestamp": "2025-05-04T17:39:37.308096",
+    "value": 143.85,
+    "trend": 29.3,
+    "seasonal": 11.04,
+    "noise": 3.5
+  },
+  {
+    "timestamp": "2025-05-04T18:39:37.308105",
+    "value": 137.3,
+    "trend": 29.4,
+    "seasonal": 11.25,
+    "noise": -3.35
+  },
+  {
+    "timestamp": "2025-05-04T19:39:37.308114",
+    "value": 141.02,
+    "trend": 29.5,
+    "seasonal": 11.46,
+    "noise": 0.06
+  },
+  {
+    "timestamp": "2025-05-04T20:39:37.308123",
+    "value": 138.61,
+    "trend": 29.6,
+    "seasonal": 11.67,
+    "noise": -2.65
+  },
+  {
+    "timestamp": "2025-05-04T21:39:37.308132",
+    "value": 143.16,
+    "trend": 29.7,
+    "seasonal": 11.88,
+    "noise": 1.59
+  },
+  {
+    "timestamp": "2025-05-04T22:39:37.308145",
+    "value": 140.49,
+    "trend": 29.8,
+    "seasonal": 12.08,
+    "noise": -1.4
+  },
+  {
+    "timestamp": "2025-05-04T23:39:37.308155",
+    "value": 140.9,
+    "trend": 29.9,
+    "seasonal": 12.29,
+    "noise": -1.29
+  },
+  {
+    "timestamp": "2025-05-05T00:39:37.308168",
+    "value": 139.49,
+    "trend": 30.0,
+    "seasonal": 12.5,
+    "noise": -3.01
+  },
+  {
+    "timestamp": "2025-05-05T01:39:37.308177",
+    "value": 140.59,
+    "trend": 30.1,
+    "seasonal": 12.71,
+    "noise": -2.22
+  },
+  {
+    "timestamp": "2025-05-05T02:39:37.308186",
+    "value": 143.5,
+    "trend": 30.2,
+    "seasonal": 12.92,
+    "noise": 0.38
+  },
+  {
+    "timestamp": "2025-05-05T03:39:37.308196",
+    "value": 140.24,
+    "trend": 30.3,
+    "seasonal": 13.12,
+    "noise": -3.18
+  },
+  {
+    "timestamp": "2025-05-05T04:39:37.308205",
+    "value": 141.14,
+    "trend": 30.4,
+    "seasonal": 13.33,
+    "noise": -2.59
+  },
+  {
+    "timestamp": "2025-05-05T05:39:37.308215",
+    "value": 145.38,
+    "trend": 30.5,
+    "seasonal": 13.54,
+    "noise": 1.34
+  },
+  {
+    "timestamp": "2025-05-05T06:39:37.308224",
+    "value": 140.52,
+    "trend": 30.6,
+    "seasonal": 13.75,
+    "noise": -3.83
+  },
+  {
+    "timestamp": "2025-05-05T07:39:37.308233",
+    "value": 142.79,
+    "trend": 30.7,
+    "seasonal": 13.96,
+    "noise": -1.87
+  },
+  {
+    "timestamp": "2025-05-05T08:39:37.308242",
+    "value": 148.54,
+    "trend": 30.8,
+    "seasonal": 14.17,
+    "noise": 3.58
+  },
+  {
+    "timestamp": "2025-05-05T09:39:37.308254",
+    "value": 145.05,
+    "trend": 30.9,
+    "seasonal": 14.38,
+    "noise": -0.23
+  },
+  {
+    "timestamp": "2025-05-05T10:39:37.308264",
+    "value": 146.6,
+    "trend": 31.0,
+    "seasonal": 14.58,
+    "noise": 1.02
+  },
+  {
+    "timestamp": "2025-05-05T11:39:37.308273",
+    "value": 148.68,
+    "trend": 31.1,
+    "seasonal": 14.79,
+    "noise": 2.79
+  },
+  {
+    "timestamp": "2025-05-05T12:39:37.308282",
+    "value": 142.92,
+    "trend": 31.2,
+    "seasonal": 10.0,
+    "noise": 1.72
+  },
+  {
+    "timestamp": "2025-05-05T13:39:37.308296",
+    "value": 140.21,
+    "trend": 31.3,
+    "seasonal": 10.21,
+    "noise": -1.29
+  },
+  {
+    "timestamp": "2025-05-05T14:39:37.308305",
+    "value": 146.56,
+    "trend": 31.4,
+    "seasonal": 10.42,
+    "noise": 4.74
+  },
+  {
+    "timestamp": "2025-05-05T15:39:37.308314",
+    "value": 139.23,
+    "trend": 31.5,
+    "seasonal": 10.62,
+    "noise": -2.89
+  },
+  {
+    "timestamp": "2025-05-05T16:39:37.308324",
+    "value": 142.89,
+    "trend": 31.6,
+    "seasonal": 10.83,
+    "noise": 0.46
+  },
+  {
+    "timestamp": "2025-05-05T17:39:37.308333",
+    "value": 146.67,
+    "trend": 31.7,
+    "seasonal": 11.04,
+    "noise": 3.93
+  },
+  {
+    "timestamp": "2025-05-05T18:39:37.308342",
+    "value": 147.88,
+    "trend": 31.8,
+    "seasonal": 11.25,
+    "noise": 4.83
+  },
+  {
+    "timestamp": "2025-05-05T19:39:37.308351",
+    "value": 146.42,
+    "trend": 31.9,
+    "seasonal": 11.46,
+    "noise": 3.06
+  },
+  {
+    "timestamp": "2025-05-05T20:39:37.308360",
+    "value": 141.15,
+    "trend": 32.0,
+    "seasonal": 11.67,
+    "noise": -2.52
+  },
+  {
+    "timestamp": "2025-05-05T21:39:37.308559",
+    "value": 148.03,
+    "trend": 32.1,
+    "seasonal": 11.88,
+    "noise": 4.06
+  },
+  {
+    "timestamp": "2025-05-05T22:39:37.308600",
+    "value": 141.33,
+    "trend": 32.2,
+    "seasonal": 12.08,
+    "noise": -2.95
+  },
+  {
+    "timestamp": "2025-05-05T23:39:37.308617",
+    "value": 143.21,
+    "trend": 32.3,
+    "seasonal": 12.29,
+    "noise": -1.38
+  },
+  {
+    "timestamp": "2025-05-06T00:39:37.308635",
+    "value": 144.94,
+    "trend": 32.4,
+    "seasonal": 12.5,
+    "noise": 0.04
+  },
+  {
+    "timestamp": "2025-05-06T01:39:37.308656",
+    "value": 142.37,
+    "trend": 32.5,
+    "seasonal": 12.71,
+    "noise": -2.84
+  },
+  {
+    "timestamp": "2025-05-06T02:39:37.308674",
+    "value": 145.47,
+    "trend": 32.6,
+    "seasonal": 12.92,
+    "noise": -0.05
+  },
+  {
+    "timestamp": "2025-05-06T03:39:37.308690",
+    "value": 142.0,
+    "trend": 32.7,
+    "seasonal": 13.12,
+    "noise": -3.83
+  },
+  {
+    "timestamp": "2025-05-06T04:39:37.308708",
+    "value": 144.33,
+    "trend": 32.8,
+    "seasonal": 13.33,
+    "noise": -1.8
+  },
+  {
+    "timestamp": "2025-05-06T05:39:37.308729",
+    "value": 143.11,
+    "trend": 32.9,
+    "seasonal": 13.54,
+    "noise": -3.33
+  },
+  {
+    "timestamp": "2025-05-06T06:39:37.308757",
+    "value": 144.95,
+    "trend": 33.0,
+    "seasonal": 13.75,
+    "noise": -1.8
+  },
+  {
+    "timestamp": "2025-05-06T07:39:37.308767",
+    "value": 148.87,
+    "trend": 33.1,
+    "seasonal": 13.96,
+    "noise": 1.81
+  },
+  {
+    "timestamp": "2025-05-06T08:39:37.308777",
+    "value": 149.54,
+    "trend": 33.2,
+    "seasonal": 14.17,
+    "noise": 2.17
+  },
+  {
+    "timestamp": "2025-05-06T09:39:37.308786",
+    "value": 144.15,
+    "trend": 33.3,
+    "seasonal": 14.38,
+    "noise": -3.53
+  },
+  {
+    "timestamp": "2025-05-06T10:39:37.308796",
+    "value": 145.33,
+    "trend": 33.4,
+    "seasonal": 14.58,
+    "noise": -2.65
+  },
+  {
+    "timestamp": "2025-05-06T11:39:37.308805",
+    "value": 150.28,
+    "trend": 33.5,
+    "seasonal": 14.79,
+    "noise": 1.99
+  },
+  {
+    "timestamp": "2025-05-06T12:39:37.308814",
+    "value": 139.56,
+    "trend": 33.6,
+    "seasonal": 10.0,
+    "noise": -4.04
+  },
+  {
+    "timestamp": "2025-05-06T13:39:37.308823",
+    "value": 140.95,
+    "trend": 33.7,
+    "seasonal": 10.21,
+    "noise": -2.95
+  },
+  {
+    "timestamp": "2025-05-06T14:39:37.308832",
+    "value": 142.71,
+    "trend": 33.8,
+    "seasonal": 10.42,
+    "noise": -1.51
+  },
+  {
+    "timestamp": "2025-05-06T15:39:37.308841",
+    "value": 146.95,
+    "trend": 33.9,
+    "seasonal": 10.62,
+    "noise": 2.42
+  },
+  {
+    "timestamp": "2025-05-06T16:39:37.308851",
+    "value": 147.75,
+    "trend": 34.0,
+    "seasonal": 10.83,
+    "noise": 2.92
+  },
+  {
+    "timestamp": "2025-05-06T17:39:37.308860",
+    "value": 149.0,
+    "trend": 34.1,
+    "seasonal": 11.04,
+    "noise": 3.86
+  },
+  {
+    "timestamp": "2025-05-06T18:39:37.308869",
+    "value": 143.71,
+    "trend": 34.2,
+    "seasonal": 11.25,
+    "noise": -1.74
+  },
+  {
+    "timestamp": "2025-05-06T19:39:37.308878",
+    "value": 145.13,
+    "trend": 34.3,
+    "seasonal": 11.46,
+    "noise": -0.63
+  },
+  {
+    "timestamp": "2025-05-06T20:39:37.308887",
+    "value": 146.58,
+    "trend": 34.4,
+    "seasonal": 11.67,
+    "noise": 0.52
+  },
+  {
+    "timestamp": "2025-05-06T21:39:37.308902",
+    "value": 146.28,
+    "trend": 34.5,
+    "seasonal": 11.88,
+    "noise": -0.09
+  },
+  {
+    "timestamp": "2025-05-06T22:39:37.308912",
+    "value": 150.55,
+    "trend": 34.6,
+    "seasonal": 12.08,
+    "noise": 3.86
+  },
+  {
+    "timestamp": "2025-05-06T23:39:37.308921",
+    "value": 145.73,
+    "trend": 34.7,
+    "seasonal": 12.29,
+    "noise": -1.26
+  },
+  {
+    "timestamp": "2025-05-07T00:39:37.308931",
+    "value": 142.42,
+    "trend": 34.8,
+    "seasonal": 12.5,
+    "noise": -4.88
+  },
+  {
+    "timestamp": "2025-05-07T01:39:37.308944",
+    "value": 149.7,
+    "trend": 34.9,
+    "seasonal": 12.71,
+    "noise": 2.09
+  },
+  {
+    "timestamp": "2025-05-07T02:39:37.308953",
+    "value": 151.48,
+    "trend": 35.0,
+    "seasonal": 12.92,
+    "noise": 3.57
+  },
+  {
+    "timestamp": "2025-05-07T03:39:37.308966",
+    "value": 146.48,
+    "trend": 35.1,
+    "seasonal": 13.12,
+    "noise": -1.74
+  },
+  {
+    "timestamp": "2025-05-07T04:39:37.308976",
+    "value": 146.79,
+    "trend": 35.2,
+    "seasonal": 13.33,
+    "noise": -1.74
+  },
+  {
+    "timestamp": "2025-05-07T05:39:37.308991",
+    "value": 149.07,
+    "trend": 35.3,
+    "seasonal": 13.54,
+    "noise": 0.23
+  },
+  {
+    "timestamp": "2025-05-07T06:39:37.309000",
+    "value": 154.14,
+    "trend": 35.4,
+    "seasonal": 13.75,
+    "noise": 4.99
+  },
+  {
+    "timestamp": "2025-05-07T07:39:37.309009",
+    "value": 147.51,
+    "trend": 35.5,
+    "seasonal": 13.96,
+    "noise": -1.95
+  },
+  {
+    "timestamp": "2025-05-07T08:39:37.309022",
+    "value": 149.95,
+    "trend": 35.6,
+    "seasonal": 14.17,
+    "noise": 0.19
+  },
+  {
+    "timestamp": "2025-05-07T09:39:37.309037",
+    "value": 151.21,
+    "trend": 35.7,
+    "seasonal": 14.38,
+    "noise": 1.13
+  },
+  {
+    "timestamp": "2025-05-07T10:39:37.309054",
+    "value": 148.31,
+    "trend": 35.8,
+    "seasonal": 14.58,
+    "noise": -2.07
+  },
+  {
+    "timestamp": "2025-05-07T11:39:37.309070",
+    "value": 150.45,
+    "trend": 35.9,
+    "seasonal": 14.79,
+    "noise": -0.24
+  },
+  {
+    "timestamp": "2025-05-07T12:39:37.309086",
+    "value": 147.79,
+    "trend": 36.0,
+    "seasonal": 10.0,
+    "noise": 1.79
+  },
+  {
+    "timestamp": "2025-05-07T13:39:37.309102",
+    "value": 142.9,
+    "trend": 36.1,
+    "seasonal": 10.21,
+    "noise": -3.41
+  },
+  {
+    "timestamp": "2025-05-07T14:39:37.309126",
+    "value": 145.41,
+    "trend": 36.2,
+    "seasonal": 10.42,
+    "noise": -1.21
+  },
+  {
+    "timestamp": "2025-05-07T15:39:37.309138",
+    "value": 145.58,
+    "trend": 36.3,
+    "seasonal": 10.62,
+    "noise": -1.35
+  },
+  {
+    "timestamp": "2025-05-07T16:39:37.309149",
+    "value": 145.71,
+    "trend": 36.4,
+    "seasonal": 10.83,
+    "noise": -1.53
+  },
+  {
+    "timestamp": "2025-05-07T17:39:37.309160",
+    "value": 146.95,
+    "trend": 36.5,
+    "seasonal": 11.04,
+    "noise": -0.59
+  },
+  {
+    "timestamp": "2025-05-07T18:39:37.309170",
+    "value": 144.65,
+    "trend": 36.6,
+    "seasonal": 11.25,
+    "noise": -3.2
+  },
+  {
+    "timestamp": "2025-05-07T19:39:37.309180",
+    "value": 145.05,
+    "trend": 36.7,
+    "seasonal": 11.46,
+    "noise": -3.11
+  },
+  {
+    "timestamp": "2025-05-07T20:39:37.309190",
+    "value": 150.79,
+    "trend": 36.8,
+    "seasonal": 11.67,
+    "noise": 2.33
+  },
+  {
+    "timestamp": "2025-05-07T21:39:37.309201",
+    "value": 148.29,
+    "trend": 36.9,
+    "seasonal": 11.88,
+    "noise": -0.48
+  },
+  {
+    "timestamp": "2025-05-07T22:39:37.309211",
+    "value": 151.74,
+    "trend": 37.0,
+    "seasonal": 12.08,
+    "noise": 2.66
+  },
+  {
+    "timestamp": "2025-05-07T23:39:37.309222",
+    "value": 153.16,
+    "trend": 37.1,
+    "seasonal": 12.29,
+    "noise": 3.77
+  },
+  {
+    "timestamp": "2025-05-08T00:39:37.309232",
+    "value": 146.27,
+    "trend": 37.2,
+    "seasonal": 12.5,
+    "noise": -3.43
+  },
+  {
+    "timestamp": "2025-05-08T01:39:37.309242",
+    "value": 151.41,
+    "trend": 37.3,
+    "seasonal": 12.71,
+    "noise": 1.4
+  },
+  {
+    "timestamp": "2025-05-08T02:39:37.309253",
+    "value": 154.01,
+    "trend": 37.4,
+    "seasonal": 12.92,
+    "noise": 3.69
+  },
+  {
+    "timestamp": "2025-05-08T03:39:37.309263",
+    "value": 155.14,
+    "trend": 37.5,
+    "seasonal": 13.12,
+    "noise": 4.52
+  },
+  {
+    "timestamp": "2025-05-08T04:39:37.309277",
+    "value": 153.17,
+    "trend": 37.6,
+    "seasonal": 13.33,
+    "noise": 2.24
+  },
+  {
+    "timestamp": "2025-05-08T05:39:37.309286",
+    "value": 150.05,
+    "trend": 37.7,
+    "seasonal": 13.54,
+    "noise": -1.19
+  },
+  {
+    "timestamp": "2025-05-08T06:39:37.309295",
+    "value": 151.79,
+    "trend": 37.8,
+    "seasonal": 13.75,
+    "noise": 0.24
+  },
+  {
+    "timestamp": "2025-05-08T07:39:37.309304",
+    "value": 150.53,
+    "trend": 37.9,
+    "seasonal": 13.96,
+    "noise": -1.33
+  },
+  {
+    "timestamp": "2025-05-08T08:39:37.309314",
+    "value": 152.55,
+    "trend": 38.0,
+    "seasonal": 14.17,
+    "noise": 0.38
+  },
+  {
+    "timestamp": "2025-05-08T09:39:37.309322",
+    "value": 155.74,
+    "trend": 38.1,
+    "seasonal": 14.38,
+    "noise": 3.26
+  },
+  {
+    "timestamp": "2025-05-08T10:39:37.309331",
+    "value": 149.14,
+    "trend": 38.2,
+    "seasonal": 14.58,
+    "noise": -3.64
+  },
+  {
+    "timestamp": "2025-05-08T11:39:37.309340",
+    "value": 149.53,
+    "trend": 38.3,
+    "seasonal": 14.79,
+    "noise": -3.56
+  },
+  {
+    "timestamp": "2025-05-08T12:39:37.309349",
+    "value": 145.43,
+    "trend": 38.4,
+    "seasonal": 10.0,
+    "noise": -2.97
+  },
+  {
+    "timestamp": "2025-05-08T13:39:37.309358",
+    "value": 150.78,
+    "trend": 38.5,
+    "seasonal": 10.21,
+    "noise": 2.07
+  },
+  {
+    "timestamp": "2025-05-08T14:39:37.309367",
+    "value": 144.84,
+    "trend": 38.6,
+    "seasonal": 10.42,
+    "noise": -4.17
+  },
+  {
+    "timestamp": "2025-05-08T15:39:37.309381",
+    "value": 148.41,
+    "trend": 38.7,
+    "seasonal": 10.62,
+    "noise": -0.91
+  },
+  {
+    "timestamp": "2025-05-08T16:39:37.309391",
+    "value": 149.24,
+    "trend": 38.8,
+    "seasonal": 10.83,
+    "noise": -0.4
+  },
+  {
+    "timestamp": "2025-05-08T17:39:37.309400",
+    "value": 153.43,
+    "trend": 38.9,
+    "seasonal": 11.04,
+    "noise": 3.49
+  },
+  {
+    "timestamp": "2025-05-08T18:39:37.309409",
+    "value": 145.89,
+    "trend": 39.0,
+    "seasonal": 11.25,
+    "noise": -4.36
+  },
+  {
+    "timestamp": "2025-05-08T19:39:37.309418",
+    "value": 149.26,
+    "trend": 39.1,
+    "seasonal": 11.46,
+    "noise": -1.3
+  },
+  {
+    "timestamp": "2025-05-08T20:39:37.309427",
+    "value": 154.37,
+    "trend": 39.2,
+    "seasonal": 11.67,
+    "noise": 3.5
+  },
+  {
+    "timestamp": "2025-05-08T21:39:37.309435",
+    "value": 152.53,
+    "trend": 39.3,
+    "seasonal": 11.88,
+    "noise": 1.36
+  },
+  {
+    "timestamp": "2025-05-08T22:39:37.309449",
+    "value": 150.98,
+    "trend": 39.4,
+    "seasonal": 12.08,
+    "noise": -0.51
+  },
+  {
+    "timestamp": "2025-05-08T23:39:37.309458",
+    "value": 147.04,
+    "trend": 39.5,
+    "seasonal": 12.29,
+    "noise": -4.76
+  },
+  {
+    "timestamp": "2025-05-09T00:39:37.309467",
+    "value": 154.85,
+    "trend": 39.6,
+    "seasonal": 12.5,
+    "noise": 2.75
+  },
+  {
+    "timestamp": "2025-05-09T01:39:37.309476",
+    "value": 155.76,
+    "trend": 39.7,
+    "seasonal": 12.71,
+    "noise": 3.36
+  },
+  {
+    "timestamp": "2025-05-09T02:39:37.309485",
+    "value": 155.39,
+    "trend": 39.8,
+    "seasonal": 12.92,
+    "noise": 2.67
+  },
+  {
+    "timestamp": "2025-05-09T03:39:37.309494",
+    "value": 156.32,
+    "trend": 39.9,
+    "seasonal": 13.12,
+    "noise": 3.29
+  },
+  {
+    "timestamp": "2025-05-09T04:39:37.309504",
+    "value": 157.08,
+    "trend": 40.0,
+    "seasonal": 13.33,
+    "noise": 3.74
+  },
+  {
+    "timestamp": "2025-05-09T05:39:37.309519",
+    "value": 158.01,
+    "trend": 40.1,
+    "seasonal": 13.54,
+    "noise": 4.37
+  },
+  {
+    "timestamp": "2025-05-09T06:39:37.309529",
+    "value": 153.39,
+    "trend": 40.2,
+    "seasonal": 13.75,
+    "noise": -0.56
+  },
+  {
+    "timestamp": "2025-05-09T07:39:37.309543",
+    "value": 158.51,
+    "trend": 40.3,
+    "seasonal": 13.96,
+    "noise": 4.25
+  },
+  {
+    "timestamp": "2025-05-09T08:39:37.309552",
+    "value": 157.14,
+    "trend": 40.4,
+    "seasonal": 14.17,
+    "noise": 2.57
+  },
+  {
+    "timestamp": "2025-05-09T09:39:37.309561",
+    "value": 158.39,
+    "trend": 40.5,
+    "seasonal": 14.38,
+    "noise": 3.51
+  },
+  {
+    "timestamp": "2025-05-09T10:39:37.309571",
+    "value": 155.63,
+    "trend": 40.6,
+    "seasonal": 14.58,
+    "noise": 0.45
+  },
+  {
+    "timestamp": "2025-05-09T11:39:37.309580",
+    "value": 157.46,
+    "trend": 40.7,
+    "seasonal": 14.79,
+    "noise": 1.97
+  },
+  {
+    "timestamp": "2025-05-09T12:39:37.309592",
+    "value": 150.01,
+    "trend": 40.8,
+    "seasonal": 10.0,
+    "noise": -0.79
+  },
+  {
+    "timestamp": "2025-05-09T13:39:37.309601",
+    "value": 153.47,
+    "trend": 40.9,
+    "seasonal": 10.21,
+    "noise": 2.36
+  },
+  {
+    "timestamp": "2025-05-09T14:39:37.309610",
+    "value": 147.31,
+    "trend": 41.0,
+    "seasonal": 10.42,
+    "noise": -4.1
+  },
+  {
+    "timestamp": "2025-05-09T15:39:37.309619",
+    "value": 156.6,
+    "trend": 41.1,
+    "seasonal": 10.62,
+    "noise": 4.87
+  },
+  {
+    "timestamp": "2025-05-09T16:39:37.309632",
+    "value": 156.91,
+    "trend": 41.2,
+    "seasonal": 10.83,
+    "noise": 4.88
+  },
+  {
+    "timestamp": "2025-05-09T17:39:37.309641",
+    "value": 153.22,
+    "trend": 41.3,
+    "seasonal": 11.04,
+    "noise": 0.88
+  },
+  {
+    "timestamp": "2025-05-09T18:39:37.309650",
+    "value": 152.38,
+    "trend": 41.4,
+    "seasonal": 11.25,
+    "noise": -0.27
+  },
+  {
+    "timestamp": "2025-05-09T19:39:37.309659",
+    "value": 153.21,
+    "trend": 41.5,
+    "seasonal": 11.46,
+    "noise": 0.25
+  },
+  {
+    "timestamp": "2025-05-09T20:39:37.309668",
+    "value": 156.88,
+    "trend": 41.6,
+    "seasonal": 11.67,
+    "noise": 3.62
+  },
+  {
+    "timestamp": "2025-05-09T21:39:37.309677",
+    "value": 155.48,
+    "trend": 41.7,
+    "seasonal": 11.88,
+    "noise": 1.9
+  },
+  {
+    "timestamp": "2025-05-09T22:39:37.309686",
+    "value": 157.38,
+    "trend": 41.8,
+    "seasonal": 12.08,
+    "noise": 3.49
+  },
+  {
+    "timestamp": "2025-05-09T23:39:37.309695",
+    "value": 151.67,
+    "trend": 41.9,
+    "seasonal": 12.29,
+    "noise": -2.52
+  },
+  {
+    "timestamp": "2025-05-10T00:39:37.309704",
+    "value": 151.34,
+    "trend": 42.0,
+    "seasonal": 12.5,
+    "noise": -3.16
+  },
+  {
+    "timestamp": "2025-05-10T01:39:37.309713",
+    "value": 159.16,
+    "trend": 42.1,
+    "seasonal": 12.71,
+    "noise": 4.35
+  },
+  {
+    "timestamp": "2025-05-10T02:39:37.309722",
+    "value": 155.62,
+    "trend": 42.2,
+    "seasonal": 12.92,
+    "noise": 0.51
+  },
+  {
+    "timestamp": "2025-05-10T03:39:37.309731",
+    "value": 160.39,
+    "trend": 42.3,
+    "seasonal": 13.12,
+    "noise": 4.96
+  },
+  {
+    "timestamp": "2025-05-10T04:39:37.309740",
+    "value": 158.71,
+    "trend": 42.4,
+    "seasonal": 13.33,
+    "noise": 2.98
+  },
+  {
+    "timestamp": "2025-05-10T05:39:37.309749",
+    "value": 158.09,
+    "trend": 42.5,
+    "seasonal": 13.54,
+    "noise": 2.04
+  },
+  {
+    "timestamp": "2025-05-10T06:39:37.309762",
+    "value": 157.9,
+    "trend": 42.6,
+    "seasonal": 13.75,
+    "noise": 1.55
+  },
+  {
+    "timestamp": "2025-05-10T07:39:37.309771",
+    "value": 159.42,
+    "trend": 42.7,
+    "seasonal": 13.96,
+    "noise": 2.77
+  },
+  {
+    "timestamp": "2025-05-10T08:39:37.309780",
+    "value": 161.81,
+    "trend": 42.8,
+    "seasonal": 14.17,
+    "noise": 4.84
+  },
+  {
+    "timestamp": "2025-05-10T09:39:37.309789",
+    "value": 160.96,
+    "trend": 42.9,
+    "seasonal": 14.38,
+    "noise": 3.69
+  },
+  {
+    "timestamp": "2025-05-10T10:39:37.309798",
+    "value": 156.49,
+    "trend": 43.0,
+    "seasonal": 14.58,
+    "noise": -1.1
+  },
+  {
+    "timestamp": "2025-05-10T11:39:37.309807",
+    "value": 161.17,
+    "trend": 43.1,
+    "seasonal": 14.79,
+    "noise": 3.28
+  },
+  {
+    "timestamp": "2025-05-10T12:39:37.309816",
+    "value": 152.73,
+    "trend": 43.2,
+    "seasonal": 10.0,
+    "noise": -0.47
+  },
+  {
+    "timestamp": "2025-05-10T13:39:37.309825",
+    "value": 155.99,
+    "trend": 43.3,
+    "seasonal": 10.21,
+    "noise": 2.48
+  },
+  {
+    "timestamp": "2025-05-10T14:39:37.309834",
+    "value": 157.27,
+    "trend": 43.4,
+    "seasonal": 10.42,
+    "noise": 3.45
+  },
+  {
+    "timestamp": "2025-05-10T15:39:37.309843",
+    "value": 156.72,
+    "trend": 43.5,
+    "seasonal": 10.62,
+    "noise": 2.59
+  },
+  {
+    "timestamp": "2025-05-10T16:39:37.309852",
+    "value": 154.3,
+    "trend": 43.6,
+    "seasonal": 10.83,
+    "noise": -0.13
+  },
+  {
+    "timestamp": "2025-05-10T17:39:37.309861",
+    "value": 157.34,
+    "trend": 43.7,
+    "seasonal": 11.04,
+    "noise": 2.6
+  },
+  {
+    "timestamp": "2025-05-10T18:39:37.309870",
+    "value": 152.75,
+    "trend": 43.8,
+    "seasonal": 11.25,
+    "noise": -2.3
+  },
+  {
+    "timestamp": "2025-05-10T19:39:37.309879",
+    "value": 153.24,
+    "trend": 43.9,
+    "seasonal": 11.46,
+    "noise": -2.12
+  },
+  {
+    "timestamp": "2025-05-10T20:39:37.309892",
+    "value": 151.8,
+    "trend": 44.0,
+    "seasonal": 11.67,
+    "noise": -3.86
+  },
+  {
+    "timestamp": "2025-05-10T21:39:37.309901",
+    "value": 157.24,
+    "trend": 44.1,
+    "seasonal": 11.88,
+    "noise": 1.26
+  },
+  {
+    "timestamp": "2025-05-10T22:39:37.309911",
+    "value": 160.55,
+    "trend": 44.2,
+    "seasonal": 12.08,
+    "noise": 4.27
+  },
+  {
+    "timestamp": "2025-05-10T23:39:37.309922",
+    "value": 153.14,
+    "trend": 44.3,
+    "seasonal": 12.29,
+    "noise": -3.45
+  },
+  {
+    "timestamp": "2025-05-11T00:39:37.309983",
+    "value": 153.59,
+    "trend": 44.4,
+    "seasonal": 12.5,
+    "noise": -3.31
+  },
+  {
+    "timestamp": "2025-05-11T01:39:37.310002",
+    "value": 152.33,
+    "trend": 44.5,
+    "seasonal": 12.71,
+    "noise": -4.88
+  },
+  {
+    "timestamp": "2025-05-11T02:39:37.310020",
+    "value": 162.16,
+    "trend": 44.6,
+    "seasonal": 12.92,
+    "noise": 4.65
+  },
+  {
+    "timestamp": "2025-05-11T03:39:37.310037",
+    "value": 159.39,
+    "trend": 44.7,
+    "seasonal": 13.12,
+    "noise": 1.57
+  },
+  {
+    "timestamp": "2025-05-11T04:39:37.310054",
+    "value": 160.98,
+    "trend": 44.8,
+    "seasonal": 13.33,
+    "noise": 2.85
+  },
+  {
+    "timestamp": "2025-05-11T05:39:37.310070",
+    "value": 161.16,
+    "trend": 44.9,
+    "seasonal": 13.54,
+    "noise": 2.72
+  },
+  {
+    "timestamp": "2025-05-11T06:39:37.310085",
+    "value": 162.06,
+    "trend": 45.0,
+    "seasonal": 13.75,
+    "noise": 3.31
+  },
+  {
+    "timestamp": "2025-05-11T07:39:37.310096",
+    "value": 160.82,
+    "trend": 45.1,
+    "seasonal": 13.96,
+    "noise": 1.77
+  },
+  {
+    "timestamp": "2025-05-11T08:39:37.310106",
+    "value": 162.37,
+    "trend": 45.2,
+    "seasonal": 14.17,
+    "noise": 3.0
+  },
+  {
+    "timestamp": "2025-05-11T09:39:37.310120",
+    "value": 155.99,
+    "trend": 45.3,
+    "seasonal": 14.38,
+    "noise": -3.68
+  },
+  {
+    "timestamp": "2025-05-11T10:39:37.310132",
+    "value": 160.64,
+    "trend": 45.4,
+    "seasonal": 14.58,
+    "noise": 0.66
+  },
+  {
+    "timestamp": "2025-05-11T11:39:37.310149",
+    "value": 162.63,
+    "trend": 45.5,
+    "seasonal": 14.79,
+    "noise": 2.34
+  },
+  {
+    "timestamp": "2025-05-11T12:39:37.310166",
+    "value": 151.82,
+    "trend": 45.6,
+    "seasonal": 10.0,
+    "noise": -3.78
+  },
+  {
+    "timestamp": "2025-05-11T13:39:37.310189",
+    "value": 156.09,
+    "trend": 45.7,
+    "seasonal": 10.21,
+    "noise": 0.18
+  },
+  {
+    "timestamp": "2025-05-11T14:39:37.310206",
+    "value": 155.69,
+    "trend": 45.8,
+    "seasonal": 10.42,
+    "noise": -0.52
+  },
+  {
+    "timestamp": "2025-05-11T15:39:37.310215",
+    "value": 157.12,
+    "trend": 45.9,
+    "seasonal": 10.62,
+    "noise": 0.59
+  },
+  {
+    "timestamp": "2025-05-11T16:39:37.310224",
+    "value": 160.66,
+    "trend": 46.0,
+    "seasonal": 10.83,
+    "noise": 3.82
+  },
+  {
+    "timestamp": "2025-05-11T17:39:37.310234",
+    "value": 155.9,
+    "trend": 46.1,
+    "seasonal": 11.04,
+    "noise": -1.24
+  },
+  {
+    "timestamp": "2025-05-11T18:39:37.310243",
+    "value": 161.61,
+    "trend": 46.2,
+    "seasonal": 11.25,
+    "noise": 4.16
+  },
+  {
+    "timestamp": "2025-05-11T19:39:37.310253",
+    "value": 157.08,
+    "trend": 46.3,
+    "seasonal": 11.46,
+    "noise": -0.67
+  },
+  {
+    "timestamp": "2025-05-11T20:39:37.310262",
+    "value": 158.99,
+    "trend": 46.4,
+    "seasonal": 11.67,
+    "noise": 0.93
+  },
+  {
+    "timestamp": "2025-05-11T21:39:37.310271",
+    "value": 159.9,
+    "trend": 46.5,
+    "seasonal": 11.88,
+    "noise": 1.52
+  },
+  {
+    "timestamp": "2025-05-11T22:39:37.310280",
+    "value": 159.74,
+    "trend": 46.6,
+    "seasonal": 12.08,
+    "noise": 1.05
+  },
+  {
+    "timestamp": "2025-05-11T23:39:37.310289",
+    "value": 156.62,
+    "trend": 46.7,
+    "seasonal": 12.29,
+    "noise": -2.37
+  },
+  {
+    "timestamp": "2025-05-12T00:39:37.310298",
+    "value": 155.04,
+    "trend": 46.8,
+    "seasonal": 12.5,
+    "noise": -4.26
+  },
+  {
+    "timestamp": "2025-05-12T01:39:37.310307",
+    "value": 164.12,
+    "trend": 46.9,
+    "seasonal": 12.71,
+    "noise": 4.51
+  },
+  {
+    "timestamp": "2025-05-12T02:39:37.310316",
+    "value": 161.5,
+    "trend": 47.0,
+    "seasonal": 12.92,
+    "noise": 1.58
+  },
+  {
+    "timestamp": "2025-05-12T03:39:37.310325",
+    "value": 160.52,
+    "trend": 47.1,
+    "seasonal": 13.12,
+    "noise": 0.29
+  },
+  {
+    "timestamp": "2025-05-12T04:39:37.310338",
+    "value": 160.72,
+    "trend": 47.2,
+    "seasonal": 13.33,
+    "noise": 0.19
+  },
+  {
+    "timestamp": "2025-05-12T05:39:37.310348",
+    "value": 157.36,
+    "trend": 47.3,
+    "seasonal": 13.54,
+    "noise": -3.48
+  },
+  {
+    "timestamp": "2025-05-12T06:39:37.310367",
+    "value": 157.56,
+    "trend": 47.4,
+    "seasonal": 13.75,
+    "noise": -3.59
+  },
+  {
+    "timestamp": "2025-05-12T07:39:37.310381",
+    "value": 160.27,
+    "trend": 47.5,
+    "seasonal": 13.96,
+    "noise": -1.19
+  },
+  {
+    "timestamp": "2025-05-12T08:39:37.310395",
+    "value": 166.51,
+    "trend": 47.6,
+    "seasonal": 14.17,
+    "noise": 4.74
+  },
+  {
+    "timestamp": "2025-05-12T09:39:37.310404",
+    "value": 162.24,
+    "trend": 47.7,
+    "seasonal": 14.38,
+    "noise": 0.16
+  },
+  {
+    "timestamp": "2025-05-12T10:39:37.310413",
+    "value": 164.69,
+    "trend": 47.8,
+    "seasonal": 14.58,
+    "noise": 2.31
+  },
+  {
+    "timestamp": "2025-05-12T11:39:37.310429",
+    "value": 157.84,
+    "trend": 47.9,
+    "seasonal": 14.79,
+    "noise": -4.85
+  },
+  {
+    "timestamp": "2025-05-12T12:39:37.310440",
+    "value": 159.94,
+    "trend": 48.0,
+    "seasonal": 10.0,
+    "noise": 1.94
+  },
+  {
+    "timestamp": "2025-05-12T13:39:37.310449",
+    "value": 158.16,
+    "trend": 48.1,
+    "seasonal": 10.21,
+    "noise": -0.15
+  },
+  {
+    "timestamp": "2025-05-12T14:39:37.310458",
+    "value": 157.35,
+    "trend": 48.2,
+    "seasonal": 10.42,
+    "noise": -1.27
+  },
+  {
+    "timestamp": "2025-05-12T15:39:37.310466",
+    "value": 158.88,
+    "trend": 48.3,
+    "seasonal": 10.62,
+    "noise": -0.05
+  },
+  {
+    "timestamp": "2025-05-12T16:39:37.310476",
+    "value": 162.22,
+    "trend": 48.4,
+    "seasonal": 10.83,
+    "noise": 2.99
+  },
+  {
+    "timestamp": "2025-05-12T17:39:37.310485",
+    "value": 162.04,
+    "trend": 48.5,
+    "seasonal": 11.04,
+    "noise": 2.5
+  },
+  {
+    "timestamp": "2025-05-12T18:39:37.310493",
+    "value": 157.3,
+    "trend": 48.6,
+    "seasonal": 11.25,
+    "noise": -2.55
+  },
+  {
+    "timestamp": "2025-05-12T19:39:37.310502",
+    "value": 161.67,
+    "trend": 48.7,
+    "seasonal": 11.46,
+    "noise": 1.51
+  },
+  {
+    "timestamp": "2025-05-12T20:39:37.310511",
+    "value": 161.81,
+    "trend": 48.8,
+    "seasonal": 11.67,
+    "noise": 1.34
+  },
+  {
+    "timestamp": "2025-05-12T21:39:37.310524",
+    "value": 159.38,
+    "trend": 48.9,
+    "seasonal": 11.88,
+    "noise": -1.4
+  },
+  {
+    "timestamp": "2025-05-12T22:39:37.310534",
+    "value": 162.07,
+    "trend": 49.0,
+    "seasonal": 12.08,
+    "noise": 0.98
+  },
+  {
+    "timestamp": "2025-05-12T23:39:37.310543",
+    "value": 162.91,
+    "trend": 49.1,
+    "seasonal": 12.29,
+    "noise": 1.51
+  },
+  {
+    "timestamp": "2025-05-13T00:39:37.310552",
+    "value": 163.21,
+    "trend": 49.2,
+    "seasonal": 12.5,
+    "noise": 1.51
+  },
+  {
+    "timestamp": "2025-05-13T01:39:37.310561",
+    "value": 161.16,
+    "trend": 49.3,
+    "seasonal": 12.71,
+    "noise": -0.85
+  },
+  {
+    "timestamp": "2025-05-13T02:39:37.310570",
+    "value": 159.08,
+    "trend": 49.4,
+    "seasonal": 12.92,
+    "noise": -3.24
+  },
+  {
+    "timestamp": "2025-05-13T03:39:37.310579",
+    "value": 163.89,
+    "trend": 49.5,
+    "seasonal": 13.12,
+    "noise": 1.27
+  },
+  {
+    "timestamp": "2025-05-13T04:39:37.310588",
+    "value": 164.8,
+    "trend": 49.6,
+    "seasonal": 13.33,
+    "noise": 1.87
+  },
+  {
+    "timestamp": "2025-05-13T05:39:37.310597",
+    "value": 162.07,
+    "trend": 49.7,
+    "seasonal": 13.54,
+    "noise": -1.17
+  },
+  {
+    "timestamp": "2025-05-13T06:39:37.310606",
+    "value": 161.55,
+    "trend": 49.8,
+    "seasonal": 13.75,
+    "noise": -2.0
+  },
+  {
+    "timestamp": "2025-05-13T07:39:37.310615",
+    "value": 160.26,
+    "trend": 49.9,
+    "seasonal": 13.96,
+    "noise": -3.6
+  },
+  {
+    "timestamp": "2025-05-13T08:39:37.310624",
+    "value": 162.36,
+    "trend": 50.0,
+    "seasonal": 14.17,
+    "noise": -1.81
+  },
+  {
+    "timestamp": "2025-05-13T09:39:37.310633",
+    "value": 164.95,
+    "trend": 50.1,
+    "seasonal": 14.38,
+    "noise": 0.47
+  },
+  {
+    "timestamp": "2025-05-13T10:39:37.310643",
+    "value": 165.25,
+    "trend": 50.2,
+    "seasonal": 14.58,
+    "noise": 0.46
+  },
+  {
+    "timestamp": "2025-05-13T11:39:37.310656",
+    "value": 165.92,
+    "trend": 50.3,
+    "seasonal": 14.79,
+    "noise": 0.82
+  },
+  {
+    "timestamp": "2025-05-13T12:39:37.310668",
+    "value": 163.34,
+    "trend": 50.4,
+    "seasonal": 10.0,
+    "noise": 2.94
+  },
+  {
+    "timestamp": "2025-05-13T13:39:37.310678",
+    "value": 155.73,
+    "trend": 50.5,
+    "seasonal": 10.21,
+    "noise": -4.98
+  },
+  {
+    "timestamp": "2025-05-13T14:39:37.310687",
+    "value": 165.68,
+    "trend": 50.6,
+    "seasonal": 10.42,
+    "noise": 4.66
+  },
+  {
+    "timestamp": "2025-05-13T15:39:37.310696",
+    "value": 161.81,
+    "trend": 50.7,
+    "seasonal": 10.62,
+    "noise": 0.48
+  },
+  {
+    "timestamp": "2025-05-13T16:39:37.310705",
+    "value": 161.78,
+    "trend": 50.8,
+    "seasonal": 10.83,
+    "noise": 0.14
+  },
+  {
+    "timestamp": "2025-05-13T17:39:37.310714",
+    "value": 164.58,
+    "trend": 50.9,
+    "seasonal": 11.04,
+    "noise": 2.63
+  },
+  {
+    "timestamp": "2025-05-13T18:39:37.310722",
+    "value": 166.61,
+    "trend": 51.0,
+    "seasonal": 11.25,
+    "noise": 4.36
+  },
+  {
+    "timestamp": "2025-05-13T19:39:37.310731",
+    "value": 165.18,
+    "trend": 51.1,
+    "seasonal": 11.46,
+    "noise": 2.63
+  },
+  {
+    "timestamp": "2025-05-13T20:39:37.310740",
+    "value": 163.12,
+    "trend": 51.2,
+    "seasonal": 11.67,
+    "noise": 0.25
+  },
+  {
+    "timestamp": "2025-05-13T21:39:37.310749",
+    "value": 159.09,
+    "trend": 51.3,
+    "seasonal": 11.88,
+    "noise": -4.08
+  },
+  {
+    "timestamp": "2025-05-13T22:39:37.310758",
+    "value": 167.44,
+    "trend": 51.4,
+    "seasonal": 12.08,
+    "noise": 3.96
+  },
+  {
+    "timestamp": "2025-05-13T23:39:37.310767",
+    "value": 163.4,
+    "trend": 51.5,
+    "seasonal": 12.29,
+    "noise": -0.4
+  },
+  {
+    "timestamp": "2025-05-14T00:39:37.310776",
+    "value": 161.92,
+    "trend": 51.6,
+    "seasonal": 12.5,
+    "noise": -2.18
+  },
+  {
+    "timestamp": "2025-05-14T01:39:37.310784",
+    "value": 166.85,
+    "trend": 51.7,
+    "seasonal": 12.71,
+    "noise": 2.45
+  },
+  {
+    "timestamp": "2025-05-14T02:39:37.310793",
+    "value": 168.86,
+    "trend": 51.8,
+    "seasonal": 12.92,
+    "noise": 4.14
+  },
+  {
+    "timestamp": "2025-05-14T03:39:37.310802",
+    "value": 162.07,
+    "trend": 51.9,
+    "seasonal": 13.12,
+    "noise": -2.96
+  },
+  {
+    "timestamp": "2025-05-14T04:39:37.310811",
+    "value": 164.34,
+    "trend": 52.0,
+    "seasonal": 13.33,
+    "noise": -1.0
+  },
+  {
+    "timestamp": "2025-05-14T05:39:37.310830",
+    "value": 163.09,
+    "trend": 52.1,
+    "seasonal": 13.54,
+    "noise": -2.56
+  },
+  {
+    "timestamp": "2025-05-14T06:39:37.310841",
+    "value": 170.68,
+    "trend": 52.2,
+    "seasonal": 13.75,
+    "noise": 4.73
+  },
+  {
+    "timestamp": "2025-05-14T07:39:37.310850",
+    "value": 166.37,
+    "trend": 52.3,
+    "seasonal": 13.96,
+    "noise": 0.11
+  },
+  {
+    "timestamp": "2025-05-14T08:39:37.310859",
+    "value": 166.64,
+    "trend": 52.4,
+    "seasonal": 14.17,
+    "noise": 0.08
+  },
+  {
+    "timestamp": "2025-05-14T09:39:37.310868",
+    "value": 165.21,
+    "trend": 52.5,
+    "seasonal": 14.38,
+    "noise": -1.66
+  },
+  {
+    "timestamp": "2025-05-14T10:39:37.310877",
+    "value": 167.77,
+    "trend": 52.6,
+    "seasonal": 14.58,
+    "noise": 0.58
+  },
+  {
+    "timestamp": "2025-05-14T11:39:37.310886",
+    "value": 167.55,
+    "trend": 52.7,
+    "seasonal": 14.79,
+    "noise": 0.06
+  },
+  {
+    "timestamp": "2025-05-14T12:39:37.310895",
+    "value": 160.41,
+    "trend": 52.8,
+    "seasonal": 10.0,
+    "noise": -2.39
+  },
+  {
+    "timestamp": "2025-05-14T13:39:37.310904",
+    "value": 165.81,
+    "trend": 52.9,
+    "seasonal": 10.21,
+    "noise": 2.7
+  },
+  {
+    "timestamp": "2025-05-14T14:39:37.310913",
+    "value": 160.51,
+    "trend": 53.0,
+    "seasonal": 10.42,
+    "noise": -2.91
+  },
+  {
+    "timestamp": "2025-05-14T15:39:37.310922",
+    "value": 167.05,
+    "trend": 53.1,
+    "seasonal": 10.62,
+    "noise": 3.33
+  },
+  {
+    "timestamp": "2025-05-14T16:39:37.310931",
+    "value": 160.38,
+    "trend": 53.2,
+    "seasonal": 10.83,
+    "noise": -3.66
+  },
+  {
+    "timestamp": "2025-05-14T17:39:37.310940",
+    "value": 160.47,
+    "trend": 53.3,
+    "seasonal": 11.04,
+    "noise": -3.87
+  },
+  {
+    "timestamp": "2025-05-14T18:39:37.310949",
+    "value": 161.63,
+    "trend": 53.4,
+    "seasonal": 11.25,
+    "noise": -3.02
+  },
+  {
+    "timestamp": "2025-05-14T19:39:37.310961",
+    "value": 164.27,
+    "trend": 53.5,
+    "seasonal": 11.46,
+    "noise": -0.68
+  },
+  {
+    "timestamp": "2025-05-14T20:39:37.310970",
+    "value": 168.17,
+    "trend": 53.6,
+    "seasonal": 11.67,
+    "noise": 2.9
+  },
+  {
+    "timestamp": "2025-05-14T21:39:37.310979",
+    "value": 167.68,
+    "trend": 53.7,
+    "seasonal": 11.88,
+    "noise": 2.11
+  },
+  {
+    "timestamp": "2025-05-14T22:39:37.310989",
+    "value": 170.82,
+    "trend": 53.8,
+    "seasonal": 12.08,
+    "noise": 4.94
+  },
+  {
+    "timestamp": "2025-05-14T23:39:37.310997",
+    "value": 169.73,
+    "trend": 53.9,
+    "seasonal": 12.29,
+    "noise": 3.54
+  },
+  {
+    "timestamp": "2025-05-15T00:39:37.311010",
+    "value": 163.62,
+    "trend": 54.0,
+    "seasonal": 12.5,
+    "noise": -2.88
+  },
+  {
+    "timestamp": "2025-05-15T01:39:37.311019",
+    "value": 167.4,
+    "trend": 54.1,
+    "seasonal": 12.71,
+    "noise": 0.59
+  },
+  {
+    "timestamp": "2025-05-15T02:39:37.311028",
+    "value": 171.64,
+    "trend": 54.2,
+    "seasonal": 12.92,
+    "noise": 4.53
+  },
+  {
+    "timestamp": "2025-05-15T03:39:37.311037",
+    "value": 170.18,
+    "trend": 54.3,
+    "seasonal": 13.12,
+    "noise": 2.76
+  },
+  {
+    "timestamp": "2025-05-15T04:39:37.311046",
+    "value": 163.46,
+    "trend": 54.4,
+    "seasonal": 13.33,
+    "noise": -4.27
+  },
+  {
+    "timestamp": "2025-05-15T05:39:37.311055",
+    "value": 168.92,
+    "trend": 54.5,
+    "seasonal": 13.54,
+    "noise": 0.87
+  },
+  {
+    "timestamp": "2025-05-15T06:39:37.311064",
+    "value": 170.19,
+    "trend": 54.6,
+    "seasonal": 13.75,
+    "noise": 1.84
+  },
+  {
+    "timestamp": "2025-05-15T07:39:37.311072",
+    "value": 168.7,
+    "trend": 54.7,
+    "seasonal": 13.96,
+    "noise": 0.04
+  },
+  {
+    "timestamp": "2025-05-15T08:39:37.311081",
+    "value": 171.98,
+    "trend": 54.8,
+    "seasonal": 14.17,
+    "noise": 3.01
+  },
+  {
+    "timestamp": "2025-05-15T09:39:37.311090",
+    "value": 166.6,
+    "trend": 54.9,
+    "seasonal": 14.38,
+    "noise": -2.67
+  },
+  {
+    "timestamp": "2025-05-15T10:39:37.311099",
+    "value": 173.5,
+    "trend": 55.0,
+    "seasonal": 14.58,
+    "noise": 3.92
+  },
+  {
+    "timestamp": "2025-05-15T11:39:37.311108",
+    "value": 171.88,
+    "trend": 55.1,
+    "seasonal": 14.79,
+    "noise": 1.98
+  },
+  {
+    "timestamp": "2025-05-15T12:39:37.311117",
+    "value": 160.67,
+    "trend": 55.2,
+    "seasonal": 10.0,
+    "noise": -4.53
+  },
+  {
+    "timestamp": "2025-05-15T13:39:37.311128",
+    "value": 166.42,
+    "trend": 55.3,
+    "seasonal": 10.21,
+    "noise": 0.91
+  },
+  {
+    "timestamp": "2025-05-15T14:39:37.311138",
+    "value": 165.51,
+    "trend": 55.4,
+    "seasonal": 10.42,
+    "noise": -0.31
+  },
+  {
+    "timestamp": "2025-05-15T15:39:37.311150",
+    "value": 170.81,
+    "trend": 55.5,
+    "seasonal": 10.62,
+    "noise": 4.69
+  },
+  {
+    "timestamp": "2025-05-15T16:39:37.311160",
+    "value": 164.73,
+    "trend": 55.6,
+    "seasonal": 10.83,
+    "noise": -1.71
+  },
+  {
+    "timestamp": "2025-05-15T17:39:37.311169",
+    "value": 169.46,
+    "trend": 55.7,
+    "seasonal": 11.04,
+    "noise": 2.71
+  },
+  {
+    "timestamp": "2025-05-15T18:39:37.311178",
+    "value": 167.18,
+    "trend": 55.8,
+    "seasonal": 11.25,
+    "noise": 0.13
+  },
+  {
+    "timestamp": "2025-05-15T19:39:37.311186",
+    "value": 170.23,
+    "trend": 55.9,
+    "seasonal": 11.46,
+    "noise": 2.87
+  },
+  {
+    "timestamp": "2025-05-15T20:39:37.311195",
+    "value": 164.43,
+    "trend": 56.0,
+    "seasonal": 11.67,
+    "noise": -3.23
+  },
+  {
+    "timestamp": "2025-05-15T21:39:37.311204",
+    "value": 168.53,
+    "trend": 56.1,
+    "seasonal": 11.88,
+    "noise": 0.55
+  },
+  {
+    "timestamp": "2025-05-15T22:39:37.311213",
+    "value": 168.84,
+    "trend": 56.2,
+    "seasonal": 12.08,
+    "noise": 0.56
+  },
+  {
+    "timestamp": "2025-05-15T23:39:37.311222",
+    "value": 173.2,
+    "trend": 56.3,
+    "seasonal": 12.29,
+    "noise": 4.61
+  },
+  {
+    "timestamp": "2025-05-16T00:39:37.311231",
+    "value": 164.56,
+    "trend": 56.4,
+    "seasonal": 12.5,
+    "noise": -4.34
+  },
+  {
+    "timestamp": "2025-05-16T01:39:37.311240",
+    "value": 169.46,
+    "trend": 56.5,
+    "seasonal": 12.71,
+    "noise": 0.26
+  },
+  {
+    "timestamp": "2025-05-16T02:39:37.311249",
+    "value": 171.99,
+    "trend": 56.6,
+    "seasonal": 12.92,
+    "noise": 2.47
+  },
+  {
+    "timestamp": "2025-05-16T03:39:37.311261",
+    "value": 167.62,
+    "trend": 56.7,
+    "seasonal": 13.12,
+    "noise": -2.21
+  },
+  {
+    "timestamp": "2025-05-16T04:39:37.311271",
+    "value": 166.79,
+    "trend": 56.8,
+    "seasonal": 13.33,
+    "noise": -3.34
+  },
+  {
+    "timestamp": "2025-05-16T05:39:37.311280",
+    "value": 166.36,
+    "trend": 56.9,
+    "seasonal": 13.54,
+    "noise": -4.09
+  },
+  {
+    "timestamp": "2025-05-16T06:39:37.311289",
+    "value": 175.29,
+    "trend": 57.0,
+    "seasonal": 13.75,
+    "noise": 4.54
+  },
+  {
+    "timestamp": "2025-05-16T07:39:37.311298",
+    "value": 174.97,
+    "trend": 57.1,
+    "seasonal": 13.96,
+    "noise": 3.91
+  },
+  {
+    "timestamp": "2025-05-16T08:39:37.311307",
+    "value": 167.41,
+    "trend": 57.2,
+    "seasonal": 14.17,
+    "noise": -3.95
+  },
+  {
+    "timestamp": "2025-05-16T09:39:37.311316",
+    "value": 168.27,
+    "trend": 57.3,
+    "seasonal": 14.38,
+    "noise": -3.41
+  },
+  {
+    "timestamp": "2025-05-16T10:39:37.311325",
+    "value": 170.85,
+    "trend": 57.4,
+    "seasonal": 14.58,
+    "noise": -1.14
+  },
+  {
+    "timestamp": "2025-05-16T11:39:37.311333",
+    "value": 173.48,
+    "trend": 57.5,
+    "seasonal": 14.79,
+    "noise": 1.19
+  },
+  {
+    "timestamp": "2025-05-16T12:39:37.311343",
+    "value": 167.01,
+    "trend": 57.6,
+    "seasonal": 10.0,
+    "noise": -0.59
+  },
+  {
+    "timestamp": "2025-05-16T13:39:37.311359",
+    "value": 166.78,
+    "trend": 57.7,
+    "seasonal": 10.21,
+    "noise": -1.12
+  },
+  {
+    "timestamp": "2025-05-16T14:39:37.311376",
+    "value": 165.39,
+    "trend": 57.8,
+    "seasonal": 10.42,
+    "noise": -2.83
+  },
+  {
+    "timestamp": "2025-05-16T15:39:37.311393",
+    "value": 164.84,
+    "trend": 57.9,
+    "seasonal": 10.62,
+    "noise": -3.69
+  },
+  {
+    "timestamp": "2025-05-16T16:39:37.311410",
+    "value": 165.96,
+    "trend": 58.0,
+    "seasonal": 10.83,
+    "noise": -2.87
+  },
+  {
+    "timestamp": "2025-05-16T17:39:37.311420",
+    "value": 165.47,
+    "trend": 58.1,
+    "seasonal": 11.04,
+    "noise": -3.67
+  },
+  {
+    "timestamp": "2025-05-16T18:39:37.311429",
+    "value": 169.34,
+    "trend": 58.2,
+    "seasonal": 11.25,
+    "noise": -0.11
+  },
+  {
+    "timestamp": "2025-05-16T19:39:37.311438",
+    "value": 165.89,
+    "trend": 58.3,
+    "seasonal": 11.46,
+    "noise": -3.87
+  },
+  {
+    "timestamp": "2025-05-16T20:39:37.311447",
+    "value": 172.93,
+    "trend": 58.4,
+    "seasonal": 11.67,
+    "noise": 2.87
+  },
+  {
+    "timestamp": "2025-05-16T21:39:37.311461",
+    "value": 165.54,
+    "trend": 58.5,
+    "seasonal": 11.88,
+    "noise": -4.83
+  },
+  {
+    "timestamp": "2025-05-16T22:39:37.311471",
+    "value": 167.46,
+    "trend": 58.6,
+    "seasonal": 12.08,
+    "noise": -3.22
+  },
+  {
+    "timestamp": "2025-05-16T23:39:37.311480",
+    "value": 168.44,
+    "trend": 58.7,
+    "seasonal": 12.29,
+    "noise": -2.56
+  },
+  {
+    "timestamp": "2025-05-17T00:39:37.311489",
+    "value": 167.71,
+    "trend": 58.8,
+    "seasonal": 12.5,
+    "noise": -3.59
+  },
+  {
+    "timestamp": "2025-05-17T01:39:37.311498",
+    "value": 175.17,
+    "trend": 58.9,
+    "seasonal": 12.71,
+    "noise": 3.56
+  },
+  {
+    "timestamp": "2025-05-17T02:39:37.311506",
+    "value": 172.18,
+    "trend": 59.0,
+    "seasonal": 12.92,
+    "noise": 0.26
+  },
+  {
+    "timestamp": "2025-05-17T03:39:37.311515",
+    "value": 172.74,
+    "trend": 59.1,
+    "seasonal": 13.12,
+    "noise": 0.51
+  },
+  {
+    "timestamp": "2025-05-17T04:39:37.311525",
+    "value": 176.26,
+    "trend": 59.2,
+    "seasonal": 13.33,
+    "noise": 3.73
+  },
+  {
+    "timestamp": "2025-05-17T05:39:37.311535",
+    "value": 173.17,
+    "trend": 59.3,
+    "seasonal": 13.54,
+    "noise": 0.33
+  },
+  {
+    "timestamp": "2025-05-17T06:39:37.311546",
+    "value": 174.26,
+    "trend": 59.4,
+    "seasonal": 13.75,
+    "noise": 1.11
+  },
+  {
+    "timestamp": "2025-05-17T07:39:37.311555",
+    "value": 170.13,
+    "trend": 59.5,
+    "seasonal": 13.96,
+    "noise": -3.33
+  },
+  {
+    "timestamp": "2025-05-17T08:39:37.311564",
+    "value": 172.91,
+    "trend": 59.6,
+    "seasonal": 14.17,
+    "noise": -0.85
+  },
+  {
+    "timestamp": "2025-05-17T09:39:37.311573",
+    "value": 169.32,
+    "trend": 59.7,
+    "seasonal": 14.38,
+    "noise": -4.76
+  },
+  {
+    "timestamp": "2025-05-17T10:39:37.311582",
+    "value": 172.0,
+    "trend": 59.8,
+    "seasonal": 14.58,
+    "noise": -2.38
+  },
+  {
+    "timestamp": "2025-05-17T11:39:37.311595",
+    "value": 173.5,
+    "trend": 59.9,
+    "seasonal": 14.79,
+    "noise": -1.19
+  },
+  {
+    "timestamp": "2025-05-17T12:39:37.311604",
+    "value": 166.3,
+    "trend": 60.0,
+    "seasonal": 10.0,
+    "noise": -3.7
+  },
+  {
+    "timestamp": "2025-05-17T13:39:37.311613",
+    "value": 169.84,
+    "trend": 60.1,
+    "seasonal": 10.21,
+    "noise": -0.46
+  },
+  {
+    "timestamp": "2025-05-17T14:39:37.311622",
+    "value": 174.38,
+    "trend": 60.2,
+    "seasonal": 10.42,
+    "noise": 3.77
+  },
+  {
+    "timestamp": "2025-05-17T15:39:37.311631",
+    "value": 166.82,
+    "trend": 60.3,
+    "seasonal": 10.62,
+    "noise": -4.11
+  },
+  {
+    "timestamp": "2025-05-17T16:39:37.311643",
+    "value": 175.12,
+    "trend": 60.4,
+    "seasonal": 10.83,
+    "noise": 3.88
+  },
+  {
+    "timestamp": "2025-05-17T17:39:37.311653",
+    "value": 167.57,
+    "trend": 60.5,
+    "seasonal": 11.04,
+    "noise": -3.97
+  },
+  {
+    "timestamp": "2025-05-17T18:39:37.311662",
+    "value": 172.6,
+    "trend": 60.6,
+    "seasonal": 11.25,
+    "noise": 0.75
+  },
+  {
+    "timestamp": "2025-05-17T19:39:37.311674",
+    "value": 169.41,
+    "trend": 60.7,
+    "seasonal": 11.46,
+    "noise": -2.75
+  },
+  {
+    "timestamp": "2025-05-17T20:39:37.311683",
+    "value": 176.81,
+    "trend": 60.8,
+    "seasonal": 11.67,
+    "noise": 4.34
+  },
+  {
+    "timestamp": "2025-05-17T21:39:37.311692",
+    "value": 167.96,
+    "trend": 60.9,
+    "seasonal": 11.88,
+    "noise": -4.81
+  },
+  {
+    "timestamp": "2025-05-17T22:39:37.311701",
+    "value": 177.07,
+    "trend": 61.0,
+    "seasonal": 12.08,
+    "noise": 3.99
+  },
+  {
+    "timestamp": "2025-05-17T23:39:37.311710",
+    "value": 169.09,
+    "trend": 61.1,
+    "seasonal": 12.29,
+    "noise": -4.31
+  },
+  {
+    "timestamp": "2025-05-18T00:39:37.311719",
+    "value": 174.72,
+    "trend": 61.2,
+    "seasonal": 12.5,
+    "noise": 1.02
+  },
+  {
+    "timestamp": "2025-05-18T01:39:37.311728",
+    "value": 177.4,
+    "trend": 61.3,
+    "seasonal": 12.71,
+    "noise": 3.39
+  },
+  {
+    "timestamp": "2025-05-18T02:39:37.311737",
+    "value": 176.89,
+    "trend": 61.4,
+    "seasonal": 12.92,
+    "noise": 2.58
+  },
+  {
+    "timestamp": "2025-05-18T03:39:37.311746",
+    "value": 170.27,
+    "trend": 61.5,
+    "seasonal": 13.12,
+    "noise": -4.36
+  },
+  {
+    "timestamp": "2025-05-18T04:39:37.311755",
+    "value": 173.9,
+    "trend": 61.6,
+    "seasonal": 13.33,
+    "noise": -1.03
+  },
+  {
+    "timestamp": "2025-05-18T05:39:37.311767",
+    "value": 176.61,
+    "trend": 61.7,
+    "seasonal": 13.54,
+    "noise": 1.37
+  },
+  {
+    "timestamp": "2025-05-18T06:39:37.311776",
+    "value": 172.11,
+    "trend": 61.8,
+    "seasonal": 13.75,
+    "noise": -3.44
+  },
+  {
+    "timestamp": "2025-05-18T07:39:37.311785",
+    "value": 176.29,
+    "trend": 61.9,
+    "seasonal": 13.96,
+    "noise": 0.43
+  },
+  {
+    "timestamp": "2025-05-18T08:39:37.311794",
+    "value": 171.35,
+    "trend": 62.0,
+    "seasonal": 14.17,
+    "noise": -4.82
+  },
+  {
+    "timestamp": "2025-05-18T09:39:37.311803",
+    "value": 173.63,
+    "trend": 62.1,
+    "seasonal": 14.38,
+    "noise": -2.85
+  },
+  {
+    "timestamp": "2025-05-18T10:39:37.311812",
+    "value": 176.27,
+    "trend": 62.2,
+    "seasonal": 14.58,
+    "noise": -0.51
+  },
+  {
+    "timestamp": "2025-05-18T11:39:37.311821",
+    "value": 172.41,
+    "trend": 62.3,
+    "seasonal": 14.79,
+    "noise": -4.68
+  },
+  {
+    "timestamp": "2025-05-18T12:39:37.311830",
+    "value": 167.7,
+    "trend": 62.4,
+    "seasonal": 10.0,
+    "noise": -4.7
+  },
+  {
+    "timestamp": "2025-05-18T13:39:37.311839",
+    "value": 173.37,
+    "trend": 62.5,
+    "seasonal": 10.21,
+    "noise": 0.66
+  },
+  {
+    "timestamp": "2025-05-18T14:39:37.311848",
+    "value": 176.89,
+    "trend": 62.6,
+    "seasonal": 10.42,
+    "noise": 3.87
+  },
+  {
+    "timestamp": "2025-05-18T15:39:37.311857",
+    "value": 177.2,
+    "trend": 62.7,
+    "seasonal": 10.62,
+    "noise": 3.88
+  },
+  {
+    "timestamp": "2025-05-18T16:39:37.311866",
+    "value": 169.54,
+    "trend": 62.8,
+    "seasonal": 10.83,
+    "noise": -4.09
+  },
+  {
+    "timestamp": "2025-05-18T17:39:37.311875",
+    "value": 174.91,
+    "trend": 62.9,
+    "seasonal": 11.04,
+    "noise": 0.97
+  },
+  {
+    "timestamp": "2025-05-18T18:39:37.311887",
+    "value": 169.3,
+    "trend": 63.0,
+    "seasonal": 11.25,
+    "noise": -4.95
+  },
+  {
+    "timestamp": "2025-05-18T19:39:37.311896",
+    "value": 178.21,
+    "trend": 63.1,
+    "seasonal": 11.46,
+    "noise": 3.66
+  },
+  {
+    "timestamp": "2025-05-18T20:39:37.311905",
+    "value": 177.42,
+    "trend": 63.2,
+    "seasonal": 11.67,
+    "noise": 2.56
+  },
+  {
+    "timestamp": "2025-05-18T21:39:37.311914",
+    "value": 174.06,
+    "trend": 63.3,
+    "seasonal": 11.88,
+    "noise": -1.12
+  },
+  {
+    "timestamp": "2025-05-18T22:39:37.311923",
+    "value": 174.36,
+    "trend": 63.4,
+    "seasonal": 12.08,
+    "noise": -1.12
+  },
+  {
+    "timestamp": "2025-05-18T23:39:37.311932",
+    "value": 179.44,
+    "trend": 63.5,
+    "seasonal": 12.29,
+    "noise": 3.65
+  },
+  {
+    "timestamp": "2025-05-19T00:39:37.311941",
+    "value": 173.46,
+    "trend": 63.6,
+    "seasonal": 12.5,
+    "noise": -2.64
+  },
+  {
+    "timestamp": "2025-05-19T01:39:37.311950",
+    "value": 175.44,
+    "trend": 63.7,
+    "seasonal": 12.71,
+    "noise": -0.97
+  },
+  {
+    "timestamp": "2025-05-19T02:39:37.311959",
+    "value": 181.07,
+    "trend": 63.8,
+    "seasonal": 12.92,
+    "noise": 4.36
+  },
+  {
+    "timestamp": "2025-05-19T03:39:37.311968",
+    "value": 176.98,
+    "trend": 63.9,
+    "seasonal": 13.12,
+    "noise": -0.05
+  },
+  {
+    "timestamp": "2025-05-19T04:39:37.311977",
+    "value": 181.28,
+    "trend": 64.0,
+    "seasonal": 13.33,
+    "noise": 3.94
+  },
+  {
+    "timestamp": "2025-05-19T05:39:37.311986",
+    "value": 174.21,
+    "trend": 64.1,
+    "seasonal": 13.54,
+    "noise": -3.43
+  },
+  {
+    "timestamp": "2025-05-19T06:39:37.311995",
+    "value": 179.28,
+    "trend": 64.2,
+    "seasonal": 13.75,
+    "noise": 1.33
+  },
+  {
+    "timestamp": "2025-05-19T07:39:37.312004",
+    "value": 176.08,
+    "trend": 64.3,
+    "seasonal": 13.96,
+    "noise": -2.18
+  },
+  {
+    "timestamp": "2025-05-19T08:39:37.312013",
+    "value": 174.05,
+    "trend": 64.4,
+    "seasonal": 14.17,
+    "noise": -4.51
+  },
+  {
+    "timestamp": "2025-05-19T09:39:37.312022",
+    "value": 181.01,
+    "trend": 64.5,
+    "seasonal": 14.38,
+    "noise": 2.13
+  },
+  {
+    "timestamp": "2025-05-19T10:39:37.312031",
+    "value": 183.74,
+    "trend": 64.6,
+    "seasonal": 14.58,
+    "noise": 4.56
+  },
+  {
+    "timestamp": "2025-05-19T11:39:37.312040",
+    "value": 174.56,
+    "trend": 64.7,
+    "seasonal": 14.79,
+    "noise": -4.93
+  },
+  {
+    "timestamp": "2025-05-19T12:39:37.312048",
+    "value": 177.16,
+    "trend": 64.8,
+    "seasonal": 10.0,
+    "noise": 2.36
+  },
+  {
+    "timestamp": "2025-05-19T13:39:37.312061",
+    "value": 179.07,
+    "trend": 64.9,
+    "seasonal": 10.21,
+    "noise": 3.96
+  },
+  {
+    "timestamp": "2025-05-19T14:39:37.312070",
+    "value": 177.32,
+    "trend": 65.0,
+    "seasonal": 10.42,
+    "noise": 1.9
+  },
+  {
+    "timestamp": "2025-05-19T15:39:37.312079",
+    "value": 179.6,
+    "trend": 65.1,
+    "seasonal": 10.62,
+    "noise": 3.87
+  },
+  {
+    "timestamp": "2025-05-19T16:39:37.312088",
+    "value": 174.54,
+    "trend": 65.2,
+    "seasonal": 10.83,
+    "noise": -1.49
+  },
+  {
+    "timestamp": "2025-05-19T17:39:37.312097",
+    "value": 173.75,
+    "trend": 65.3,
+    "seasonal": 11.04,
+    "noise": -2.59
+  },
+  {
+    "timestamp": "2025-05-19T18:39:37.312105",
+    "value": 173.72,
+    "trend": 65.4,
+    "seasonal": 11.25,
+    "noise": -2.93
+  },
+  {
+    "timestamp": "2025-05-19T19:39:37.312114",
+    "value": 172.23,
+    "trend": 65.5,
+    "seasonal": 11.46,
+    "noise": -4.73
+  },
+  {
+    "timestamp": "2025-05-19T20:39:37.312123",
+    "value": 181.81,
+    "trend": 65.6,
+    "seasonal": 11.67,
+    "noise": 4.55
+  },
+  {
+    "timestamp": "2025-05-19T21:39:37.312135",
+    "value": 179.68,
+    "trend": 65.7,
+    "seasonal": 11.88,
+    "noise": 2.1
+  },
+  {
+    "timestamp": "2025-05-19T22:39:37.312145",
+    "value": 177.1,
+    "trend": 65.8,
+    "seasonal": 12.08,
+    "noise": -0.79
+  },
+  {
+    "timestamp": "2025-05-19T23:39:37.312154",
+    "value": 176.45,
+    "trend": 65.9,
+    "seasonal": 12.29,
+    "noise": -1.75
+  },
+  {
+    "timestamp": "2025-05-20T00:39:37.312163",
+    "value": 174.18,
+    "trend": 66.0,
+    "seasonal": 12.5,
+    "noise": -4.32
+  },
+  {
+    "timestamp": "2025-05-20T01:39:37.312171",
+    "value": 176.93,
+    "trend": 66.1,
+    "seasonal": 12.71,
+    "noise": -1.88
+  },
+  {
+    "timestamp": "2025-05-20T02:39:37.312183",
+    "value": 182.45,
+    "trend": 66.2,
+    "seasonal": 12.92,
+    "noise": 3.34
+  },
+  {
+    "timestamp": "2025-05-20T03:39:37.312192",
+    "value": 177.15,
+    "trend": 66.3,
+    "seasonal": 13.12,
+    "noise": -2.28
+  },
+  {
+    "timestamp": "2025-05-20T04:39:37.312201",
+    "value": 184.12,
+    "trend": 66.4,
+    "seasonal": 13.33,
+    "noise": 4.38
+  },
+  {
+    "timestamp": "2025-05-20T05:39:37.312211",
+    "value": 179.9,
+    "trend": 66.5,
+    "seasonal": 13.54,
+    "noise": -0.15
+  },
+  {
+    "timestamp": "2025-05-20T06:39:37.312219",
+    "value": 175.7,
+    "trend": 66.6,
+    "seasonal": 13.75,
+    "noise": -4.65
+  },
+  {
+    "timestamp": "2025-05-20T07:39:37.312231",
+    "value": 184.6,
+    "trend": 66.7,
+    "seasonal": 13.96,
+    "noise": 3.94
+  },
+  {
+    "timestamp": "2025-05-20T08:39:37.312240",
+    "value": 182.62,
+    "trend": 66.8,
+    "seasonal": 14.17,
+    "noise": 1.66
+  },
+  {
+    "timestamp": "2025-05-20T09:39:37.312249",
+    "value": 184.38,
+    "trend": 66.9,
+    "seasonal": 14.38,
+    "noise": 3.1
+  },
+  {
+    "timestamp": "2025-05-20T10:39:37.312258",
+    "value": 186.06,
+    "trend": 67.0,
+    "seasonal": 14.58,
+    "noise": 4.48
+  },
+  {
+    "timestamp": "2025-05-20T11:39:37.312267",
+    "value": 177.9,
+    "trend": 67.1,
+    "seasonal": 14.79,
+    "noise": -4.0
+  },
+  {
+    "timestamp": "2025-05-20T12:39:37.312276",
+    "value": 174.41,
+    "trend": 67.2,
+    "seasonal": 10.0,
+    "noise": -2.79
+  },
+  {
+    "timestamp": "2025-05-20T13:39:37.312286",
+    "value": 173.76,
+    "trend": 67.3,
+    "seasonal": 10.21,
+    "noise": -3.74
+  },
+  {
+    "timestamp": "2025-05-20T14:39:37.312295",
+    "value": 178.73,
+    "trend": 67.4,
+    "seasonal": 10.42,
+    "noise": 0.92
+  },
+  {
+    "timestamp": "2025-05-20T15:39:37.312304",
+    "value": 177.56,
+    "trend": 67.5,
+    "seasonal": 10.62,
+    "noise": -0.57
+  },
+  {
+    "timestamp": "2025-05-20T16:39:37.312313",
+    "value": 173.98,
+    "trend": 67.6,
+    "seasonal": 10.83,
+    "noise": -4.45
+  },
+  {
+    "timestamp": "2025-05-20T17:39:37.312322",
+    "value": 182.39,
+    "trend": 67.7,
+    "seasonal": 11.04,
+    "noise": 3.65
+  },
+  {
+    "timestamp": "2025-05-20T18:39:37.312331",
+    "value": 179.91,
+    "trend": 67.8,
+    "seasonal": 11.25,
+    "noise": 0.86
+  },
+  {
+    "timestamp": "2025-05-20T19:39:37.312339",
+    "value": 183.73,
+    "trend": 67.9,
+    "seasonal": 11.46,
+    "noise": 4.37
+  },
+  {
+    "timestamp": "2025-05-20T20:39:37.312348",
+    "value": 182.6,
+    "trend": 68.0,
+    "seasonal": 11.67,
+    "noise": 2.93
+  },
+  {
+    "timestamp": "2025-05-20T21:39:37.312360",
+    "value": 177.91,
+    "trend": 68.1,
+    "seasonal": 11.88,
+    "noise": -2.07
+  },
+  {
+    "timestamp": "2025-05-20T22:39:37.312373",
+    "value": 175.28,
+    "trend": 68.2,
+    "seasonal": 12.08,
+    "noise": -5.0
+  },
+  {
+    "timestamp": "2025-05-20T23:39:37.312383",
+    "value": 178.69,
+    "trend": 68.3,
+    "seasonal": 12.29,
+    "noise": -1.91
+  },
+  {
+    "timestamp": "2025-05-21T00:39:37.312392",
+    "value": 182.28,
+    "trend": 68.4,
+    "seasonal": 12.5,
+    "noise": 1.38
+  },
+  {
+    "timestamp": "2025-05-21T01:39:37.312401",
+    "value": 178.22,
+    "trend": 68.5,
+    "seasonal": 12.71,
+    "noise": -2.98
+  },
+  {
+    "timestamp": "2025-05-21T02:39:37.312410",
+    "value": 182.19,
+    "trend": 68.6,
+    "seasonal": 12.92,
+    "noise": 0.67
+  },
+  {
+    "timestamp": "2025-05-21T03:39:37.312419",
+    "value": 183.63,
+    "trend": 68.7,
+    "seasonal": 13.12,
+    "noise": 1.8
+  },
+  {
+    "timestamp": "2025-05-21T04:39:37.312428",
+    "value": 181.28,
+    "trend": 68.8,
+    "seasonal": 13.33,
+    "noise": -0.85
+  },
+  {
+    "timestamp": "2025-05-21T05:39:37.312437",
+    "value": 179.83,
+    "trend": 68.9,
+    "seasonal": 13.54,
+    "noise": -2.61
+  },
+  {
+    "timestamp": "2025-05-21T06:39:37.312446",
+    "value": 183.38,
+    "trend": 69.0,
+    "seasonal": 13.75,
+    "noise": 0.63
+  },
+  {
+    "timestamp": "2025-05-21T07:39:37.312455",
+    "value": 180.28,
+    "trend": 69.1,
+    "seasonal": 13.96,
+    "noise": -2.78
+  },
+  {
+    "timestamp": "2025-05-21T08:39:37.312464",
+    "value": 182.21,
+    "trend": 69.2,
+    "seasonal": 14.17,
+    "noise": -1.16
+  },
+  {
+    "timestamp": "2025-05-21T09:39:37.312473",
+    "value": 185.28,
+    "trend": 69.3,
+    "seasonal": 14.38,
+    "noise": 1.61
+  },
+  {
+    "timestamp": "2025-05-21T10:39:37.312485",
+    "value": 184.16,
+    "trend": 69.4,
+    "seasonal": 14.58,
+    "noise": 0.17
+  },
+  {
+    "timestamp": "2025-05-21T11:39:37.312495",
+    "value": 188.82,
+    "trend": 69.5,
+    "seasonal": 14.79,
+    "noise": 4.53
+  },
+  {
+    "timestamp": "2025-05-21T12:39:37.312504",
+    "value": 179.41,
+    "trend": 69.6,
+    "seasonal": 10.0,
+    "noise": -0.19
+  },
+  {
+    "timestamp": "2025-05-21T13:39:37.312513",
+    "value": 176.91,
+    "trend": 69.7,
+    "seasonal": 10.21,
+    "noise": -2.99
+  },
+  {
+    "timestamp": "2025-05-21T14:39:37.312521",
+    "value": 181.27,
+    "trend": 69.8,
+    "seasonal": 10.42,
+    "noise": 1.05
+  },
+  {
+    "timestamp": "2025-05-21T15:39:37.312530",
+    "value": 181.41,
+    "trend": 69.9,
+    "seasonal": 10.62,
+    "noise": 0.88
+  },
+  {
+    "timestamp": "2025-05-21T16:39:37.312539",
+    "value": 184.57,
+    "trend": 70.0,
+    "seasonal": 10.83,
+    "noise": 3.74
+  },
+  {
+    "timestamp": "2025-05-21T17:39:37.312548",
+    "value": 176.34,
+    "trend": 70.1,
+    "seasonal": 11.04,
+    "noise": -4.81
+  },
+  {
+    "timestamp": "2025-05-21T18:39:37.312557",
+    "value": 176.57,
+    "trend": 70.2,
+    "seasonal": 11.25,
+    "noise": -4.88
+  },
+  {
+    "timestamp": "2025-05-21T19:39:37.312566",
+    "value": 184.71,
+    "trend": 70.3,
+    "seasonal": 11.46,
+    "noise": 2.95
+  },
+  {
+    "timestamp": "2025-05-21T20:39:37.312575",
+    "value": 180.05,
+    "trend": 70.4,
+    "seasonal": 11.67,
+    "noise": -2.02
+  },
+  {
+    "timestamp": "2025-05-21T21:39:37.312584",
+    "value": 181.29,
+    "trend": 70.5,
+    "seasonal": 11.88,
+    "noise": -1.08
+  },
+  {
+    "timestamp": "2025-05-21T22:39:37.312593",
+    "value": 184.5,
+    "trend": 70.6,
+    "seasonal": 12.08,
+    "noise": 1.82
+  },
+  {
+    "timestamp": "2025-05-21T23:39:37.312602",
+    "value": 182.87,
+    "trend": 70.7,
+    "seasonal": 12.29,
+    "noise": -0.12
+  },
+  {
+    "timestamp": "2025-05-22T00:39:37.312613",
+    "value": 178.74,
+    "trend": 70.8,
+    "seasonal": 12.5,
+    "noise": -4.56
+  },
+  {
+    "timestamp": "2025-05-22T01:39:37.312623",
+    "value": 185.74,
+    "trend": 70.9,
+    "seasonal": 12.71,
+    "noise": 2.13
+  },
+  {
+    "timestamp": "2025-05-22T02:39:37.312631",
+    "value": 183.22,
+    "trend": 71.0,
+    "seasonal": 12.92,
+    "noise": -0.69
+  },
+  {
+    "timestamp": "2025-05-22T03:39:37.312641",
+    "value": 181.64,
+    "trend": 71.1,
+    "seasonal": 13.12,
+    "noise": -2.59
+  },
+  {
+    "timestamp": "2025-05-22T04:39:37.312650",
+    "value": 180.75,
+    "trend": 71.2,
+    "seasonal": 13.33,
+    "noise": -3.79
+  },
+  {
+    "timestamp": "2025-05-22T05:39:37.312662",
+    "value": 183.75,
+    "trend": 71.3,
+    "seasonal": 13.54,
+    "noise": -1.09
+  },
+  {
+    "timestamp": "2025-05-22T06:39:37.312671",
+    "value": 180.2,
+    "trend": 71.4,
+    "seasonal": 13.75,
+    "noise": -4.95
+  },
+  {
+    "timestamp": "2025-05-22T07:39:37.312680",
+    "value": 188.76,
+    "trend": 71.5,
+    "seasonal": 13.96,
+    "noise": 3.3
+  },
+  {
+    "timestamp": "2025-05-22T08:39:37.312689",
+    "value": 180.94,
+    "trend": 71.6,
+    "seasonal": 14.17,
+    "noise": -4.82
+  },
+  {
+    "timestamp": "2025-05-22T09:39:37.312698",
+    "value": 186.85,
+    "trend": 71.7,
+    "seasonal": 14.38,
+    "noise": 0.78
+  },
+  {
+    "timestamp": "2025-05-22T10:39:37.312707",
+    "value": 189.07,
+    "trend": 71.8,
+    "seasonal": 14.58,
+    "noise": 2.69
+  },
+  {
+    "timestamp": "2025-05-22T11:39:37.312716",
+    "value": 190.73,
+    "trend": 71.9,
+    "seasonal": 14.79,
+    "noise": 4.04
+  },
+  {
+    "timestamp": "2025-05-22T12:39:37.312725",
+    "value": 180.7,
+    "trend": 72.0,
+    "seasonal": 10.0,
+    "noise": -1.3
+  },
+  {
+    "timestamp": "2025-05-22T13:39:37.312734",
+    "value": 185.73,
+    "trend": 72.1,
+    "seasonal": 10.21,
+    "noise": 3.42
+  },
+  {
+    "timestamp": "2025-05-22T14:39:37.312743",
+    "value": 182.73,
+    "trend": 72.2,
+    "seasonal": 10.42,
+    "noise": 0.11
+  },
+  {
+    "timestamp": "2025-05-22T15:39:37.312752",
+    "value": 184.68,
+    "trend": 72.3,
+    "seasonal": 10.62,
+    "noise": 1.76
+  },
+  {
+    "timestamp": "2025-05-22T16:39:37.312761",
+    "value": 185.42,
+    "trend": 72.4,
+    "seasonal": 10.83,
+    "noise": 2.19
+  },
+  {
+    "timestamp": "2025-05-22T17:39:37.312770",
+    "value": 181.45,
+    "trend": 72.5,
+    "seasonal": 11.04,
+    "noise": -2.1
+  },
+  {
+    "timestamp": "2025-05-22T18:39:37.312781",
+    "value": 187.45,
+    "trend": 72.6,
+    "seasonal": 11.25,
+    "noise": 3.6
+  },
+  {
+    "timestamp": "2025-05-22T19:39:37.312791",
+    "value": 182.03,
+    "trend": 72.7,
+    "seasonal": 11.46,
+    "noise": -2.12
+  },
+  {
+    "timestamp": "2025-05-22T20:39:37.312800",
+    "value": 181.08,
+    "trend": 72.8,
+    "seasonal": 11.67,
+    "noise": -3.39
+  },
+  {
+    "timestamp": "2025-05-22T21:39:37.312809",
+    "value": 180.75,
+    "trend": 72.9,
+    "seasonal": 11.88,
+    "noise": -4.02
+  },
+  {
+    "timestamp": "2025-05-22T22:39:37.312818",
+    "value": 181.14,
+    "trend": 73.0,
+    "seasonal": 12.08,
+    "noise": -3.94
+  },
+  {
+    "timestamp": "2025-05-22T23:39:37.312830",
+    "value": 186.85,
+    "trend": 73.1,
+    "seasonal": 12.29,
+    "noise": 1.46
+  },
+  {
+    "timestamp": "2025-05-23T00:39:37.312839",
+    "value": 186.68,
+    "trend": 73.2,
+    "seasonal": 12.5,
+    "noise": 0.98
+  },
+  {
+    "timestamp": "2025-05-23T01:39:37.312848",
+    "value": 182.41,
+    "trend": 73.3,
+    "seasonal": 12.71,
+    "noise": -3.6
+  },
+  {
+    "timestamp": "2025-05-23T02:39:37.312857",
+    "value": 183.01,
+    "trend": 73.4,
+    "seasonal": 12.92,
+    "noise": -3.31
+  },
+  {
+    "timestamp": "2025-05-23T03:39:37.312866",
+    "value": 182.57,
+    "trend": 73.5,
+    "seasonal": 13.12,
+    "noise": -4.05
+  },
+  {
+    "timestamp": "2025-05-23T04:39:37.312875",
+    "value": 191.71,
+    "trend": 73.6,
+    "seasonal": 13.33,
+    "noise": 4.78
+  },
+  {
+    "timestamp": "2025-05-23T05:39:37.312884",
+    "value": 183.29,
+    "trend": 73.7,
+    "seasonal": 13.54,
+    "noise": -3.95
+  },
+  {
+    "timestamp": "2025-05-23T06:39:37.312893",
+    "value": 187.77,
+    "trend": 73.8,
+    "seasonal": 13.75,
+    "noise": 0.22
+  },
+  {
+    "timestamp": "2025-05-23T07:39:37.312901",
+    "value": 192.17,
+    "trend": 73.9,
+    "seasonal": 13.96,
+    "noise": 4.31
+  },
+  {
+    "timestamp": "2025-05-23T08:39:37.312910",
+    "value": 183.24,
+    "trend": 74.0,
+    "seasonal": 14.17,
+    "noise": -4.93
+  },
+  {
+    "timestamp": "2025-05-23T09:39:37.312919",
+    "value": 190.92,
+    "trend": 74.1,
+    "seasonal": 14.38,
+    "noise": 2.44
+  },
+  {
+    "timestamp": "2025-05-23T10:39:37.312928",
+    "value": 192.21,
+    "trend": 74.2,
+    "seasonal": 14.58,
+    "noise": 3.43
+  },
+  {
+    "timestamp": "2025-05-23T11:39:37.312937",
+    "value": 185.21,
+    "trend": 74.3,
+    "seasonal": 14.79,
+    "noise": -3.88
+  },
+  {
+    "timestamp": "2025-05-23T12:39:37.312948",
+    "value": 184.27,
+    "trend": 74.4,
+    "seasonal": 10.0,
+    "noise": -0.13
+  },
+  {
+    "timestamp": "2025-05-23T13:39:37.312958",
+    "value": 183.2,
+    "trend": 74.5,
+    "seasonal": 10.21,
+    "noise": -1.51
+  },
+  {
+    "timestamp": "2025-05-23T14:39:37.312967",
+    "value": 184.58,
+    "trend": 74.6,
+    "seasonal": 10.42,
+    "noise": -0.44
+  },
+  {
+    "timestamp": "2025-05-23T15:39:37.312976",
+    "value": 183.76,
+    "trend": 74.7,
+    "seasonal": 10.62,
+    "noise": -1.56
+  },
+  {
+    "timestamp": "2025-05-23T16:39:37.312985",
+    "value": 189.82,
+    "trend": 74.8,
+    "seasonal": 10.83,
+    "noise": 4.19
+  },
+  {
+    "timestamp": "2025-05-23T17:39:37.312994",
+    "value": 188.37,
+    "trend": 74.9,
+    "seasonal": 11.04,
+    "noise": 2.43
+  },
+  {
+    "timestamp": "2025-05-23T18:39:37.313003",
+    "value": 190.5,
+    "trend": 75.0,
+    "seasonal": 11.25,
+    "noise": 4.25
+  },
+  {
+    "timestamp": "2025-05-23T19:39:37.313012",
+    "value": 185.46,
+    "trend": 75.1,
+    "seasonal": 11.46,
+    "noise": -1.1
+  },
+  {
+    "timestamp": "2025-05-23T20:39:37.313020",
+    "value": 190.9,
+    "trend": 75.2,
+    "seasonal": 11.67,
+    "noise": 4.04
+  },
+  {
+    "timestamp": "2025-05-23T21:39:37.313029",
+    "value": 186.91,
+    "trend": 75.3,
+    "seasonal": 11.88,
+    "noise": -0.27
+  },
+  {
+    "timestamp": "2025-05-23T22:39:37.313039",
+    "value": 186.03,
+    "trend": 75.4,
+    "seasonal": 12.08,
+    "noise": -1.46
+  },
+  {
+    "timestamp": "2025-05-23T23:39:37.313048",
+    "value": 183.0,
+    "trend": 75.5,
+    "seasonal": 12.29,
+    "noise": -4.79
+  },
+  {
+    "timestamp": "2025-05-24T00:39:37.313057",
+    "value": 187.11,
+    "trend": 75.6,
+    "seasonal": 12.5,
+    "noise": -0.99
+  },
+  {
+    "timestamp": "2025-05-24T01:39:37.313068",
+    "value": 192.26,
+    "trend": 75.7,
+    "seasonal": 12.71,
+    "noise": 3.85
+  },
+  {
+    "timestamp": "2025-05-24T02:39:37.313077",
+    "value": 190.19,
+    "trend": 75.8,
+    "seasonal": 12.92,
+    "noise": 1.48
+  },
+  {
+    "timestamp": "2025-05-24T03:39:37.313089",
+    "value": 190.64,
+    "trend": 75.9,
+    "seasonal": 13.12,
+    "noise": 1.62
+  },
+  {
+    "timestamp": "2025-05-24T04:39:37.313098",
+    "value": 191.07,
+    "trend": 76.0,
+    "seasonal": 13.33,
+    "noise": 1.74
+  },
+  {
+    "timestamp": "2025-05-24T05:39:37.313108",
+    "value": 193.72,
+    "trend": 76.1,
+    "seasonal": 13.54,
+    "noise": 4.07
+  },
+  {
+    "timestamp": "2025-05-24T06:39:37.313117",
+    "value": 191.22,
+    "trend": 76.2,
+    "seasonal": 13.75,
+    "noise": 1.27
+  },
+  {
+    "timestamp": "2025-05-24T07:39:37.313126",
+    "value": 188.1,
+    "trend": 76.3,
+    "seasonal": 13.96,
+    "noise": -2.16
+  },
+  {
+    "timestamp": "2025-05-24T08:39:37.313135",
+    "value": 187.53,
+    "trend": 76.4,
+    "seasonal": 14.17,
+    "noise": -3.04
+  },
+  {
+    "timestamp": "2025-05-24T09:39:37.313144",
+    "value": 191.92,
+    "trend": 76.5,
+    "seasonal": 14.38,
+    "noise": 1.04
+  },
+  {
+    "timestamp": "2025-05-24T10:39:37.313153",
+    "value": 190.5,
+    "trend": 76.6,
+    "seasonal": 14.58,
+    "noise": -0.69
+  },
+  {
+    "timestamp": "2025-05-24T11:39:37.313162",
+    "value": 190.74,
+    "trend": 76.7,
+    "seasonal": 14.79,
+    "noise": -0.75
+  },
+  {
+    "timestamp": "2025-05-24T12:39:37.313171",
+    "value": 190.6,
+    "trend": 76.8,
+    "seasonal": 10.0,
+    "noise": 3.8
+  },
+  {
+    "timestamp": "2025-05-24T13:39:37.313179",
+    "value": 190.81,
+    "trend": 76.9,
+    "seasonal": 10.21,
+    "noise": 3.7
+  },
+  {
+    "timestamp": "2025-05-24T14:39:37.313188",
+    "value": 188.0,
+    "trend": 77.0,
+    "seasonal": 10.42,
+    "noise": 0.58
+  },
+  {
+    "timestamp": "2025-05-24T15:39:37.313197",
+    "value": 190.31,
+    "trend": 77.1,
+    "seasonal": 10.62,
+    "noise": 2.59
+  },
+  {
+    "timestamp": "2025-05-24T16:39:37.313206",
+    "value": 188.02,
+    "trend": 77.2,
+    "seasonal": 10.83,
+    "noise": -0.01
+  },
+  {
+    "timestamp": "2025-05-24T17:39:37.313215",
+    "value": 192.91,
+    "trend": 77.3,
+    "seasonal": 11.04,
+    "noise": 4.57
+  },
+  {
+    "timestamp": "2025-05-24T18:39:37.313223",
+    "value": 183.75,
+    "trend": 77.4,
+    "seasonal": 11.25,
+    "noise": -4.9
+  },
+  {
+    "timestamp": "2025-05-24T19:39:37.313233",
+    "value": 192.84,
+    "trend": 77.5,
+    "seasonal": 11.46,
+    "noise": 3.88
+  },
+  {
+    "timestamp": "2025-05-24T20:39:37.313280",
+    "value": 186.84,
+    "trend": 77.6,
+    "seasonal": 11.67,
+    "noise": -2.43
+  },
+  {
+    "timestamp": "2025-05-24T21:39:37.313295",
+    "value": 194.27,
+    "trend": 77.7,
+    "seasonal": 11.88,
+    "noise": 4.7
+  },
+  {
+    "timestamp": "2025-05-24T22:39:37.313304",
+    "value": 190.44,
+    "trend": 77.8,
+    "seasonal": 12.08,
+    "noise": 0.56
+  },
+  {
+    "timestamp": "2025-05-24T23:39:37.313313",
+    "value": 190.05,
+    "trend": 77.9,
+    "seasonal": 12.29,
+    "noise": -0.14
+  },
+  {
+    "timestamp": "2025-05-25T00:39:37.313323",
+    "value": 194.4,
+    "trend": 78.0,
+    "seasonal": 12.5,
+    "noise": 3.9
+  },
+  {
+    "timestamp": "2025-05-25T01:39:37.313332",
+    "value": 194.09,
+    "trend": 78.1,
+    "seasonal": 12.71,
+    "noise": 3.28
+  },
+  {
+    "timestamp": "2025-05-25T02:39:37.313341",
+    "value": 189.95,
+    "trend": 78.2,
+    "seasonal": 12.92,
+    "noise": -1.17
+  },
+  {
+    "timestamp": "2025-05-25T03:39:37.313350",
+    "value": 193.16,
+    "trend": 78.3,
+    "seasonal": 13.12,
+    "noise": 1.74
+  },
+  {
+    "timestamp": "2025-05-25T04:39:37.313359",
+    "value": 189.01,
+    "trend": 78.4,
+    "seasonal": 13.33,
+    "noise": -2.73
+  },
+  {
+    "timestamp": "2025-05-25T05:39:37.313370",
+    "value": 191.92,
+    "trend": 78.5,
+    "seasonal": 13.54,
+    "noise": -0.12
+  },
+  {
+    "timestamp": "2025-05-25T06:39:37.313382",
+    "value": 194.87,
+    "trend": 78.6,
+    "seasonal": 13.75,
+    "noise": 2.52
+  },
+  {
+    "timestamp": "2025-05-25T07:39:37.313391",
+    "value": 188.54,
+    "trend": 78.7,
+    "seasonal": 13.96,
+    "noise": -4.12
+  },
+  {
+    "timestamp": "2025-05-25T08:39:37.313400",
+    "value": 190.88,
+    "trend": 78.8,
+    "seasonal": 14.17,
+    "noise": -2.09
+  },
+  {
+    "timestamp": "2025-05-25T09:39:37.313412",
+    "value": 189.7,
+    "trend": 78.9,
+    "seasonal": 14.38,
+    "noise": -3.57
+  },
+  {
+    "timestamp": "2025-05-25T10:39:37.313422",
+    "value": 198.22,
+    "trend": 79.0,
+    "seasonal": 14.58,
+    "noise": 4.64
+  },
+  {
+    "timestamp": "2025-05-25T11:39:37.313431",
+    "value": 197.5,
+    "trend": 79.1,
+    "seasonal": 14.79,
+    "noise": 3.6
+  },
+  {
+    "timestamp": "2025-05-25T12:39:37.313440",
+    "value": 188.89,
+    "trend": 79.2,
+    "seasonal": 10.0,
+    "noise": -0.31
+  },
+  {
+    "timestamp": "2025-05-25T13:39:37.313449",
+    "value": 191.37,
+    "trend": 79.3,
+    "seasonal": 10.21,
+    "noise": 1.86
+  },
+  {
+    "timestamp": "2025-05-25T14:39:37.313458",
+    "value": 190.64,
+    "trend": 79.4,
+    "seasonal": 10.42,
+    "noise": 0.82
+  },
+  {
+    "timestamp": "2025-05-25T15:39:37.313467",
+    "value": 189.5,
+    "trend": 79.5,
+    "seasonal": 10.62,
+    "noise": -0.62
+  },
+  {
+    "timestamp": "2025-05-25T16:39:37.313476",
+    "value": 188.39,
+    "trend": 79.6,
+    "seasonal": 10.83,
+    "noise": -2.05
+  },
+  {
+    "timestamp": "2025-05-25T17:39:37.313488",
+    "value": 187.92,
+    "trend": 79.7,
+    "seasonal": 11.04,
+    "noise": -2.82
+  },
+  {
+    "timestamp": "2025-05-25T18:39:37.313497",
+    "value": 194.69,
+    "trend": 79.8,
+    "seasonal": 11.25,
+    "noise": 3.64
+  },
+  {
+    "timestamp": "2025-05-25T19:39:37.313506",
+    "value": 189.99,
+    "trend": 79.9,
+    "seasonal": 11.46,
+    "noise": -1.37
+  },
+  {
+    "timestamp": "2025-05-25T20:39:37.313515",
+    "value": 190.35,
+    "trend": 80.0,
+    "seasonal": 11.67,
+    "noise": -1.32
+  },
+  {
+    "timestamp": "2025-05-25T21:39:37.313524",
+    "value": 187.13,
+    "trend": 80.1,
+    "seasonal": 11.88,
+    "noise": -4.85
+  },
+  {
+    "timestamp": "2025-05-25T22:39:37.313533",
+    "value": 192.88,
+    "trend": 80.2,
+    "seasonal": 12.08,
+    "noise": 0.6
+  },
+  {
+    "timestamp": "2025-05-25T23:39:37.313542",
+    "value": 188.1,
+    "trend": 80.3,
+    "seasonal": 12.29,
+    "noise": -4.49
+  },
+  {
+    "timestamp": "2025-05-26T00:39:37.313551",
+    "value": 189.35,
+    "trend": 80.4,
+    "seasonal": 12.5,
+    "noise": -3.55
+  },
+  {
+    "timestamp": "2025-05-26T01:39:37.313561",
+    "value": 194.38,
+    "trend": 80.5,
+    "seasonal": 12.71,
+    "noise": 1.17
+  },
+  {
+    "timestamp": "2025-05-26T02:39:37.313570",
+    "value": 188.7,
+    "trend": 80.6,
+    "seasonal": 12.92,
+    "noise": -4.82
+  },
+  {
+    "timestamp": "2025-05-26T03:39:37.313579",
+    "value": 193.09,
+    "trend": 80.7,
+    "seasonal": 13.12,
+    "noise": -0.73
+  },
+  {
+    "timestamp": "2025-05-26T04:39:37.313588",
+    "value": 194.96,
+    "trend": 80.8,
+    "seasonal": 13.33,
+    "noise": 0.83
+  },
+  {
+    "timestamp": "2025-05-26T05:39:37.313600",
+    "value": 192.49,
+    "trend": 80.9,
+    "seasonal": 13.54,
+    "noise": -1.95
+  },
+  {
+    "timestamp": "2025-05-26T06:39:37.313609",
+    "value": 191.71,
+    "trend": 81.0,
+    "seasonal": 13.75,
+    "noise": -3.04
+  },
+  {
+    "timestamp": "2025-05-26T07:39:37.313621",
+    "value": 193.21,
+    "trend": 81.1,
+    "seasonal": 13.96,
+    "noise": -1.85
+  },
+  {
+    "timestamp": "2025-05-26T08:39:37.313631",
+    "value": 199.48,
+    "trend": 81.2,
+    "seasonal": 14.17,
+    "noise": 4.11
+  },
+  {
+    "timestamp": "2025-05-26T09:39:37.313640",
+    "value": 193.22,
+    "trend": 81.3,
+    "seasonal": 14.38,
+    "noise": -2.46
+  },
+  {
+    "timestamp": "2025-05-26T10:39:37.313649",
+    "value": 199.1,
+    "trend": 81.4,
+    "seasonal": 14.58,
+    "noise": 3.11
+  },
+  {
+    "timestamp": "2025-05-26T11:39:37.313658",
+    "value": 198.17,
+    "trend": 81.5,
+    "seasonal": 14.79,
+    "noise": 1.88
+  },
+  {
+    "timestamp": "2025-05-26T12:39:37.313667",
+    "value": 192.54,
+    "trend": 81.6,
+    "seasonal": 10.0,
+    "noise": 0.94
+  },
+  {
+    "timestamp": "2025-05-26T13:39:37.313676",
+    "value": 188.94,
+    "trend": 81.7,
+    "seasonal": 10.21,
+    "noise": -2.97
+  },
+  {
+    "timestamp": "2025-05-26T14:39:37.313685",
+    "value": 193.51,
+    "trend": 81.8,
+    "seasonal": 10.42,
+    "noise": 1.29
+  },
+  {
+    "timestamp": "2025-05-26T15:39:37.313694",
+    "value": 187.91,
+    "trend": 81.9,
+    "seasonal": 10.62,
+    "noise": -4.62
+  },
+  {
+    "timestamp": "2025-05-26T16:39:37.313703",
+    "value": 195.67,
+    "trend": 82.0,
+    "seasonal": 10.83,
+    "noise": 2.83
+  },
+  {
+    "timestamp": "2025-05-26T17:39:37.313715",
+    "value": 188.39,
+    "trend": 82.1,
+    "seasonal": 11.04,
+    "noise": -4.75
+  },
+  {
+    "timestamp": "2025-05-26T18:39:37.313724",
+    "value": 193.66,
+    "trend": 82.2,
+    "seasonal": 11.25,
+    "noise": 0.21
+  },
+  {
+    "timestamp": "2025-05-26T19:39:37.313733",
+    "value": 190.35,
+    "trend": 82.3,
+    "seasonal": 11.46,
+    "noise": -3.41
+  },
+  {
+    "timestamp": "2025-05-26T20:39:37.313742",
+    "value": 192.3,
+    "trend": 82.4,
+    "seasonal": 11.67,
+    "noise": -1.77
+  },
+  {
+    "timestamp": "2025-05-26T21:39:37.313751",
+    "value": 195.82,
+    "trend": 82.5,
+    "seasonal": 11.88,
+    "noise": 1.45
+  },
+  {
+    "timestamp": "2025-05-26T22:39:37.313760",
+    "value": 190.85,
+    "trend": 82.6,
+    "seasonal": 12.08,
+    "noise": -3.84
+  },
+  {
+    "timestamp": "2025-05-26T23:39:37.313769",
+    "value": 197.09,
+    "trend": 82.7,
+    "seasonal": 12.29,
+    "noise": 2.1
+  },
+  {
+    "timestamp": "2025-05-27T00:39:37.313778",
+    "value": 196.95,
+    "trend": 82.8,
+    "seasonal": 12.5,
+    "noise": 1.65
+  },
+  {
+    "timestamp": "2025-05-27T01:39:37.313786",
+    "value": 195.03,
+    "trend": 82.9,
+    "seasonal": 12.71,
+    "noise": -0.58
+  },
+  {
+    "timestamp": "2025-05-27T02:39:37.313795",
+    "value": 192.43,
+    "trend": 83.0,
+    "seasonal": 12.92,
+    "noise": -3.49
+  },
+  {
+    "timestamp": "2025-05-27T03:39:37.313805",
+    "value": 193.21,
+    "trend": 83.1,
+    "seasonal": 13.12,
+    "noise": -3.02
+  },
+  {
+    "timestamp": "2025-05-27T04:39:37.313814",
+    "value": 191.59,
+    "trend": 83.2,
+    "seasonal": 13.33,
+    "noise": -4.94
+  },
+  {
+    "timestamp": "2025-05-27T05:39:37.313823",
+    "value": 194.8,
+    "trend": 83.3,
+    "seasonal": 13.54,
+    "noise": -2.04
+  },
+  {
+    "timestamp": "2025-05-27T06:39:37.313832",
+    "value": 197.07,
+    "trend": 83.4,
+    "seasonal": 13.75,
+    "noise": -0.08
+  },
+  {
+    "timestamp": "2025-05-27T07:39:37.313840",
+    "value": 200.3,
+    "trend": 83.5,
+    "seasonal": 13.96,
+    "noise": 2.84
+  },
+  {
+    "timestamp": "2025-05-27T08:39:37.313849",
+    "value": 192.89,
+    "trend": 83.6,
+    "seasonal": 14.17,
+    "noise": -4.87
+  },
+  {
+    "timestamp": "2025-05-27T09:39:37.313858",
+    "value": 194.81,
+    "trend": 83.7,
+    "seasonal": 14.38,
+    "noise": -3.27
+  },
+  {
+    "timestamp": "2025-05-27T10:39:37.313867",
+    "value": 195.08,
+    "trend": 83.8,
+    "seasonal": 14.58,
+    "noise": -3.3
+  },
+  {
+    "timestamp": "2025-05-27T11:39:37.313876",
+    "value": 196.92,
+    "trend": 83.9,
+    "seasonal": 14.79,
+    "noise": -1.77
+  },
+  {
+    "timestamp": "2025-05-27T12:39:37.313885",
+    "value": 198.16,
+    "trend": 84.0,
+    "seasonal": 10.0,
+    "noise": 4.16
+  },
+  {
+    "timestamp": "2025-05-27T13:39:37.313897",
+    "value": 195.92,
+    "trend": 84.1,
+    "seasonal": 10.21,
+    "noise": 1.61
+  },
+  {
+    "timestamp": "2025-05-27T14:39:37.313906",
+    "value": 190.42,
+    "trend": 84.2,
+    "seasonal": 10.42,
+    "noise": -4.2
+  },
+  {
+    "timestamp": "2025-05-27T15:39:37.313915",
+    "value": 192.47,
+    "trend": 84.3,
+    "seasonal": 10.62,
+    "noise": -2.45
+  },
+  {
+    "timestamp": "2025-05-27T16:39:37.313924",
+    "value": 191.17,
+    "trend": 84.4,
+    "seasonal": 10.83,
+    "noise": -4.07
+  },
+  {
+    "timestamp": "2025-05-27T17:39:37.313933",
+    "value": 194.75,
+    "trend": 84.5,
+    "seasonal": 11.04,
+    "noise": -0.79
+  },
+  {
+    "timestamp": "2025-05-27T18:39:37.313942",
+    "value": 200.79,
+    "trend": 84.6,
+    "seasonal": 11.25,
+    "noise": 4.94
+  },
+  {
+    "timestamp": "2025-05-27T19:39:37.313951",
+    "value": 196.62,
+    "trend": 84.7,
+    "seasonal": 11.46,
+    "noise": 0.46
+  },
+  {
+    "timestamp": "2025-05-27T20:39:37.313960",
+    "value": 200.54,
+    "trend": 84.8,
+    "seasonal": 11.67,
+    "noise": 4.07
+  },
+  {
+    "timestamp": "2025-05-27T21:39:37.313969",
+    "value": 195.24,
+    "trend": 84.9,
+    "seasonal": 11.88,
+    "noise": -1.54
+  },
+  {
+    "timestamp": "2025-05-27T22:39:37.313978",
+    "value": 201.34,
+    "trend": 85.0,
+    "seasonal": 12.08,
+    "noise": 4.26
+  },
+  {
+    "timestamp": "2025-05-27T23:39:37.313987",
+    "value": 197.31,
+    "trend": 85.1,
+    "seasonal": 12.29,
+    "noise": -0.08
+  },
+  {
+    "timestamp": "2025-05-28T00:39:37.313996",
+    "value": 195.36,
+    "trend": 85.2,
+    "seasonal": 12.5,
+    "noise": -2.34
+  },
+  {
+    "timestamp": "2025-05-28T01:39:37.314008",
+    "value": 193.32,
+    "trend": 85.3,
+    "seasonal": 12.71,
+    "noise": -4.68
+  },
+  {
+    "timestamp": "2025-05-28T02:39:37.314017",
+    "value": 197.2,
+    "trend": 85.4,
+    "seasonal": 12.92,
+    "noise": -1.12
+  },
+  {
+    "timestamp": "2025-05-28T03:39:37.314026",
+    "value": 203.4,
+    "trend": 85.5,
+    "seasonal": 13.12,
+    "noise": 4.77
+  },
+  {
+    "timestamp": "2025-05-28T04:39:37.314036",
+    "value": 198.42,
+    "trend": 85.6,
+    "seasonal": 13.33,
+    "noise": -0.51
+  },
+  {
+    "timestamp": "2025-05-28T05:39:37.314045",
+    "value": 194.6,
+    "trend": 85.7,
+    "seasonal": 13.54,
+    "noise": -4.64
+  },
+  {
+    "timestamp": "2025-05-28T06:39:37.314053",
+    "value": 202.26,
+    "trend": 85.8,
+    "seasonal": 13.75,
+    "noise": 2.71
+  },
+  {
+    "timestamp": "2025-05-28T07:39:37.314062",
+    "value": 197.54,
+    "trend": 85.9,
+    "seasonal": 13.96,
+    "noise": -2.32
+  },
+  {
+    "timestamp": "2025-05-28T08:39:37.314071",
+    "value": 196.81,
+    "trend": 86.0,
+    "seasonal": 14.17,
+    "noise": -3.35
+  },
+  {
+    "timestamp": "2025-05-28T09:39:37.314087",
+    "value": 196.61,
+    "trend": 86.1,
+    "seasonal": 14.38,
+    "noise": -3.86
+  },
+  {
+    "timestamp": "2025-05-28T10:39:37.314097",
+    "value": 197.66,
+    "trend": 86.2,
+    "seasonal": 14.58,
+    "noise": -3.12
+  },
+  {
+    "timestamp": "2025-05-28T11:39:37.314106",
+    "value": 198.13,
+    "trend": 86.3,
+    "seasonal": 14.79,
+    "noise": -2.96
+  },
+  {
+    "timestamp": "2025-05-28T12:39:37.314115",
+    "value": 198.95,
+    "trend": 86.4,
+    "seasonal": 10.0,
+    "noise": 2.55
+  },
+  {
+    "timestamp": "2025-05-28T13:39:37.314124",
+    "value": 197.82,
+    "trend": 86.5,
+    "seasonal": 10.21,
+    "noise": 1.11
+  },
+  {
+    "timestamp": "2025-05-28T14:39:37.314133",
+    "value": 196.08,
+    "trend": 86.6,
+    "seasonal": 10.42,
+    "noise": -0.94
+  },
+  {
+    "timestamp": "2025-05-28T15:39:37.314142",
+    "value": 198.63,
+    "trend": 86.7,
+    "seasonal": 10.62,
+    "noise": 1.31
+  },
+  {
+    "timestamp": "2025-05-28T16:39:37.314151",
+    "value": 193.67,
+    "trend": 86.8,
+    "seasonal": 10.83,
+    "noise": -3.97
+  },
+  {
+    "timestamp": "2025-05-28T17:39:37.314160",
+    "value": 200.55,
+    "trend": 86.9,
+    "seasonal": 11.04,
+    "noise": 2.61
+  },
+  {
+    "timestamp": "2025-05-28T18:39:37.314169",
+    "value": 202.85,
+    "trend": 87.0,
+    "seasonal": 11.25,
+    "noise": 4.6
+  },
+  {
+    "timestamp": "2025-05-28T19:39:37.314177",
+    "value": 202.45,
+    "trend": 87.1,
+    "seasonal": 11.46,
+    "noise": 3.89
+  },
+  {
+    "timestamp": "2025-05-28T20:39:37.314189",
+    "value": 199.3,
+    "trend": 87.2,
+    "seasonal": 11.67,
+    "noise": 0.43
+  },
+  {
+    "timestamp": "2025-05-28T21:39:37.314199",
+    "value": 202.19,
+    "trend": 87.3,
+    "seasonal": 11.88,
+    "noise": 3.01
+  },
+  {
+    "timestamp": "2025-05-28T22:39:37.314208",
+    "value": 198.72,
+    "trend": 87.4,
+    "seasonal": 12.08,
+    "noise": -0.77
+  },
+  {
+    "timestamp": "2025-05-28T23:39:37.314217",
+    "value": 201.4,
+    "trend": 87.5,
+    "seasonal": 12.29,
+    "noise": 1.61
+  },
+  {
+    "timestamp": "2025-05-29T00:39:37.314226",
+    "value": 198.64,
+    "trend": 87.6,
+    "seasonal": 12.5,
+    "noise": -1.46
+  },
+  {
+    "timestamp": "2025-05-29T01:39:37.314235",
+    "value": 204.93,
+    "trend": 87.7,
+    "seasonal": 12.71,
+    "noise": 4.52
+  },
+  {
+    "timestamp": "2025-05-29T02:39:37.314244",
+    "value": 197.08,
+    "trend": 87.8,
+    "seasonal": 12.92,
+    "noise": -3.63
+  },
+  {
+    "timestamp": "2025-05-29T03:39:37.314252",
+    "value": 196.63,
+    "trend": 87.9,
+    "seasonal": 13.12,
+    "noise": -4.39
+  },
+  {
+    "timestamp": "2025-05-29T04:39:37.314262",
+    "value": 204.74,
+    "trend": 88.0,
+    "seasonal": 13.33,
+    "noise": 3.41
+  },
+  {
+    "timestamp": "2025-05-29T05:39:37.314271",
+    "value": 200.47,
+    "trend": 88.1,
+    "seasonal": 13.54,
+    "noise": -1.17
+  },
+  {
+    "timestamp": "2025-05-29T06:39:37.314280",
+    "value": 200.81,
+    "trend": 88.2,
+    "seasonal": 13.75,
+    "noise": -1.14
+  },
+  {
+    "timestamp": "2025-05-29T07:39:37.314289",
+    "value": 204.47,
+    "trend": 88.3,
+    "seasonal": 13.96,
+    "noise": 2.21
+  },
+  {
+    "timestamp": "2025-05-29T08:39:37.314301",
+    "value": 205.93,
+    "trend": 88.4,
+    "seasonal": 14.17,
+    "noise": 3.37
+  },
+  {
+    "timestamp": "2025-05-29T09:39:37.314310",
+    "value": 207.87,
+    "trend": 88.5,
+    "seasonal": 14.38,
+    "noise": 5.0
+  },
+  {
+    "timestamp": "2025-05-29T10:39:37.314319",
+    "value": 201.94,
+    "trend": 88.6,
+    "seasonal": 14.58,
+    "noise": -1.24
+  },
+  {
+    "timestamp": "2025-05-29T11:39:37.314328",
+    "value": 203.13,
+    "trend": 88.7,
+    "seasonal": 14.79,
+    "noise": -0.36
+  },
+  {
+    "timestamp": "2025-05-29T12:39:37.314337",
+    "value": 201.97,
+    "trend": 88.8,
+    "seasonal": 10.0,
+    "noise": 3.17
+  },
+  {
+    "timestamp": "2025-05-29T13:39:37.314346",
+    "value": 197.93,
+    "trend": 88.9,
+    "seasonal": 10.21,
+    "noise": -1.18
+  },
+  {
+    "timestamp": "2025-05-29T14:39:37.314355",
+    "value": 197.73,
+    "trend": 89.0,
+    "seasonal": 10.42,
+    "noise": -1.69
+  },
+  {
+    "timestamp": "2025-05-29T15:39:37.314364",
+    "value": 195.2,
+    "trend": 89.1,
+    "seasonal": 10.62,
+    "noise": -4.52
+  },
+  {
+    "timestamp": "2025-05-29T16:39:37.314377",
+    "value": 197.65,
+    "trend": 89.2,
+    "seasonal": 10.83,
+    "noise": -2.39
+  },
+  {
+    "timestamp": "2025-05-29T17:39:37.314386",
+    "value": 198.87,
+    "trend": 89.3,
+    "seasonal": 11.04,
+    "noise": -1.47
+  },
+  {
+    "timestamp": "2025-05-29T18:39:37.314395",
+    "value": 203.1,
+    "trend": 89.4,
+    "seasonal": 11.25,
+    "noise": 2.45
+  },
+  {
+    "timestamp": "2025-05-29T19:39:37.314404",
+    "value": 196.74,
+    "trend": 89.5,
+    "seasonal": 11.46,
+    "noise": -4.22
+  },
+  {
+    "timestamp": "2025-05-29T20:39:37.314413",
+    "value": 204.94,
+    "trend": 89.6,
+    "seasonal": 11.67,
+    "noise": 3.67
+  },
+  {
+    "timestamp": "2025-05-29T21:39:37.314421",
+    "value": 205.43,
+    "trend": 89.7,
+    "seasonal": 11.88,
+    "noise": 3.86
+  },
+  {
+    "timestamp": "2025-05-29T22:39:37.314430",
+    "value": 199.94,
+    "trend": 89.8,
+    "seasonal": 12.08,
+    "noise": -1.94
+  },
+  {
+    "timestamp": "2025-05-29T23:39:37.314439",
+    "value": 205.13,
+    "trend": 89.9,
+    "seasonal": 12.29,
+    "noise": 2.94
+  },
+  {
+    "timestamp": "2025-05-30T00:39:37.314448",
+    "value": 205.78,
+    "trend": 90.0,
+    "seasonal": 12.5,
+    "noise": 3.28
+  },
+  {
+    "timestamp": "2025-05-30T01:39:37.314457",
+    "value": 203.54,
+    "trend": 90.1,
+    "seasonal": 12.71,
+    "noise": 0.74
+  },
+  {
+    "timestamp": "2025-05-30T02:39:37.314466",
+    "value": 203.76,
+    "trend": 90.2,
+    "seasonal": 12.92,
+    "noise": 0.65
+  },
+  {
+    "timestamp": "2025-05-30T03:39:37.314475",
+    "value": 201.99,
+    "trend": 90.3,
+    "seasonal": 13.12,
+    "noise": -1.44
+  },
+  {
+    "timestamp": "2025-05-30T04:39:37.314486",
+    "value": 207.56,
+    "trend": 90.4,
+    "seasonal": 13.33,
+    "noise": 3.83
+  },
+  {
+    "timestamp": "2025-05-30T05:39:37.314496",
+    "value": 207.85,
+    "trend": 90.5,
+    "seasonal": 13.54,
+    "noise": 3.81
+  },
+  {
+    "timestamp": "2025-05-30T06:39:37.314507",
+    "value": 205.14,
+    "trend": 90.6,
+    "seasonal": 13.75,
+    "noise": 0.79
+  },
+  {
+    "timestamp": "2025-05-30T07:39:37.314516",
+    "value": 201.36,
+    "trend": 90.7,
+    "seasonal": 13.96,
+    "noise": -3.29
+  },
+  {
+    "timestamp": "2025-05-30T08:39:37.314524",
+    "value": 204.29,
+    "trend": 90.8,
+    "seasonal": 14.17,
+    "noise": -0.68
+  },
+  {
+    "timestamp": "2025-05-30T09:39:37.314533",
+    "value": 200.36,
+    "trend": 90.9,
+    "seasonal": 14.38,
+    "noise": -4.92
+  },
+  {
+    "timestamp": "2025-05-30T10:39:37.314542",
+    "value": 205.79,
+    "trend": 91.0,
+    "seasonal": 14.58,
+    "noise": 0.21
+  },
+  {
+    "timestamp": "2025-05-30T11:39:37.314551",
+    "value": 207.18,
+    "trend": 91.1,
+    "seasonal": 14.79,
+    "noise": 1.29
+  },
+  {
+    "timestamp": "2025-05-30T12:39:37.314563",
+    "value": 203.85,
+    "trend": 91.2,
+    "seasonal": 10.0,
+    "noise": 2.65
+  },
+  {
+    "timestamp": "2025-05-30T13:39:37.314572",
+    "value": 197.58,
+    "trend": 91.3,
+    "seasonal": 10.21,
+    "noise": -3.93
+  },
+  {
+    "timestamp": "2025-05-30T14:39:37.314581",
+    "value": 199.2,
+    "trend": 91.4,
+    "seasonal": 10.42,
+    "noise": -2.62
+  },
+  {
+    "timestamp": "2025-05-30T15:39:37.314590",
+    "value": 203.89,
+    "trend": 91.5,
+    "seasonal": 10.62,
+    "noise": 1.76
+  },
+  {
+    "timestamp": "2025-05-30T16:39:37.314602",
+    "value": 198.96,
+    "trend": 91.6,
+    "seasonal": 10.83,
+    "noise": -3.47
+  },
+  {
+    "timestamp": "2025-05-30T17:39:37.314611",
+    "value": 204.58,
+    "trend": 91.7,
+    "seasonal": 11.04,
+    "noise": 1.83
+  },
+  {
+    "timestamp": "2025-05-30T18:39:37.314620",
+    "value": 199.46,
+    "trend": 91.8,
+    "seasonal": 11.25,
+    "noise": -3.59
+  },
+  {
+    "timestamp": "2025-05-30T19:39:37.314629",
+    "value": 200.82,
+    "trend": 91.9,
+    "seasonal": 11.46,
+    "noise": -2.54
+  },
+  {
+    "timestamp": "2025-05-30T20:39:37.314638",
+    "value": 208.05,
+    "trend": 92.0,
+    "seasonal": 11.67,
+    "noise": 4.39
+  },
+  {
+    "timestamp": "2025-05-30T21:39:37.314647",
+    "value": 205.7,
+    "trend": 92.1,
+    "seasonal": 11.88,
+    "noise": 1.73
+  },
+  {
+    "timestamp": "2025-05-30T22:39:37.314657",
+    "value": 206.53,
+    "trend": 92.2,
+    "seasonal": 12.08,
+    "noise": 2.25
+  },
+  {
+    "timestamp": "2025-05-30T23:39:37.314666",
+    "value": 207.2,
+    "trend": 92.3,
+    "seasonal": 12.29,
+    "noise": 2.61
+  },
+  {
+    "timestamp": "2025-05-31T00:39:37.314679",
+    "value": 203.27,
+    "trend": 92.4,
+    "seasonal": 12.5,
+    "noise": -1.63
+  },
+  {
+    "timestamp": "2025-05-31T01:39:37.314687",
+    "value": 205.85,
+    "trend": 92.5,
+    "seasonal": 12.71,
+    "noise": 0.64
+  },
+  {
+    "timestamp": "2025-05-31T02:39:37.314697",
+    "value": 205.88,
+    "trend": 92.6,
+    "seasonal": 12.92,
+    "noise": 0.37
+  },
+  {
+    "timestamp": "2025-05-31T03:39:37.314706",
+    "value": 210.47,
+    "trend": 92.7,
+    "seasonal": 13.12,
+    "noise": 4.65
+  },
+  {
+    "timestamp": "2025-05-31T04:39:37.314715",
+    "value": 209.74,
+    "trend": 92.8,
+    "seasonal": 13.33,
+    "noise": 3.61
+  },
+  {
+    "timestamp": "2025-05-31T05:39:37.314724",
+    "value": 207.07,
+    "trend": 92.9,
+    "seasonal": 13.54,
+    "noise": 0.63
+  },
+  {
+    "timestamp": "2025-05-31T06:39:37.314732",
+    "value": 210.29,
+    "trend": 93.0,
+    "seasonal": 13.75,
+    "noise": 3.54
+  },
+  {
+    "timestamp": "2025-05-31T07:39:37.314741",
+    "value": 202.41,
+    "trend": 93.1,
+    "seasonal": 13.96,
+    "noise": -4.65
+  },
+  {
+    "timestamp": "2025-05-31T08:39:37.314750",
+    "value": 205.86,
+    "trend": 93.2,
+    "seasonal": 14.17,
+    "noise": -1.51
+  },
+  {
+    "timestamp": "2025-05-31T09:39:37.314759",
+    "value": 207.98,
+    "trend": 93.3,
+    "seasonal": 14.38,
+    "noise": 0.3
+  },
+  {
+    "timestamp": "2025-05-31T10:39:37.314768",
+    "value": 205.03,
+    "trend": 93.4,
+    "seasonal": 14.58,
+    "noise": -2.95
+  },
+  {
+    "timestamp": "2025-05-31T11:39:37.314777",
+    "value": 209.34,
+    "trend": 93.5,
+    "seasonal": 14.79,
+    "noise": 1.05
+  },
+  {
+    "timestamp": "2025-05-31T12:39:37.314788",
+    "value": 208.6,
+    "trend": 93.6,
+    "seasonal": 10.0,
+    "noise": 5.0
+  },
+  {
+    "timestamp": "2025-05-31T13:39:37.314798",
+    "value": 199.34,
+    "trend": 93.7,
+    "seasonal": 10.21,
+    "noise": -4.57
+  },
+  {
+    "timestamp": "2025-05-31T14:39:37.314806",
+    "value": 207.83,
+    "trend": 93.8,
+    "seasonal": 10.42,
+    "noise": 3.61
+  },
+  {
+    "timestamp": "2025-05-31T15:39:37.314815",
+    "value": 201.47,
+    "trend": 93.9,
+    "seasonal": 10.62,
+    "noise": -3.05
+  },
+  {
+    "timestamp": "2025-05-31T16:39:37.314824",
+    "value": 209.54,
+    "trend": 94.0,
+    "seasonal": 10.83,
+    "noise": 4.71
+  },
+  {
+    "timestamp": "2025-05-31T17:39:37.314833",
+    "value": 205.03,
+    "trend": 94.1,
+    "seasonal": 11.04,
+    "noise": -0.11
+  },
+  {
+    "timestamp": "2025-05-31T18:39:37.314842",
+    "value": 209.35,
+    "trend": 94.2,
+    "seasonal": 11.25,
+    "noise": 3.9
+  },
+  {
+    "timestamp": "2025-05-31T19:39:37.314851",
+    "value": 208.1,
+    "trend": 94.3,
+    "seasonal": 11.46,
+    "noise": 2.34
+  },
+  {
+    "timestamp": "2025-05-31T20:39:37.314859",
+    "value": 206.48,
+    "trend": 94.4,
+    "seasonal": 11.67,
+    "noise": 0.41
+  },
+  {
+    "timestamp": "2025-05-31T21:39:37.314868",
+    "value": 209.49,
+    "trend": 94.5,
+    "seasonal": 11.88,
+    "noise": 3.12
+  },
+  {
+    "timestamp": "2025-05-31T22:39:37.314877",
+    "value": 203.95,
+    "trend": 94.6,
+    "seasonal": 12.08,
+    "noise": -2.73
+  },
+  {
+    "timestamp": "2025-05-31T23:39:37.314886",
+    "value": 211.0,
+    "trend": 94.7,
+    "seasonal": 12.29,
+    "noise": 4.01
+  },
+  {
+    "timestamp": "2025-06-01T00:39:37.314898",
+    "value": 205.2,
+    "trend": 94.8,
+    "seasonal": 12.5,
+    "noise": -2.1
+  },
+  {
+    "timestamp": "2025-06-01T01:39:37.314907",
+    "value": 203.65,
+    "trend": 94.9,
+    "seasonal": 12.71,
+    "noise": -3.95
+  },
+  {
+    "timestamp": "2025-06-01T02:39:37.314916",
+    "value": 207.22,
+    "trend": 95.0,
+    "seasonal": 12.92,
+    "noise": -0.69
+  },
+  {
+    "timestamp": "2025-06-01T03:39:37.314926",
+    "value": 207.97,
+    "trend": 95.1,
+    "seasonal": 13.12,
+    "noise": -0.25
+  },
+  {
+    "timestamp": "2025-06-01T04:39:37.314935",
+    "value": 211.45,
+    "trend": 95.2,
+    "seasonal": 13.33,
+    "noise": 2.92
+  },
+  {
+    "timestamp": "2025-06-01T05:39:37.314944",
+    "value": 209.77,
+    "trend": 95.3,
+    "seasonal": 13.54,
+    "noise": 0.92
+  },
+  {
+    "timestamp": "2025-06-01T06:39:37.314952",
+    "value": 211.11,
+    "trend": 95.4,
+    "seasonal": 13.75,
+    "noise": 1.96
+  },
+  {
+    "timestamp": "2025-06-01T07:39:37.314961",
+    "value": 213.17,
+    "trend": 95.5,
+    "seasonal": 13.96,
+    "noise": 3.71
+  },
+  {
+    "timestamp": "2025-06-01T08:39:37.314970",
+    "value": 210.58,
+    "trend": 95.6,
+    "seasonal": 14.17,
+    "noise": 0.82
+  },
+  {
+    "timestamp": "2025-06-01T09:39:37.314979",
+    "value": 211.54,
+    "trend": 95.7,
+    "seasonal": 14.38,
+    "noise": 1.47
+  },
+  {
+    "timestamp": "2025-06-01T10:39:37.314988",
+    "value": 212.73,
+    "trend": 95.8,
+    "seasonal": 14.58,
+    "noise": 2.34
+  },
+  {
+    "timestamp": "2025-06-01T11:39:37.314996",
+    "value": 208.98,
+    "trend": 95.9,
+    "seasonal": 14.79,
+    "noise": -1.72
+  },
+  {
+    "timestamp": "2025-06-01T12:39:37.315005",
+    "value": 209.45,
+    "trend": 96.0,
+    "seasonal": 10.0,
+    "noise": 3.45
+  },
+  {
+    "timestamp": "2025-06-01T13:39:37.315014",
+    "value": 210.12,
+    "trend": 96.1,
+    "seasonal": 10.21,
+    "noise": 3.81
+  },
+  {
+    "timestamp": "2025-06-01T14:39:37.315023",
+    "value": 207.4,
+    "trend": 96.2,
+    "seasonal": 10.42,
+    "noise": 0.79
+  },
+  {
+    "timestamp": "2025-06-01T15:39:37.315034",
+    "value": 202.28,
+    "trend": 96.3,
+    "seasonal": 10.62,
+    "noise": -4.65
+  },
+  {
+    "timestamp": "2025-06-01T16:39:37.315044",
+    "value": 205.77,
+    "trend": 96.4,
+    "seasonal": 10.83,
+    "noise": -1.46
+  },
+  {
+    "timestamp": "2025-06-01T17:39:37.315053",
+    "value": 207.39,
+    "trend": 96.5,
+    "seasonal": 11.04,
+    "noise": -0.15
+  },
+  {
+    "timestamp": "2025-06-01T18:39:37.315061",
+    "value": 212.57,
+    "trend": 96.6,
+    "seasonal": 11.25,
+    "noise": 4.72
+  },
+  {
+    "timestamp": "2025-06-01T19:39:37.315070",
+    "value": 210.75,
+    "trend": 96.7,
+    "seasonal": 11.46,
+    "noise": 2.6
+  },
+  {
+    "timestamp": "2025-06-01T20:39:37.315082",
+    "value": 206.95,
+    "trend": 96.8,
+    "seasonal": 11.67,
+    "noise": -1.52
+  },
+  {
+    "timestamp": "2025-06-01T21:39:37.315091",
+    "value": 210.84,
+    "trend": 96.9,
+    "seasonal": 11.88,
+    "noise": 2.07
+  },
+  {
+    "timestamp": "2025-06-01T22:39:37.315100",
+    "value": 204.33,
+    "trend": 97.0,
+    "seasonal": 12.08,
+    "noise": -4.76
+  },
+  {
+    "timestamp": "2025-06-01T23:39:37.315109",
+    "value": 208.76,
+    "trend": 97.1,
+    "seasonal": 12.29,
+    "noise": -0.64
+  },
+  {
+    "timestamp": "2025-06-02T00:39:37.315118",
+    "value": 214.14,
+    "trend": 97.2,
+    "seasonal": 12.5,
+    "noise": 4.44
+  },
+  {
+    "timestamp": "2025-06-02T01:39:37.315128",
+    "value": 214.95,
+    "trend": 97.3,
+    "seasonal": 12.71,
+    "noise": 4.94
+  },
+  {
+    "timestamp": "2025-06-02T02:39:37.315137",
+    "value": 214.21,
+    "trend": 97.4,
+    "seasonal": 12.92,
+    "noise": 3.9
+  },
+  {
+    "timestamp": "2025-06-02T03:39:37.315146",
+    "value": 208.1,
+    "trend": 97.5,
+    "seasonal": 13.12,
+    "noise": -2.53
+  },
+  {
+    "timestamp": "2025-06-02T04:39:37.315155",
+    "value": 210.48,
+    "trend": 97.6,
+    "seasonal": 13.33,
+    "noise": -0.45
+  },
+  {
+    "timestamp": "2025-06-02T05:39:37.315164",
+    "value": 210.58,
+    "trend": 97.7,
+    "seasonal": 13.54,
+    "noise": -0.66
+  },
+  {
+    "timestamp": "2025-06-02T06:39:37.315173",
+    "value": 208.62,
+    "trend": 97.8,
+    "seasonal": 13.75,
+    "noise": -2.93
+  },
+  {
+    "timestamp": "2025-06-02T07:39:37.315182",
+    "value": 213.29,
+    "trend": 97.9,
+    "seasonal": 13.96,
+    "noise": 1.44
+  },
+  {
+    "timestamp": "2025-06-02T08:39:37.315194",
+    "value": 209.62,
+    "trend": 98.0,
+    "seasonal": 14.17,
+    "noise": -2.54
+  },
+  {
+    "timestamp": "2025-06-02T09:39:37.315203",
+    "value": 215.19,
+    "trend": 98.1,
+    "seasonal": 14.38,
+    "noise": 2.72
+  },
+  {
+    "timestamp": "2025-06-02T10:39:37.315213",
+    "value": 217.04,
+    "trend": 98.2,
+    "seasonal": 14.58,
+    "noise": 4.26
+  },
+  {
+    "timestamp": "2025-06-02T11:39:37.315222",
+    "value": 211.27,
+    "trend": 98.3,
+    "seasonal": 14.79,
+    "noise": -1.83
+  },
+  {
+    "timestamp": "2025-06-02T12:39:37.315230",
+    "value": 211.41,
+    "trend": 98.4,
+    "seasonal": 10.0,
+    "noise": 3.01
+  },
+  {
+    "timestamp": "2025-06-02T13:39:37.315239",
+    "value": 207.84,
+    "trend": 98.5,
+    "seasonal": 10.21,
+    "noise": -0.87
+  },
+  {
+    "timestamp": "2025-06-02T14:39:37.315248",
+    "value": 208.26,
+    "trend": 98.6,
+    "seasonal": 10.42,
+    "noise": -0.75
+  },
+  {
+    "timestamp": "2025-06-02T15:39:37.315257",
+    "value": 207.47,
+    "trend": 98.7,
+    "seasonal": 10.62,
+    "noise": -1.86
+  },
+  {
+    "timestamp": "2025-06-02T16:39:37.315269",
+    "value": 213.78,
+    "trend": 98.8,
+    "seasonal": 10.83,
+    "noise": 4.15
+  },
+  {
+    "timestamp": "2025-06-02T17:39:37.315278",
+    "value": 211.19,
+    "trend": 98.9,
+    "seasonal": 11.04,
+    "noise": 1.25
+  },
+  {
+    "timestamp": "2025-06-02T18:39:37.315287",
+    "value": 210.88,
+    "trend": 99.0,
+    "seasonal": 11.25,
+    "noise": 0.63
+  },
+  {
+    "timestamp": "2025-06-02T19:39:37.315296",
+    "value": 207.36,
+    "trend": 99.1,
+    "seasonal": 11.46,
+    "noise": -3.2
+  },
+  {
+    "timestamp": "2025-06-02T20:39:37.315304",
+    "value": 209.96,
+    "trend": 99.2,
+    "seasonal": 11.67,
+    "noise": -0.91
+  },
+  {
+    "timestamp": "2025-06-02T21:39:37.315313",
+    "value": 207.82,
+    "trend": 99.3,
+    "seasonal": 11.88,
+    "noise": -3.36
+  },
+  {
+    "timestamp": "2025-06-02T22:39:37.315322",
+    "value": 211.24,
+    "trend": 99.4,
+    "seasonal": 12.08,
+    "noise": -0.24
+  },
+  {
+    "timestamp": "2025-06-02T23:39:37.315331",
+    "value": 208.47,
+    "trend": 99.5,
+    "seasonal": 12.29,
+    "noise": -3.33
+  },
+  {
+    "timestamp": "2025-06-03T00:39:37.315340",
+    "value": 209.74,
+    "trend": 99.6,
+    "seasonal": 12.5,
+    "noise": -2.36
+  },
+  {
+    "timestamp": "2025-06-03T01:39:37.315349",
+    "value": 209.69,
+    "trend": 99.7,
+    "seasonal": 12.71,
+    "noise": -2.72
+  },
+  {
+    "timestamp": "2025-06-03T02:39:37.315357",
+    "value": 215.28,
+    "trend": 99.8,
+    "seasonal": 12.92,
+    "noise": 2.56
+  },
+  {
+    "timestamp": "2025-06-03T03:39:37.315368",
+    "value": 209.93,
+    "trend": 99.9,
+    "seasonal": 13.12,
+    "noise": -3.09
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "version": "v20250603_200348_ea375a80",
+  "model_name": "fraud_detection",
+  "created_at": "2025-06-03T20:03:48.163799",
+  "created_by": "asarekings",
+  "metadata": {
+    "performance_notes": "Optimized for production",
+    "description": "Manual version by asarekings"
+  },
+  "file_hash": "ea375a8030f93deca1496031a7406e259180357ea825db24958898df0fdf8993",
+  "file_size_bytes": 2223017,
+  "platform": "Enhanced MLOps Platform"
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLOps Dashboard - asarekings</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+        }
+        .dashboard { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+            gap: 20px; 
+            padding: 20px; 
+            max-width: 1400px; 
+            margin: 0 auto; 
+        }
+        .card { 
+            background: rgba(255, 255, 255, 0.1); 
+            backdrop-filter: blur(10px); 
+            border-radius: 15px; 
+            padding: 20px; 
+            border: 1px solid rgba(255, 255, 255, 0.2); 
+        }
+        .metric { display: flex; justify-content: space-between; margin: 10px 0; }
+        .status-good { color: #4ade80; }
+        .status-warning { color: #fbbf24; }
+        .status-error { color: #f87171; }
+        .refresh-btn { 
+            background: #4facfe; 
+            border: none; 
+            padding: 10px 20px; 
+            border-radius: 5px; 
+            color: white; 
+            cursor: pointer; 
+        }
+        .header { text-align: center; margin-bottom: 30px; }
+        .timestamp { opacity: 0.7; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 MLOps Dashboard</h1>
+        <p>by <strong>asarekings</strong> | Real-time Model Monitoring</p>
+        <p class="timestamp" id="timestamp">Loading...</p>
+    </div>
+    
+    <div class="dashboard">
+        <div class="card">
+            <h3>🏥 Platform Health</h3>
+            <div id="health-metrics">Loading...</div>
+            <button class="refresh-btn" onclick="refreshHealth()">Refresh</button>
+        </div>
+        
+        <div class="card">
+            <h3>🤖 Model Performance</h3>
+            <div id="model-performance">Loading...</div>
+            <button class="refresh-btn" onclick="refreshModels()">Refresh</button>
+        </div>
+        
+        <div class="card">
+            <h3>📊 Recent Predictions</h3>
+            <div id="recent-predictions">Loading...</div>
+            <button class="refresh-btn" onclick="testPrediction()">Test Prediction</button>
+        </div>
+        
+        <div class="card">
+            <h3>🔄 Automation Status</h3>
+            <div id="automation-status">Loading...</div>
+            <button class="refresh-btn" onclick="triggerRetrain()">Trigger Retrain</button>
+        </div>
+    </div>
+
+    <script>
+        // Dashboard JavaScript
+        async function refreshHealth() {
+            try {
+                const response = await fetch('/health');
+                const health = await response.json();
+                document.getElementById('health-metrics').innerHTML = `
+                    <div class="metric"><span>Status:</span><span class="status-good">${health.status}</span></div>
+                    <div class="metric"><span>Real ML:</span><span class="status-good">${health.real_ml_available}</span></div>
+                    <div class="metric"><span>Data Files:</span><span>${health.data_files}</span></div>
+                    <div class="metric"><span>Model Files:</span><span>${health.model_files}</span></div>
+                    <div class="metric"><span>Python:</span><span>${health.python_version}</span></div>
+                `;
+            } catch (error) {
+                document.getElementById('health-metrics').innerHTML = '<span class="status-error">Error loading health data</span>';
+            }
+        }
+        
+        async function refreshModels() {
+            try {
+                const response = await fetch('/api/v1/models');
+                const models = await response.json();
+                document.getElementById('model-performance').innerHTML = `
+                    <div class="metric"><span>Total Models:</span><span>${models.total_models}</span></div>
+                    <div class="metric"><span>Lightweight:</span><span>${models.total_lightweight}</span></div>
+                    <div class="metric"><span>Real ML:</span><span>${models.total_real}</span></div>
+                `;
+            } catch (error) {
+                document.getElementById('model-performance').innerHTML = '<span class="status-error">Error loading model data</span>';
+            }
+        }
+        
+        async function testPrediction() {
+            try {
+                const testData = {
+                    feature_1: Math.random() * 10 - 5,
+                    feature_2: Math.random() * 10,
+                    feature_3: Math.random() * 10,
+                    feature_4: Math.random() * 10 - 5
+                };
+                
+                const response = await fetch('/api/v1/predict/real/fraud_detection', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(testData)
+                });
+                
+                const result = await response.json();
+                document.getElementById('recent-predictions').innerHTML = `
+                    <div class="metric"><span>Prediction:</span><span>${result.prediction}</span></div>
+                    <div class="metric"><span>Confidence:</span><span>${result.confidence}</span></div>
+                    <div class="metric"><span>Model:</span><span>${result.model}</span></div>
+                `;
+            } catch (error) {
+                document.getElementById('recent-predictions').innerHTML = '<span class="status-error">Error making prediction</span>';
+            }
+        }
+        
+        // Auto-refresh every 30 seconds
+        setInterval(() => {
+            refreshHealth();
+            refreshModels();
+            document.getElementById('timestamp').textContent = new Date().toLocaleString();
+        }, 30000);
+        
+        // Initial load
+        refreshHealth();
+        refreshModels();
+        document.getElementById('timestamp').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>

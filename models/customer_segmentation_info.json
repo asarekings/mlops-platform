@@ -1,0 +1,18 @@
+{
+  "name": "customer_segmentation_svm",
+  "type": "classification",
+  "algorithm": "Support Vector Machine",
+  "accuracy": 0.259,
+  "features": [
+    "feature_1",
+    "feature_2",
+    "feature_3",
+    "feature_4",
+    "target"
+  ],
+  "trained_by": "asarekings",
+  "trained_at": "2025-06-03T20:06:31.023743",
+  "samples_trained": 4000,
+  "samples_tested": 1000,
+  "segments": 4
+}

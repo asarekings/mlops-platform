@@ -1,0 +1,15 @@
+﻿# MLOps Platform .gitignore
+# Author: asarekings
+# Generated: 2025-06-03 21:33:33 UTC
+
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.log
+models/*.pkl
+data/*.csv
+logs/
+.pytest_cache/
+.coverage
+htmlcov/

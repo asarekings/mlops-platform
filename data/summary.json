@@ -1,0 +1,22 @@
+{
+  "author": "asarekings",
+  "generated_at": "2025-06-03 04:29:30 UTC",
+  "platform": "Lightweight MLOps Platform",
+  "datasets": {
+    "sample_data": {
+      "file": "sample_data.csv",
+      "records": 5000,
+      "features": 8,
+      "format": "CSV/JSON"
+    },
+    "time_series": {
+      "file": "time_series.json",
+      "points": 1000,
+      "metrics": 4,
+      "format": "JSON"
+    }
+  },
+  "total_records": 6000,
+  "compatible": "Windows PowerShell",
+  "dependencies": "Minimal (No C++ Build Tools Required)"
+}

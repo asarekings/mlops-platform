@@ -1,0 +1,18 @@
+{
+  "name": "fraud_detection_rf",
+  "type": "classification",
+  "algorithm": "Random Forest",
+  "accuracy": 0.812,
+  "features": [
+    "feature_1",
+    "feature_2",
+    "feature_3",
+    "feature_4",
+    "category",
+    "region"
+  ],
+  "trained_by": "asarekings",
+  "trained_at": "2025-06-03T20:06:22.776425",
+  "samples_trained": 4000,
+  "samples_tested": 1000
+}

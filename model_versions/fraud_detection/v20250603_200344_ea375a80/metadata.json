@@ -1,0 +1,30 @@
+{
+  "version": "v20250603_200344_ea375a80",
+  "model_name": "fraud_detection",
+  "created_at": "2025-06-03T20:03:44.281182",
+  "created_by": "asarekings",
+  "metadata": {
+    "training_info": {
+      "name": "fraud_detection_rf",
+      "type": "classification",
+      "algorithm": "Random Forest",
+      "accuracy": 0.812,
+      "features": [
+        "feature_1",
+        "feature_2",
+        "feature_3",
+        "feature_4",
+        "category",
+        "region"
+      ],
+      "trained_by": "asarekings",
+      "trained_at": "2025-06-03T20:03:35.763186",
+      "samples_trained": 4000,
+      "samples_tested": 1000
+    },
+    "auto_versioned": true
+  },
+  "file_hash": "ea375a8030f93deca1496031a7406e259180357ea825db24958898df0fdf8993",
+  "file_size_bytes": 2223017,
+  "platform": "Enhanced MLOps Platform"
+}

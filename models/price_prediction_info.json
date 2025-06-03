@@ -1,0 +1,20 @@
+{
+  "name": "price_prediction_rf",
+  "type": "regression",
+  "algorithm": "Random Forest Regressor",
+  "rmse": 0.0,
+  "r2_score": 1.0,
+  "mse": 0.0,
+  "features": [
+    "feature_1",
+    "feature_2",
+    "feature_3",
+    "feature_4",
+    "category",
+    "region"
+  ],
+  "trained_by": "asarekings",
+  "trained_at": "2025-06-03T20:06:23.148167",
+  "samples_trained": 4000,
+  "samples_tested": 1000
+}

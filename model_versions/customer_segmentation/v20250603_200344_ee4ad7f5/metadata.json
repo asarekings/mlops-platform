@@ -1,0 +1,30 @@
+{
+  "version": "v20250603_200344_ee4ad7f5",
+  "model_name": "customer_segmentation",
+  "created_at": "2025-06-03T20:03:44.325786",
+  "created_by": "asarekings",
+  "metadata": {
+    "training_info": {
+      "name": "customer_segmentation_svm",
+      "type": "classification",
+      "algorithm": "Support Vector Machine",
+      "accuracy": 0.259,
+      "features": [
+        "feature_1",
+        "feature_2",
+        "feature_3",
+        "feature_4",
+        "target"
+      ],
+      "trained_by": "asarekings",
+      "trained_at": "2025-06-03T20:03:44.226623",
+      "samples_trained": 4000,
+      "samples_tested": 1000,
+      "segments": 4
+    },
+    "auto_versioned": true
+  },
+  "file_hash": "ee4ad7f541dd4afcd28213c1c42fbb717593ed82a005b570d7b67e98e4ea3480",
+  "file_size_bytes": 369359,
+  "platform": "Enhanced MLOps Platform"
+}
